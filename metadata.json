@@ -1,0 +1,6 @@
+{
+  "name": "Smart Crop Recommendation System",
+  "description": "A complete, production-ready Precision Agriculture Machine Learning codebase and interactive model exploration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

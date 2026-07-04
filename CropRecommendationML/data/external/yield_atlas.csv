@@ -1,0 +1,57 @@
+Crop,State,Expected_Yield_t_ha,Market_Price_per_tonne,Cultivation_Cost_per_ha
+Rice,Maharashtra,5.04,212.91,478.45
+Rice,Punjab,3.61,233.19,719.75
+Rice,Karnataka,4.55,418.85,638.72
+Rice,Tamil Nadu,5.77,331.29,418.82
+Rice,Uttar Pradesh,3.03,347.11,521.7
+Rice,Gujarat,2.87,259.53,566.1
+Rice,Andhra Pradesh,4.21,433.65,431.74
+Wheat,Maharashtra,3.68,326.51,439.64
+Wheat,Punjab,4.77,328.76,560.83
+Wheat,Karnataka,4.67,271.95,518.76
+Wheat,Tamil Nadu,3.04,330.93,530.34
+Wheat,Uttar Pradesh,3.36,231.19,408.13
+Wheat,Gujarat,3.14,261.86,569.9
+Wheat,Andhra Pradesh,3.3,404.41,565.95
+Cotton,Maharashtra,4.56,251.98,545.64
+Cotton,Punjab,4.49,277.76,517.67
+Cotton,Karnataka,5.16,409.3,586.53
+Cotton,Tamil Nadu,5.46,384.17,419.36
+Cotton,Uttar Pradesh,4.35,374.45,589.31
+Cotton,Gujarat,5.25,275.21,422.92
+Cotton,Andhra Pradesh,4.59,382.7,667.84
+Maize,Maharashtra,2.54,368.34,407.25
+Maize,Punjab,5.06,375.78,598.59
+Maize,Karnataka,4.17,378.78,420.02
+Maize,Tamil Nadu,5.25,250.31,567.23
+Maize,Uttar Pradesh,4.11,394.28,467.55
+Maize,Gujarat,3.49,365.78,544.47
+Maize,Andhra Pradesh,3.49,355.36,430.3
+Chickpea,Maharashtra,5.11,331.19,472.11
+Chickpea,Punjab,3.85,232.77,615.8
+Chickpea,Karnataka,4.71,301.32,518.89
+Chickpea,Tamil Nadu,5.3,344.02,633.46
+Chickpea,Uttar Pradesh,2.92,378.33,555.61
+Chickpea,Gujarat,3.71,432.35,418.88
+Chickpea,Andhra Pradesh,3.15,293.76,513.41
+Coffee,Maharashtra,4.19,300.23,675.9
+Coffee,Punjab,5.03,393.09,529.27
+Coffee,Karnataka,3.84,380.12,443.47
+Coffee,Tamil Nadu,5.31,335.31,696.99
+Coffee,Uttar Pradesh,5.12,293.6,435.55
+Coffee,Gujarat,5.54,286.15,530.81
+Coffee,Andhra Pradesh,5.5,429.34,492.02
+Groundnut,Maharashtra,2.79,200.28,553.4
+Groundnut,Punjab,4.38,267.58,490.91
+Groundnut,Karnataka,3.68,265.77,700.45
+Groundnut,Tamil Nadu,4.62,407.24,701.17
+Groundnut,Uttar Pradesh,3.94,319.39,742.24
+Groundnut,Gujarat,5.2,399.47,604.3
+Groundnut,Andhra Pradesh,4.02,423.65,681.59
+Sugarcane,Maharashtra,4.21,267.62,451.55
+Sugarcane,Punjab,4.32,274.01,492.48
+Sugarcane,Karnataka,2.85,208.62,674.17
+Sugarcane,Tamil Nadu,2.86,422.15,474.82
+Sugarcane,Uttar Pradesh,5.01,405.75,677.39
+Sugarcane,Gujarat,5.38,284.93,745.06
+Sugarcane,Andhra Pradesh,3.42,433.57,553.1

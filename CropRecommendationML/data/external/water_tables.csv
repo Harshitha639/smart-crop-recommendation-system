@@ -1,0 +1,4201 @@
+State,District,Irrigation_Type,Water_Availability,Groundwater_Level
+Maharashtra,Pune,Sprinkler,High,100.2
+Maharashtra,Pune,Drip,Low,70.7
+Maharashtra,Pune,Drip,High,66.8
+Maharashtra,Pune,Rainfed Only,Low,111.8
+Maharashtra,Pune,Drip,Low,29.8
+Maharashtra,Pune,Canal Flood,High,145.7
+Maharashtra,Pune,Canal Flood,High,97.2
+Maharashtra,Pune,Drip,Medium,110.5
+Maharashtra,Pune,Rainfed Only,High,124.6
+Maharashtra,Pune,Canal Flood,Medium,30.9
+Maharashtra,Pune,Sprinkler,High,117.5
+Maharashtra,Pune,Canal Flood,High,122.5
+Maharashtra,Pune,Drip,Medium,113.1
+Maharashtra,Pune,Canal Flood,Low,90.2
+Maharashtra,Pune,Drip,Medium,58.5
+Maharashtra,Pune,Rainfed Only,High,60.7
+Maharashtra,Pune,Drip,Low,117.0
+Maharashtra,Pune,Rainfed Only,Low,86.2
+Maharashtra,Pune,Drip,Medium,96.0
+Maharashtra,Pune,Rainfed Only,High,78.1
+Maharashtra,Pune,Sprinkler,High,115.9
+Maharashtra,Pune,Drip,High,52.9
+Maharashtra,Pune,Canal Flood,Medium,107.3
+Maharashtra,Pune,Drip,Low,74.0
+Maharashtra,Pune,Rainfed Only,Medium,86.6
+Maharashtra,Pune,Canal Flood,Low,60.7
+Maharashtra,Pune,Sprinkler,Low,74.2
+Maharashtra,Pune,Rainfed Only,High,71.5
+Maharashtra,Pune,Rainfed Only,Low,84.4
+Maharashtra,Pune,Canal Flood,High,103.0
+Maharashtra,Pune,Sprinkler,Low,92.6
+Maharashtra,Pune,Canal Flood,High,77.4
+Maharashtra,Pune,Drip,Low,62.3
+Maharashtra,Pune,Rainfed Only,High,26.9
+Maharashtra,Pune,Drip,Low,99.3
+Maharashtra,Pune,Drip,Low,70.5
+Maharashtra,Pune,Canal Flood,Low,8.2
+Maharashtra,Pune,Rainfed Only,Medium,83.2
+Maharashtra,Pune,Drip,High,32.4
+Maharashtra,Pune,Sprinkler,High,76.3
+Maharashtra,Pune,Canal Flood,High,135.8
+Maharashtra,Pune,Drip,Medium,129.6
+Maharashtra,Pune,Sprinkler,Medium,132.1
+Maharashtra,Pune,Canal Flood,High,83.2
+Maharashtra,Pune,Sprinkler,High,123.5
+Maharashtra,Pune,Drip,High,105.7
+Maharashtra,Pune,Rainfed Only,Medium,47.0
+Maharashtra,Pune,Rainfed Only,Low,70.1
+Maharashtra,Pune,Drip,Medium,122.4
+Maharashtra,Pune,Sprinkler,Medium,71.5
+Maharashtra,Pune,Sprinkler,Low,149.6
+Maharashtra,Pune,Drip,Low,65.2
+Maharashtra,Pune,Canal Flood,Low,138.8
+Maharashtra,Pune,Drip,High,104.3
+Maharashtra,Pune,Rainfed Only,High,77.8
+Maharashtra,Pune,Drip,Medium,68.3
+Maharashtra,Pune,Drip,High,113.7
+Maharashtra,Pune,Sprinkler,Medium,52.1
+Maharashtra,Pune,Rainfed Only,High,111.1
+Maharashtra,Pune,Sprinkler,Low,98.0
+Maharashtra,Pune,Sprinkler,High,104.8
+Maharashtra,Pune,Canal Flood,Low,75.3
+Maharashtra,Pune,Rainfed Only,Low,137.6
+Maharashtra,Pune,Sprinkler,Low,63.6
+Maharashtra,Pune,Canal Flood,High,119.4
+Maharashtra,Pune,Drip,Medium,128.6
+Maharashtra,Pune,Sprinkler,High,83.5
+Maharashtra,Pune,Drip,High,71.1
+Maharashtra,Pune,Canal Flood,Medium,80.5
+Maharashtra,Pune,Sprinkler,Low,100.3
+Maharashtra,Pune,Sprinkler,Low,78.7
+Maharashtra,Pune,Drip,Low,46.7
+Maharashtra,Pune,Drip,High,60.2
+Maharashtra,Pune,Sprinkler,Low,97.3
+Maharashtra,Pune,Rainfed Only,Low,134.0
+Maharashtra,Pune,Drip,High,26.5
+Maharashtra,Pune,Sprinkler,Medium,43.5
+Maharashtra,Pune,Drip,Medium,151.4
+Maharashtra,Pune,Canal Flood,Low,93.2
+Maharashtra,Pune,Canal Flood,Low,157.4
+Maharashtra,Pune,Rainfed Only,High,111.2
+Maharashtra,Pune,Rainfed Only,Low,166.2
+Maharashtra,Pune,Drip,Medium,70.4
+Maharashtra,Pune,Drip,Medium,46.8
+Maharashtra,Pune,Canal Flood,Low,53.3
+Maharashtra,Pune,Sprinkler,High,35.6
+Maharashtra,Pune,Sprinkler,Low,76.6
+Maharashtra,Pune,Sprinkler,Medium,25.6
+Maharashtra,Pune,Drip,High,59.8
+Maharashtra,Pune,Drip,High,42.3
+Maharashtra,Pune,Canal Flood,Low,122.1
+Maharashtra,Pune,Rainfed Only,Medium,29.6
+Maharashtra,Pune,Drip,Low,99.7
+Maharashtra,Pune,Sprinkler,Medium,149.6
+Maharashtra,Pune,Drip,Medium,26.0
+Maharashtra,Pune,Drip,Low,62.3
+Maharashtra,Pune,Canal Flood,Low,116.0
+Maharashtra,Pune,Drip,Low,100.8
+Maharashtra,Pune,Canal Flood,Medium,69.9
+Maharashtra,Pune,Rainfed Only,High,35.1
+Maharashtra,Pune,Canal Flood,Low,97.2
+Maharashtra,Pune,Sprinkler,Medium,65.5
+Maharashtra,Pune,Drip,Low,32.1
+Maharashtra,Pune,Drip,Low,85.3
+Maharashtra,Pune,Drip,Medium,97.5
+Maharashtra,Pune,Rainfed Only,Medium,135.9
+Maharashtra,Pune,Rainfed Only,Medium,27.0
+Maharashtra,Pune,Rainfed Only,High,99.7
+Maharashtra,Pune,Rainfed Only,High,109.9
+Maharashtra,Pune,Sprinkler,Medium,162.4
+Maharashtra,Pune,Sprinkler,High,119.1
+Maharashtra,Pune,Sprinkler,Medium,118.3
+Maharashtra,Pune,Sprinkler,High,118.2
+Maharashtra,Pune,Drip,Low,71.9
+Maharashtra,Pune,Canal Flood,High,79.4
+Maharashtra,Pune,Canal Flood,Medium,85.6
+Maharashtra,Pune,Canal Flood,Medium,72.4
+Maharashtra,Pune,Rainfed Only,Low,37.9
+Maharashtra,Pune,Rainfed Only,High,63.9
+Maharashtra,Pune,Drip,Low,54.5
+Maharashtra,Pune,Canal Flood,High,72.6
+Maharashtra,Pune,Rainfed Only,Medium,95.2
+Maharashtra,Pune,Sprinkler,Medium,101.0
+Maharashtra,Pune,Sprinkler,Medium,81.8
+Maharashtra,Pune,Drip,High,101.3
+Maharashtra,Pune,Canal Flood,Low,117.6
+Maharashtra,Pune,Rainfed Only,Low,94.4
+Maharashtra,Pune,Drip,Medium,58.6
+Maharashtra,Pune,Canal Flood,Low,98.7
+Maharashtra,Pune,Rainfed Only,High,88.5
+Maharashtra,Pune,Canal Flood,Low,69.5
+Maharashtra,Pune,Sprinkler,Medium,85.9
+Maharashtra,Pune,Sprinkler,Low,52.5
+Maharashtra,Pune,Sprinkler,High,95.4
+Maharashtra,Pune,Canal Flood,Medium,101.4
+Maharashtra,Pune,Rainfed Only,Low,109.9
+Maharashtra,Pune,Rainfed Only,Low,82.1
+Maharashtra,Pune,Sprinkler,Low,64.7
+Maharashtra,Pune,Sprinkler,High,57.9
+Maharashtra,Pune,Sprinkler,High,88.5
+Maharashtra,Pune,Drip,Medium,103.7
+Maharashtra,Pune,Canal Flood,High,59.6
+Maharashtra,Pune,Sprinkler,Low,49.9
+Maharashtra,Pune,Rainfed Only,High,54.3
+Maharashtra,Pune,Drip,Medium,87.8
+Maharashtra,Pune,Drip,Medium,113.2
+Maharashtra,Pune,Rainfed Only,High,93.1
+Maharashtra,Pune,Canal Flood,Low,110.7
+Maharashtra,Pune,Rainfed Only,Medium,44.2
+Maharashtra,Pune,Canal Flood,High,130.2
+Maharashtra,Pune,Rainfed Only,Medium,74.3
+Maharashtra,Pune,Canal Flood,High,69.1
+Maharashtra,Pune,Rainfed Only,Medium,68.7
+Maharashtra,Pune,Canal Flood,Medium,67.0
+Maharashtra,Pune,Rainfed Only,Medium,63.5
+Maharashtra,Pune,Rainfed Only,Low,100.4
+Maharashtra,Pune,Sprinkler,High,120.8
+Maharashtra,Pune,Drip,Medium,140.0
+Maharashtra,Pune,Sprinkler,High,101.6
+Maharashtra,Pune,Drip,High,90.9
+Maharashtra,Pune,Sprinkler,Low,94.6
+Maharashtra,Pune,Rainfed Only,High,65.8
+Maharashtra,Pune,Canal Flood,Low,38.0
+Maharashtra,Pune,Sprinkler,Medium,100.8
+Maharashtra,Pune,Canal Flood,High,64.6
+Maharashtra,Pune,Drip,High,100.0
+Maharashtra,Pune,Sprinkler,High,77.6
+Maharashtra,Pune,Rainfed Only,Medium,141.9
+Maharashtra,Pune,Drip,Low,144.4
+Maharashtra,Pune,Rainfed Only,Medium,86.5
+Maharashtra,Pune,Canal Flood,Medium,76.1
+Maharashtra,Pune,Sprinkler,Low,133.1
+Maharashtra,Pune,Canal Flood,Low,98.4
+Maharashtra,Pune,Sprinkler,High,89.1
+Maharashtra,Pune,Rainfed Only,Medium,110.0
+Maharashtra,Pune,Sprinkler,High,82.7
+Maharashtra,Pune,Rainfed Only,Low,55.5
+Maharashtra,Pune,Canal Flood,Medium,52.2
+Maharashtra,Pune,Sprinkler,Medium,17.1
+Maharashtra,Pune,Rainfed Only,Medium,81.9
+Maharashtra,Pune,Rainfed Only,Low,113.2
+Maharashtra,Pune,Rainfed Only,Medium,119.1
+Maharashtra,Pune,Sprinkler,High,136.5
+Maharashtra,Pune,Sprinkler,Low,39.6
+Maharashtra,Pune,Rainfed Only,Medium,98.1
+Maharashtra,Pune,Drip,Medium,113.4
+Maharashtra,Pune,Canal Flood,Low,58.2
+Maharashtra,Pune,Drip,Low,96.2
+Maharashtra,Pune,Canal Flood,High,75.9
+Maharashtra,Pune,Rainfed Only,High,62.6
+Maharashtra,Pune,Drip,Medium,48.9
+Maharashtra,Pune,Canal Flood,Medium,45.5
+Maharashtra,Pune,Canal Flood,Low,32.9
+Maharashtra,Pune,Drip,Medium,98.0
+Maharashtra,Pune,Canal Flood,High,50.7
+Maharashtra,Pune,Sprinkler,Low,49.8
+Maharashtra,Pune,Sprinkler,Low,52.3
+Maharashtra,Pune,Sprinkler,High,85.3
+Maharashtra,Pune,Sprinkler,Low,85.9
+Maharashtra,Pune,Sprinkler,Low,72.3
+Maharashtra,Nashik,Canal Flood,High,48.5
+Maharashtra,Nashik,Rainfed Only,Medium,96.8
+Maharashtra,Nashik,Drip,High,61.6
+Maharashtra,Nashik,Sprinkler,High,31.0
+Maharashtra,Nashik,Canal Flood,Low,83.8
+Maharashtra,Nashik,Sprinkler,Low,141.7
+Maharashtra,Nashik,Sprinkler,Medium,66.4
+Maharashtra,Nashik,Rainfed Only,Medium,96.5
+Maharashtra,Nashik,Canal Flood,Medium,81.3
+Maharashtra,Nashik,Drip,Medium,122.7
+Maharashtra,Nashik,Drip,High,130.0
+Maharashtra,Nashik,Canal Flood,High,85.5
+Maharashtra,Nashik,Sprinkler,High,78.2
+Maharashtra,Nashik,Rainfed Only,Low,121.6
+Maharashtra,Nashik,Sprinkler,Medium,67.5
+Maharashtra,Nashik,Drip,Low,94.8
+Maharashtra,Nashik,Sprinkler,Medium,120.4
+Maharashtra,Nashik,Drip,Medium,149.4
+Maharashtra,Nashik,Rainfed Only,Low,114.9
+Maharashtra,Nashik,Drip,Low,119.9
+Maharashtra,Nashik,Canal Flood,High,83.9
+Maharashtra,Nashik,Drip,Low,111.5
+Maharashtra,Nashik,Sprinkler,High,78.2
+Maharashtra,Nashik,Drip,Low,122.9
+Maharashtra,Nashik,Sprinkler,Low,65.7
+Maharashtra,Nashik,Rainfed Only,Medium,66.6
+Maharashtra,Nashik,Rainfed Only,High,87.3
+Maharashtra,Nashik,Canal Flood,Medium,69.2
+Maharashtra,Nashik,Canal Flood,Low,80.1
+Maharashtra,Nashik,Sprinkler,Low,113.8
+Maharashtra,Nashik,Sprinkler,High,120.6
+Maharashtra,Nashik,Rainfed Only,Low,144.5
+Maharashtra,Nashik,Rainfed Only,High,127.7
+Maharashtra,Nashik,Drip,High,5.0
+Maharashtra,Nashik,Rainfed Only,Medium,48.8
+Maharashtra,Nashik,Rainfed Only,Low,42.3
+Maharashtra,Nashik,Rainfed Only,Medium,76.4
+Maharashtra,Nashik,Drip,High,68.5
+Maharashtra,Nashik,Sprinkler,Medium,48.3
+Maharashtra,Nashik,Sprinkler,High,48.4
+Maharashtra,Nashik,Drip,Medium,69.5
+Maharashtra,Nashik,Canal Flood,Medium,88.7
+Maharashtra,Nashik,Rainfed Only,Low,74.2
+Maharashtra,Nashik,Sprinkler,High,100.3
+Maharashtra,Nashik,Drip,Medium,60.9
+Maharashtra,Nashik,Sprinkler,Low,71.1
+Maharashtra,Nashik,Sprinkler,Medium,87.1
+Maharashtra,Nashik,Drip,Low,103.0
+Maharashtra,Nashik,Drip,Medium,92.2
+Maharashtra,Nashik,Canal Flood,High,106.8
+Maharashtra,Nashik,Drip,High,112.9
+Maharashtra,Nashik,Drip,High,111.9
+Maharashtra,Nashik,Rainfed Only,Medium,25.0
+Maharashtra,Nashik,Canal Flood,High,93.6
+Maharashtra,Nashik,Drip,High,101.5
+Maharashtra,Nashik,Drip,Low,54.9
+Maharashtra,Nashik,Rainfed Only,High,95.1
+Maharashtra,Nashik,Canal Flood,Medium,54.0
+Maharashtra,Nashik,Sprinkler,Low,129.4
+Maharashtra,Nashik,Sprinkler,Low,118.6
+Maharashtra,Nashik,Sprinkler,Medium,5.0
+Maharashtra,Nashik,Sprinkler,Low,117.8
+Maharashtra,Nashik,Sprinkler,High,69.8
+Maharashtra,Nashik,Rainfed Only,High,99.9
+Maharashtra,Nashik,Canal Flood,High,95.7
+Maharashtra,Nashik,Drip,Low,72.7
+Maharashtra,Nashik,Rainfed Only,Low,90.6
+Maharashtra,Nashik,Drip,High,106.3
+Maharashtra,Nashik,Rainfed Only,High,153.1
+Maharashtra,Nashik,Rainfed Only,High,86.0
+Maharashtra,Nashik,Canal Flood,Low,101.0
+Maharashtra,Nashik,Canal Flood,Medium,71.1
+Maharashtra,Nashik,Sprinkler,High,120.0
+Maharashtra,Nashik,Rainfed Only,Low,81.9
+Maharashtra,Nashik,Rainfed Only,High,101.1
+Maharashtra,Nashik,Sprinkler,Low,73.7
+Maharashtra,Nashik,Sprinkler,Low,75.7
+Maharashtra,Nashik,Drip,High,67.3
+Maharashtra,Nashik,Drip,High,97.1
+Maharashtra,Nashik,Drip,Medium,37.9
+Maharashtra,Nashik,Drip,Medium,85.3
+Maharashtra,Nashik,Rainfed Only,Low,79.3
+Maharashtra,Nashik,Drip,Low,8.1
+Maharashtra,Nashik,Drip,High,88.1
+Maharashtra,Nashik,Canal Flood,Medium,124.9
+Maharashtra,Nashik,Sprinkler,Medium,85.0
+Maharashtra,Nashik,Rainfed Only,Low,90.1
+Maharashtra,Nashik,Drip,Medium,72.9
+Maharashtra,Nashik,Canal Flood,High,73.4
+Maharashtra,Nashik,Drip,Medium,96.1
+Maharashtra,Nashik,Sprinkler,Medium,104.1
+Maharashtra,Nashik,Drip,Low,31.1
+Maharashtra,Nashik,Sprinkler,Low,150.7
+Maharashtra,Nashik,Drip,Medium,110.7
+Maharashtra,Nashik,Drip,Low,95.6
+Maharashtra,Nashik,Rainfed Only,Medium,50.1
+Maharashtra,Nashik,Canal Flood,Low,111.7
+Maharashtra,Nashik,Sprinkler,Medium,25.1
+Maharashtra,Nashik,Rainfed Only,Low,84.2
+Maharashtra,Nashik,Drip,Medium,5.0
+Maharashtra,Nashik,Canal Flood,Medium,123.4
+Maharashtra,Nashik,Sprinkler,Medium,77.6
+Maharashtra,Nashik,Sprinkler,Medium,114.3
+Maharashtra,Nashik,Drip,Low,103.6
+Maharashtra,Nashik,Sprinkler,Medium,95.4
+Maharashtra,Nashik,Drip,High,104.0
+Maharashtra,Nashik,Drip,High,124.9
+Maharashtra,Nashik,Rainfed Only,Medium,87.6
+Maharashtra,Nashik,Rainfed Only,Medium,158.1
+Maharashtra,Nashik,Sprinkler,Low,168.0
+Maharashtra,Nashik,Drip,High,72.1
+Maharashtra,Nashik,Rainfed Only,Low,56.4
+Maharashtra,Nashik,Canal Flood,Low,45.9
+Maharashtra,Nashik,Canal Flood,Low,51.4
+Maharashtra,Nashik,Canal Flood,High,71.1
+Maharashtra,Nashik,Sprinkler,Low,69.2
+Maharashtra,Nashik,Rainfed Only,Medium,122.2
+Maharashtra,Nashik,Sprinkler,Low,143.9
+Maharashtra,Nashik,Canal Flood,Low,57.2
+Maharashtra,Nashik,Drip,High,113.3
+Maharashtra,Nashik,Canal Flood,Medium,50.9
+Maharashtra,Nashik,Drip,High,106.1
+Maharashtra,Nashik,Drip,High,53.1
+Maharashtra,Nashik,Canal Flood,Low,76.3
+Maharashtra,Nashik,Sprinkler,Low,83.7
+Maharashtra,Nashik,Drip,Low,63.5
+Maharashtra,Nashik,Sprinkler,High,119.4
+Maharashtra,Nashik,Canal Flood,High,17.1
+Maharashtra,Nashik,Drip,High,82.2
+Maharashtra,Nashik,Canal Flood,High,66.6
+Maharashtra,Nashik,Drip,High,76.2
+Maharashtra,Nashik,Rainfed Only,High,137.8
+Maharashtra,Nashik,Sprinkler,High,71.4
+Maharashtra,Nashik,Drip,High,91.6
+Maharashtra,Nashik,Canal Flood,Low,104.2
+Maharashtra,Nashik,Rainfed Only,Medium,66.2
+Maharashtra,Nashik,Drip,High,77.7
+Maharashtra,Nashik,Sprinkler,Medium,65.9
+Maharashtra,Nashik,Canal Flood,Medium,75.8
+Maharashtra,Nashik,Drip,High,102.9
+Maharashtra,Nashik,Sprinkler,Low,59.8
+Maharashtra,Nashik,Sprinkler,Low,123.3
+Maharashtra,Nashik,Canal Flood,Medium,71.2
+Maharashtra,Nashik,Sprinkler,Low,45.4
+Maharashtra,Nashik,Drip,Low,66.3
+Maharashtra,Nashik,Drip,Medium,25.5
+Maharashtra,Nashik,Rainfed Only,Medium,118.1
+Maharashtra,Nashik,Sprinkler,High,86.1
+Maharashtra,Nashik,Rainfed Only,Medium,77.0
+Maharashtra,Nashik,Canal Flood,High,54.8
+Maharashtra,Nashik,Canal Flood,Medium,110.7
+Maharashtra,Nashik,Canal Flood,Low,91.7
+Maharashtra,Nashik,Canal Flood,High,77.5
+Maharashtra,Nashik,Drip,High,64.6
+Maharashtra,Nashik,Sprinkler,Medium,95.3
+Maharashtra,Nashik,Canal Flood,Low,67.8
+Maharashtra,Nashik,Sprinkler,Low,74.7
+Maharashtra,Nashik,Sprinkler,Medium,77.8
+Maharashtra,Nashik,Rainfed Only,Low,94.1
+Maharashtra,Nashik,Drip,Medium,52.2
+Maharashtra,Nashik,Canal Flood,Medium,79.0
+Maharashtra,Nashik,Sprinkler,Medium,100.0
+Maharashtra,Nashik,Sprinkler,Low,129.6
+Maharashtra,Nashik,Canal Flood,High,103.1
+Maharashtra,Nashik,Sprinkler,Low,99.5
+Maharashtra,Nashik,Sprinkler,High,80.8
+Maharashtra,Nashik,Canal Flood,Medium,45.3
+Maharashtra,Nashik,Drip,Low,37.5
+Maharashtra,Nashik,Drip,Low,92.8
+Maharashtra,Nashik,Canal Flood,Medium,118.7
+Maharashtra,Nashik,Canal Flood,Medium,52.3
+Maharashtra,Nashik,Sprinkler,High,70.8
+Maharashtra,Nashik,Drip,Low,101.3
+Maharashtra,Nashik,Rainfed Only,High,109.3
+Maharashtra,Nashik,Canal Flood,Medium,92.7
+Maharashtra,Nashik,Rainfed Only,Medium,83.9
+Maharashtra,Nashik,Rainfed Only,Medium,81.1
+Maharashtra,Nashik,Drip,Medium,86.2
+Maharashtra,Nashik,Rainfed Only,Low,57.7
+Maharashtra,Nashik,Canal Flood,Medium,93.0
+Maharashtra,Nashik,Canal Flood,Low,87.1
+Maharashtra,Nashik,Canal Flood,Low,72.5
+Maharashtra,Nashik,Sprinkler,Medium,72.4
+Maharashtra,Nashik,Drip,Low,47.6
+Maharashtra,Nashik,Rainfed Only,High,118.3
+Maharashtra,Nashik,Canal Flood,Medium,99.9
+Maharashtra,Nashik,Canal Flood,High,5.0
+Maharashtra,Nashik,Rainfed Only,Medium,135.9
+Maharashtra,Nashik,Rainfed Only,Low,87.8
+Maharashtra,Nashik,Rainfed Only,Medium,53.1
+Maharashtra,Nashik,Sprinkler,Medium,53.3
+Maharashtra,Nashik,Sprinkler,High,97.1
+Maharashtra,Nashik,Rainfed Only,High,124.2
+Maharashtra,Nashik,Sprinkler,Medium,80.5
+Maharashtra,Nashik,Sprinkler,Medium,86.3
+Maharashtra,Nashik,Rainfed Only,High,89.3
+Maharashtra,Nashik,Canal Flood,Low,60.5
+Maharashtra,Nashik,Drip,Low,94.2
+Maharashtra,Nashik,Drip,High,62.7
+Maharashtra,Nashik,Rainfed Only,High,57.3
+Maharashtra,Nagpur,Rainfed Only,Medium,95.1
+Maharashtra,Nagpur,Canal Flood,Medium,118.8
+Maharashtra,Nagpur,Sprinkler,Medium,65.7
+Maharashtra,Nagpur,Canal Flood,Medium,108.6
+Maharashtra,Nagpur,Rainfed Only,Medium,111.0
+Maharashtra,Nagpur,Sprinkler,High,55.7
+Maharashtra,Nagpur,Rainfed Only,High,112.3
+Maharashtra,Nagpur,Canal Flood,Medium,17.2
+Maharashtra,Nagpur,Drip,Medium,94.9
+Maharashtra,Nagpur,Drip,High,77.3
+Maharashtra,Nagpur,Rainfed Only,High,83.8
+Maharashtra,Nagpur,Drip,Medium,130.8
+Maharashtra,Nagpur,Canal Flood,Medium,71.5
+Maharashtra,Nagpur,Drip,High,69.5
+Maharashtra,Nagpur,Canal Flood,High,71.7
+Maharashtra,Nagpur,Drip,High,95.1
+Maharashtra,Nagpur,Canal Flood,High,42.1
+Maharashtra,Nagpur,Drip,High,63.8
+Maharashtra,Nagpur,Canal Flood,Medium,79.1
+Maharashtra,Nagpur,Drip,Medium,48.2
+Maharashtra,Nagpur,Rainfed Only,Low,41.0
+Maharashtra,Nagpur,Rainfed Only,Low,53.7
+Maharashtra,Nagpur,Drip,High,64.5
+Maharashtra,Nagpur,Rainfed Only,Low,44.0
+Maharashtra,Nagpur,Drip,Medium,49.3
+Maharashtra,Nagpur,Rainfed Only,Medium,64.8
+Maharashtra,Nagpur,Sprinkler,Low,50.2
+Maharashtra,Nagpur,Rainfed Only,Low,93.4
+Maharashtra,Nagpur,Canal Flood,High,91.4
+Maharashtra,Nagpur,Drip,Medium,88.5
+Maharashtra,Nagpur,Rainfed Only,Low,24.4
+Maharashtra,Nagpur,Canal Flood,High,73.3
+Maharashtra,Nagpur,Sprinkler,Medium,112.8
+Maharashtra,Nagpur,Drip,High,77.8
+Maharashtra,Nagpur,Sprinkler,High,61.9
+Maharashtra,Nagpur,Canal Flood,Medium,70.1
+Maharashtra,Nagpur,Drip,Medium,84.9
+Maharashtra,Nagpur,Rainfed Only,Low,130.6
+Maharashtra,Nagpur,Canal Flood,Medium,110.1
+Maharashtra,Nagpur,Drip,High,61.4
+Maharashtra,Nagpur,Canal Flood,Low,65.0
+Maharashtra,Nagpur,Rainfed Only,Low,94.6
+Maharashtra,Nagpur,Rainfed Only,High,80.7
+Maharashtra,Nagpur,Canal Flood,Medium,126.9
+Maharashtra,Nagpur,Canal Flood,High,79.4
+Maharashtra,Nagpur,Canal Flood,Low,100.6
+Maharashtra,Nagpur,Canal Flood,Medium,89.4
+Maharashtra,Nagpur,Sprinkler,Medium,66.8
+Maharashtra,Nagpur,Rainfed Only,Medium,95.4
+Maharashtra,Nagpur,Sprinkler,High,57.5
+Maharashtra,Nagpur,Sprinkler,Medium,103.1
+Maharashtra,Nagpur,Sprinkler,High,84.8
+Maharashtra,Nagpur,Drip,High,42.2
+Maharashtra,Nagpur,Canal Flood,Medium,62.6
+Maharashtra,Nagpur,Rainfed Only,Medium,55.3
+Maharashtra,Nagpur,Canal Flood,Medium,144.4
+Maharashtra,Nagpur,Sprinkler,High,81.5
+Maharashtra,Nagpur,Sprinkler,Low,110.2
+Maharashtra,Nagpur,Sprinkler,High,94.5
+Maharashtra,Nagpur,Rainfed Only,High,99.4
+Maharashtra,Nagpur,Drip,Low,79.4
+Maharashtra,Nagpur,Canal Flood,Medium,106.2
+Maharashtra,Nagpur,Canal Flood,Low,96.7
+Maharashtra,Nagpur,Sprinkler,Low,103.9
+Maharashtra,Nagpur,Drip,Low,98.5
+Maharashtra,Nagpur,Rainfed Only,High,80.9
+Maharashtra,Nagpur,Rainfed Only,Low,131.3
+Maharashtra,Nagpur,Drip,High,102.5
+Maharashtra,Nagpur,Drip,Low,103.6
+Maharashtra,Nagpur,Drip,High,96.3
+Maharashtra,Nagpur,Rainfed Only,High,96.5
+Maharashtra,Nagpur,Sprinkler,Low,129.2
+Maharashtra,Nagpur,Rainfed Only,Medium,104.3
+Maharashtra,Nagpur,Rainfed Only,Low,62.7
+Maharashtra,Nagpur,Rainfed Only,Low,86.5
+Maharashtra,Nagpur,Canal Flood,Medium,83.5
+Maharashtra,Nagpur,Sprinkler,Medium,56.0
+Maharashtra,Nagpur,Drip,Low,69.7
+Maharashtra,Nagpur,Sprinkler,Medium,75.5
+Maharashtra,Nagpur,Canal Flood,Low,31.4
+Maharashtra,Nagpur,Drip,High,119.8
+Maharashtra,Nagpur,Sprinkler,Low,89.6
+Maharashtra,Nagpur,Drip,Low,55.4
+Maharashtra,Nagpur,Sprinkler,Low,118.2
+Maharashtra,Nagpur,Sprinkler,Medium,82.9
+Maharashtra,Nagpur,Sprinkler,Low,59.6
+Maharashtra,Nagpur,Canal Flood,High,87.1
+Maharashtra,Nagpur,Drip,Low,100.3
+Maharashtra,Nagpur,Drip,Low,110.3
+Maharashtra,Nagpur,Drip,Low,81.0
+Maharashtra,Nagpur,Drip,Medium,87.8
+Maharashtra,Nagpur,Rainfed Only,High,93.6
+Maharashtra,Nagpur,Sprinkler,High,90.4
+Maharashtra,Nagpur,Sprinkler,Low,40.4
+Maharashtra,Nagpur,Canal Flood,Low,57.9
+Maharashtra,Nagpur,Canal Flood,Low,17.8
+Maharashtra,Nagpur,Canal Flood,Low,85.3
+Maharashtra,Nagpur,Canal Flood,Medium,125.8
+Maharashtra,Nagpur,Rainfed Only,Medium,32.2
+Maharashtra,Nagpur,Drip,Low,71.8
+Maharashtra,Nagpur,Rainfed Only,High,117.9
+Maharashtra,Nagpur,Sprinkler,Medium,91.2
+Maharashtra,Nagpur,Sprinkler,Low,58.0
+Maharashtra,Nagpur,Rainfed Only,Low,117.7
+Maharashtra,Nagpur,Sprinkler,Medium,115.0
+Maharashtra,Nagpur,Drip,Low,94.2
+Maharashtra,Nagpur,Sprinkler,Low,98.4
+Maharashtra,Nagpur,Canal Flood,Low,83.4
+Maharashtra,Nagpur,Sprinkler,High,89.6
+Maharashtra,Nagpur,Sprinkler,Low,20.1
+Maharashtra,Nagpur,Drip,High,61.0
+Maharashtra,Nagpur,Drip,High,64.5
+Maharashtra,Nagpur,Sprinkler,High,90.0
+Maharashtra,Nagpur,Canal Flood,Low,63.0
+Maharashtra,Nagpur,Sprinkler,Medium,100.5
+Maharashtra,Nagpur,Sprinkler,Medium,107.1
+Maharashtra,Nagpur,Sprinkler,High,52.4
+Maharashtra,Nagpur,Sprinkler,Medium,67.8
+Maharashtra,Nagpur,Sprinkler,Low,122.5
+Maharashtra,Nagpur,Drip,High,82.3
+Maharashtra,Nagpur,Canal Flood,Low,73.5
+Maharashtra,Nagpur,Drip,Low,46.8
+Maharashtra,Nagpur,Rainfed Only,Medium,101.3
+Maharashtra,Nagpur,Drip,Low,62.6
+Maharashtra,Nagpur,Drip,Low,133.9
+Maharashtra,Nagpur,Drip,High,89.6
+Maharashtra,Nagpur,Sprinkler,Medium,94.7
+Maharashtra,Nagpur,Rainfed Only,Low,80.1
+Maharashtra,Nagpur,Canal Flood,Low,52.5
+Maharashtra,Nagpur,Sprinkler,High,104.5
+Maharashtra,Nagpur,Canal Flood,Low,63.0
+Maharashtra,Nagpur,Rainfed Only,High,142.1
+Maharashtra,Nagpur,Sprinkler,Medium,93.1
+Maharashtra,Nagpur,Drip,High,91.9
+Maharashtra,Nagpur,Sprinkler,High,18.3
+Maharashtra,Nagpur,Sprinkler,Low,81.4
+Maharashtra,Nagpur,Sprinkler,Low,75.4
+Maharashtra,Nagpur,Canal Flood,Medium,42.6
+Maharashtra,Nagpur,Drip,High,103.2
+Maharashtra,Nagpur,Sprinkler,High,52.5
+Maharashtra,Nagpur,Canal Flood,Low,90.5
+Maharashtra,Nagpur,Canal Flood,Low,151.4
+Maharashtra,Nagpur,Rainfed Only,Medium,60.2
+Maharashtra,Nagpur,Drip,Low,115.9
+Maharashtra,Nagpur,Canal Flood,Low,82.1
+Maharashtra,Nagpur,Sprinkler,Medium,120.5
+Maharashtra,Nagpur,Canal Flood,Low,151.3
+Maharashtra,Nagpur,Drip,Low,79.8
+Maharashtra,Nagpur,Sprinkler,High,71.2
+Maharashtra,Nagpur,Drip,Low,72.4
+Maharashtra,Nagpur,Sprinkler,Low,182.5
+Maharashtra,Nagpur,Rainfed Only,Low,81.8
+Maharashtra,Nagpur,Canal Flood,Medium,76.7
+Maharashtra,Nagpur,Drip,Medium,89.9
+Maharashtra,Nagpur,Canal Flood,Medium,47.2
+Maharashtra,Nagpur,Canal Flood,High,103.5
+Maharashtra,Nagpur,Drip,High,66.9
+Maharashtra,Nagpur,Rainfed Only,High,128.2
+Maharashtra,Nagpur,Sprinkler,Low,79.3
+Maharashtra,Nagpur,Drip,Medium,67.4
+Maharashtra,Nagpur,Sprinkler,Low,89.7
+Maharashtra,Nagpur,Drip,Medium,69.3
+Maharashtra,Nagpur,Rainfed Only,High,93.6
+Maharashtra,Nagpur,Canal Flood,Low,109.0
+Maharashtra,Nagpur,Canal Flood,High,97.3
+Maharashtra,Nagpur,Drip,High,117.6
+Maharashtra,Nagpur,Sprinkler,Low,59.2
+Maharashtra,Nagpur,Rainfed Only,High,116.2
+Maharashtra,Nagpur,Rainfed Only,High,64.3
+Maharashtra,Nagpur,Drip,High,99.3
+Maharashtra,Nagpur,Sprinkler,Medium,73.4
+Maharashtra,Nagpur,Canal Flood,High,44.0
+Maharashtra,Nagpur,Canal Flood,Low,73.4
+Maharashtra,Nagpur,Sprinkler,Medium,83.0
+Maharashtra,Nagpur,Sprinkler,High,58.7
+Maharashtra,Nagpur,Rainfed Only,Low,72.8
+Maharashtra,Nagpur,Drip,Medium,53.3
+Maharashtra,Nagpur,Drip,Medium,100.8
+Maharashtra,Nagpur,Canal Flood,Medium,87.2
+Maharashtra,Nagpur,Rainfed Only,Low,108.8
+Maharashtra,Nagpur,Rainfed Only,High,84.5
+Maharashtra,Nagpur,Canal Flood,High,87.3
+Maharashtra,Nagpur,Rainfed Only,Low,76.5
+Maharashtra,Nagpur,Canal Flood,Medium,115.3
+Maharashtra,Nagpur,Canal Flood,High,59.6
+Maharashtra,Nagpur,Canal Flood,Medium,90.1
+Maharashtra,Nagpur,Rainfed Only,Medium,94.3
+Maharashtra,Nagpur,Canal Flood,Low,83.8
+Maharashtra,Nagpur,Drip,Low,82.5
+Maharashtra,Nagpur,Canal Flood,High,58.2
+Maharashtra,Nagpur,Drip,High,84.2
+Maharashtra,Nagpur,Sprinkler,Low,120.8
+Maharashtra,Nagpur,Canal Flood,Medium,113.8
+Maharashtra,Nagpur,Sprinkler,Medium,74.3
+Maharashtra,Nagpur,Drip,High,110.0
+Maharashtra,Nagpur,Drip,High,109.6
+Maharashtra,Nagpur,Sprinkler,Medium,96.9
+Maharashtra,Nagpur,Canal Flood,High,123.5
+Maharashtra,Nagpur,Rainfed Only,Medium,130.9
+Maharashtra,Nagpur,Sprinkler,Low,86.3
+Punjab,Ludhiana,Rainfed Only,High,117.9
+Punjab,Ludhiana,Rainfed Only,High,8.4
+Punjab,Ludhiana,Canal Flood,Medium,61.9
+Punjab,Ludhiana,Sprinkler,High,36.7
+Punjab,Ludhiana,Rainfed Only,Low,85.2
+Punjab,Ludhiana,Canal Flood,Low,92.0
+Punjab,Ludhiana,Drip,Low,101.9
+Punjab,Ludhiana,Canal Flood,High,118.3
+Punjab,Ludhiana,Sprinkler,High,40.4
+Punjab,Ludhiana,Drip,High,100.9
+Punjab,Ludhiana,Canal Flood,Low,52.4
+Punjab,Ludhiana,Sprinkler,Low,107.8
+Punjab,Ludhiana,Drip,Low,56.5
+Punjab,Ludhiana,Drip,Low,61.9
+Punjab,Ludhiana,Drip,High,40.3
+Punjab,Ludhiana,Drip,Low,68.0
+Punjab,Ludhiana,Drip,Medium,121.5
+Punjab,Ludhiana,Canal Flood,Low,46.2
+Punjab,Ludhiana,Rainfed Only,Low,92.4
+Punjab,Ludhiana,Sprinkler,Low,113.4
+Punjab,Ludhiana,Rainfed Only,Low,94.2
+Punjab,Ludhiana,Rainfed Only,High,72.3
+Punjab,Ludhiana,Drip,Low,75.6
+Punjab,Ludhiana,Rainfed Only,Medium,78.2
+Punjab,Ludhiana,Drip,High,39.2
+Punjab,Ludhiana,Sprinkler,High,78.7
+Punjab,Ludhiana,Rainfed Only,High,73.7
+Punjab,Ludhiana,Drip,Low,121.7
+Punjab,Ludhiana,Rainfed Only,Medium,87.0
+Punjab,Ludhiana,Rainfed Only,Medium,84.3
+Punjab,Ludhiana,Drip,Low,96.3
+Punjab,Ludhiana,Drip,Medium,125.7
+Punjab,Ludhiana,Rainfed Only,Medium,106.8
+Punjab,Ludhiana,Sprinkler,High,43.6
+Punjab,Ludhiana,Rainfed Only,High,95.3
+Punjab,Ludhiana,Drip,Medium,75.5
+Punjab,Ludhiana,Canal Flood,High,95.5
+Punjab,Ludhiana,Sprinkler,Low,69.7
+Punjab,Ludhiana,Rainfed Only,Medium,58.5
+Punjab,Ludhiana,Drip,High,49.0
+Punjab,Ludhiana,Sprinkler,Low,60.5
+Punjab,Ludhiana,Drip,Medium,132.4
+Punjab,Ludhiana,Rainfed Only,Low,132.7
+Punjab,Ludhiana,Drip,High,120.7
+Punjab,Ludhiana,Rainfed Only,Low,107.8
+Punjab,Ludhiana,Sprinkler,High,119.7
+Punjab,Ludhiana,Canal Flood,High,92.5
+Punjab,Ludhiana,Rainfed Only,Low,111.2
+Punjab,Ludhiana,Rainfed Only,Medium,90.7
+Punjab,Ludhiana,Sprinkler,Low,80.9
+Punjab,Ludhiana,Rainfed Only,High,75.6
+Punjab,Ludhiana,Drip,High,123.6
+Punjab,Ludhiana,Sprinkler,High,46.3
+Punjab,Ludhiana,Drip,Low,24.8
+Punjab,Ludhiana,Sprinkler,Medium,102.7
+Punjab,Ludhiana,Canal Flood,Low,94.4
+Punjab,Ludhiana,Drip,Medium,123.3
+Punjab,Ludhiana,Rainfed Only,High,72.6
+Punjab,Ludhiana,Drip,High,119.6
+Punjab,Ludhiana,Canal Flood,Low,90.7
+Punjab,Ludhiana,Rainfed Only,High,95.6
+Punjab,Ludhiana,Drip,Medium,124.7
+Punjab,Ludhiana,Rainfed Only,Medium,94.9
+Punjab,Ludhiana,Sprinkler,Low,78.5
+Punjab,Ludhiana,Canal Flood,High,131.4
+Punjab,Ludhiana,Canal Flood,Low,86.2
+Punjab,Ludhiana,Drip,High,40.0
+Punjab,Ludhiana,Sprinkler,High,74.0
+Punjab,Ludhiana,Canal Flood,Medium,65.2
+Punjab,Ludhiana,Sprinkler,Medium,100.8
+Punjab,Ludhiana,Drip,High,72.4
+Punjab,Ludhiana,Rainfed Only,High,70.5
+Punjab,Ludhiana,Canal Flood,Low,114.6
+Punjab,Ludhiana,Canal Flood,Low,6.4
+Punjab,Ludhiana,Sprinkler,Low,70.8
+Punjab,Ludhiana,Canal Flood,High,108.7
+Punjab,Ludhiana,Sprinkler,Medium,34.9
+Punjab,Ludhiana,Drip,High,109.3
+Punjab,Ludhiana,Drip,Medium,5.0
+Punjab,Ludhiana,Rainfed Only,Medium,98.3
+Punjab,Ludhiana,Drip,Medium,141.0
+Punjab,Ludhiana,Sprinkler,Low,97.7
+Punjab,Ludhiana,Canal Flood,Medium,105.0
+Punjab,Ludhiana,Rainfed Only,Low,49.1
+Punjab,Ludhiana,Sprinkler,Low,35.0
+Punjab,Ludhiana,Sprinkler,High,81.3
+Punjab,Ludhiana,Rainfed Only,Low,62.7
+Punjab,Ludhiana,Rainfed Only,Medium,41.9
+Punjab,Ludhiana,Canal Flood,High,130.4
+Punjab,Ludhiana,Canal Flood,Low,5.0
+Punjab,Ludhiana,Drip,Low,109.2
+Punjab,Ludhiana,Sprinkler,Low,66.2
+Punjab,Ludhiana,Canal Flood,Low,101.7
+Punjab,Ludhiana,Sprinkler,High,38.8
+Punjab,Ludhiana,Canal Flood,Medium,127.1
+Punjab,Ludhiana,Canal Flood,High,117.7
+Punjab,Ludhiana,Rainfed Only,Low,47.8
+Punjab,Ludhiana,Drip,Medium,110.9
+Punjab,Ludhiana,Sprinkler,High,12.6
+Punjab,Ludhiana,Sprinkler,Low,66.5
+Punjab,Ludhiana,Drip,High,68.0
+Punjab,Ludhiana,Rainfed Only,High,67.1
+Punjab,Ludhiana,Drip,Medium,65.7
+Punjab,Ludhiana,Sprinkler,Low,80.4
+Punjab,Ludhiana,Drip,High,81.2
+Punjab,Ludhiana,Drip,Medium,103.3
+Punjab,Ludhiana,Rainfed Only,Medium,76.0
+Punjab,Ludhiana,Rainfed Only,Low,89.4
+Punjab,Ludhiana,Rainfed Only,Medium,27.9
+Punjab,Ludhiana,Rainfed Only,High,82.1
+Punjab,Ludhiana,Rainfed Only,High,78.6
+Punjab,Ludhiana,Drip,Medium,88.0
+Punjab,Ludhiana,Canal Flood,Medium,11.4
+Punjab,Ludhiana,Drip,Low,98.8
+Punjab,Ludhiana,Canal Flood,High,117.5
+Punjab,Ludhiana,Rainfed Only,High,47.8
+Punjab,Ludhiana,Sprinkler,High,130.1
+Punjab,Ludhiana,Rainfed Only,High,43.9
+Punjab,Ludhiana,Rainfed Only,Low,102.4
+Punjab,Ludhiana,Rainfed Only,Medium,57.4
+Punjab,Ludhiana,Sprinkler,Medium,135.1
+Punjab,Ludhiana,Sprinkler,Low,54.8
+Punjab,Ludhiana,Drip,High,104.0
+Punjab,Ludhiana,Canal Flood,High,63.5
+Punjab,Ludhiana,Rainfed Only,Low,152.9
+Punjab,Ludhiana,Drip,Medium,145.4
+Punjab,Ludhiana,Rainfed Only,Medium,102.7
+Punjab,Ludhiana,Sprinkler,Low,113.9
+Punjab,Ludhiana,Drip,Medium,52.7
+Punjab,Ludhiana,Drip,High,76.0
+Punjab,Ludhiana,Sprinkler,High,85.2
+Punjab,Ludhiana,Drip,Low,80.8
+Punjab,Ludhiana,Drip,High,69.2
+Punjab,Ludhiana,Rainfed Only,High,52.4
+Punjab,Ludhiana,Drip,Low,95.4
+Punjab,Ludhiana,Sprinkler,Medium,108.2
+Punjab,Ludhiana,Rainfed Only,Low,121.6
+Punjab,Ludhiana,Drip,High,79.8
+Punjab,Ludhiana,Canal Flood,Low,81.8
+Punjab,Ludhiana,Canal Flood,Low,85.2
+Punjab,Ludhiana,Drip,High,54.8
+Punjab,Ludhiana,Sprinkler,Low,93.7
+Punjab,Ludhiana,Canal Flood,High,68.8
+Punjab,Ludhiana,Drip,Medium,155.5
+Punjab,Ludhiana,Drip,Low,114.4
+Punjab,Ludhiana,Drip,Low,107.2
+Punjab,Ludhiana,Drip,High,91.9
+Punjab,Ludhiana,Canal Flood,High,92.5
+Punjab,Ludhiana,Drip,Medium,61.0
+Punjab,Ludhiana,Rainfed Only,Medium,111.2
+Punjab,Ludhiana,Rainfed Only,Low,96.5
+Punjab,Ludhiana,Sprinkler,Medium,29.2
+Punjab,Ludhiana,Rainfed Only,High,95.2
+Punjab,Ludhiana,Rainfed Only,Medium,39.3
+Punjab,Ludhiana,Drip,Medium,68.4
+Punjab,Ludhiana,Drip,Low,52.0
+Punjab,Ludhiana,Drip,Medium,66.1
+Punjab,Ludhiana,Canal Flood,Medium,62.5
+Punjab,Ludhiana,Sprinkler,Medium,111.7
+Punjab,Ludhiana,Rainfed Only,Medium,57.6
+Punjab,Ludhiana,Canal Flood,High,5.0
+Punjab,Ludhiana,Rainfed Only,Medium,69.0
+Punjab,Ludhiana,Rainfed Only,Low,92.9
+Punjab,Ludhiana,Canal Flood,Medium,97.0
+Punjab,Ludhiana,Drip,High,114.0
+Punjab,Ludhiana,Drip,High,61.0
+Punjab,Ludhiana,Sprinkler,High,99.8
+Punjab,Ludhiana,Rainfed Only,Medium,33.9
+Punjab,Ludhiana,Drip,Medium,24.4
+Punjab,Ludhiana,Sprinkler,Low,64.7
+Punjab,Ludhiana,Canal Flood,High,107.3
+Punjab,Ludhiana,Canal Flood,High,61.3
+Punjab,Ludhiana,Drip,Medium,100.1
+Punjab,Ludhiana,Canal Flood,High,93.5
+Punjab,Ludhiana,Rainfed Only,Low,90.7
+Punjab,Ludhiana,Drip,Low,53.2
+Punjab,Ludhiana,Drip,High,68.2
+Punjab,Ludhiana,Rainfed Only,Low,68.6
+Punjab,Ludhiana,Drip,Low,114.6
+Punjab,Ludhiana,Drip,High,110.6
+Punjab,Ludhiana,Sprinkler,Low,79.6
+Punjab,Ludhiana,Canal Flood,High,86.4
+Punjab,Ludhiana,Drip,Low,86.2
+Punjab,Ludhiana,Drip,Medium,89.9
+Punjab,Ludhiana,Canal Flood,High,66.2
+Punjab,Ludhiana,Canal Flood,Low,92.9
+Punjab,Ludhiana,Drip,High,103.7
+Punjab,Ludhiana,Sprinkler,Low,15.1
+Punjab,Ludhiana,Canal Flood,Medium,81.9
+Punjab,Ludhiana,Rainfed Only,Low,50.2
+Punjab,Ludhiana,Canal Flood,Low,103.2
+Punjab,Ludhiana,Rainfed Only,Medium,79.0
+Punjab,Ludhiana,Rainfed Only,Low,103.4
+Punjab,Ludhiana,Rainfed Only,Low,83.6
+Punjab,Ludhiana,Drip,High,81.4
+Punjab,Ludhiana,Drip,High,78.0
+Punjab,Ludhiana,Canal Flood,Low,59.8
+Punjab,Ludhiana,Drip,Medium,94.6
+Punjab,Ludhiana,Rainfed Only,Medium,97.4
+Punjab,Ludhiana,Rainfed Only,High,85.0
+Punjab,Amritsar,Sprinkler,High,52.3
+Punjab,Amritsar,Drip,High,59.9
+Punjab,Amritsar,Sprinkler,Medium,111.5
+Punjab,Amritsar,Canal Flood,Medium,71.4
+Punjab,Amritsar,Canal Flood,High,101.9
+Punjab,Amritsar,Drip,Low,88.2
+Punjab,Amritsar,Drip,High,52.4
+Punjab,Amritsar,Canal Flood,High,112.4
+Punjab,Amritsar,Canal Flood,Medium,84.6
+Punjab,Amritsar,Drip,Medium,100.5
+Punjab,Amritsar,Sprinkler,High,59.4
+Punjab,Amritsar,Drip,Low,36.0
+Punjab,Amritsar,Rainfed Only,High,94.1
+Punjab,Amritsar,Sprinkler,High,96.7
+Punjab,Amritsar,Drip,Medium,48.5
+Punjab,Amritsar,Drip,High,73.7
+Punjab,Amritsar,Sprinkler,Low,97.8
+Punjab,Amritsar,Rainfed Only,Low,94.8
+Punjab,Amritsar,Rainfed Only,Low,74.5
+Punjab,Amritsar,Drip,High,99.2
+Punjab,Amritsar,Sprinkler,Low,52.7
+Punjab,Amritsar,Rainfed Only,Medium,76.2
+Punjab,Amritsar,Canal Flood,Low,140.4
+Punjab,Amritsar,Rainfed Only,Low,106.4
+Punjab,Amritsar,Rainfed Only,High,103.4
+Punjab,Amritsar,Rainfed Only,High,83.3
+Punjab,Amritsar,Sprinkler,High,91.9
+Punjab,Amritsar,Canal Flood,Medium,68.2
+Punjab,Amritsar,Canal Flood,Medium,80.5
+Punjab,Amritsar,Rainfed Only,Medium,100.6
+Punjab,Amritsar,Drip,High,37.6
+Punjab,Amritsar,Drip,High,51.1
+Punjab,Amritsar,Drip,Low,138.0
+Punjab,Amritsar,Drip,High,95.9
+Punjab,Amritsar,Rainfed Only,Medium,97.7
+Punjab,Amritsar,Sprinkler,High,104.7
+Punjab,Amritsar,Drip,High,117.4
+Punjab,Amritsar,Rainfed Only,Medium,87.2
+Punjab,Amritsar,Canal Flood,Medium,119.2
+Punjab,Amritsar,Rainfed Only,Medium,82.2
+Punjab,Amritsar,Drip,Low,106.4
+Punjab,Amritsar,Drip,Low,110.9
+Punjab,Amritsar,Drip,Medium,52.9
+Punjab,Amritsar,Canal Flood,High,98.0
+Punjab,Amritsar,Drip,Low,46.7
+Punjab,Amritsar,Canal Flood,Medium,99.9
+Punjab,Amritsar,Rainfed Only,Medium,102.4
+Punjab,Amritsar,Canal Flood,High,113.0
+Punjab,Amritsar,Canal Flood,Low,122.5
+Punjab,Amritsar,Drip,High,122.6
+Punjab,Amritsar,Drip,Medium,78.1
+Punjab,Amritsar,Rainfed Only,High,92.6
+Punjab,Amritsar,Sprinkler,Medium,73.8
+Punjab,Amritsar,Canal Flood,Low,181.1
+Punjab,Amritsar,Canal Flood,High,41.0
+Punjab,Amritsar,Drip,Medium,52.5
+Punjab,Amritsar,Canal Flood,Medium,88.3
+Punjab,Amritsar,Drip,Medium,92.3
+Punjab,Amritsar,Canal Flood,High,118.3
+Punjab,Amritsar,Drip,Low,78.1
+Punjab,Amritsar,Drip,High,5.0
+Punjab,Amritsar,Sprinkler,Low,88.0
+Punjab,Amritsar,Drip,High,58.4
+Punjab,Amritsar,Rainfed Only,Low,69.0
+Punjab,Amritsar,Canal Flood,High,26.9
+Punjab,Amritsar,Canal Flood,Low,106.5
+Punjab,Amritsar,Rainfed Only,Medium,89.3
+Punjab,Amritsar,Sprinkler,High,77.3
+Punjab,Amritsar,Sprinkler,Low,33.0
+Punjab,Amritsar,Rainfed Only,Medium,118.5
+Punjab,Amritsar,Canal Flood,High,32.7
+Punjab,Amritsar,Canal Flood,High,109.3
+Punjab,Amritsar,Rainfed Only,Low,105.2
+Punjab,Amritsar,Drip,Low,102.2
+Punjab,Amritsar,Rainfed Only,Medium,89.4
+Punjab,Amritsar,Sprinkler,High,26.8
+Punjab,Amritsar,Canal Flood,Low,75.1
+Punjab,Amritsar,Drip,Medium,59.4
+Punjab,Amritsar,Sprinkler,High,112.9
+Punjab,Amritsar,Sprinkler,Low,94.8
+Punjab,Amritsar,Drip,Medium,99.8
+Punjab,Amritsar,Sprinkler,Low,103.1
+Punjab,Amritsar,Rainfed Only,Low,113.5
+Punjab,Amritsar,Drip,High,97.8
+Punjab,Amritsar,Canal Flood,Medium,93.2
+Punjab,Amritsar,Canal Flood,Low,162.5
+Punjab,Amritsar,Rainfed Only,Low,121.2
+Punjab,Amritsar,Rainfed Only,Medium,95.9
+Punjab,Amritsar,Drip,Low,87.1
+Punjab,Amritsar,Drip,Medium,113.5
+Punjab,Amritsar,Drip,Medium,43.9
+Punjab,Amritsar,Drip,High,108.3
+Punjab,Amritsar,Sprinkler,High,45.2
+Punjab,Amritsar,Rainfed Only,High,80.1
+Punjab,Amritsar,Sprinkler,Medium,43.4
+Punjab,Amritsar,Drip,Medium,94.4
+Punjab,Amritsar,Rainfed Only,High,111.8
+Punjab,Amritsar,Sprinkler,High,66.2
+Punjab,Amritsar,Sprinkler,Low,56.9
+Punjab,Amritsar,Canal Flood,Low,72.1
+Punjab,Amritsar,Rainfed Only,Medium,66.9
+Punjab,Amritsar,Sprinkler,Low,86.5
+Punjab,Amritsar,Canal Flood,Medium,87.5
+Punjab,Amritsar,Rainfed Only,Low,89.9
+Punjab,Amritsar,Canal Flood,High,72.3
+Punjab,Amritsar,Canal Flood,Medium,118.2
+Punjab,Amritsar,Sprinkler,Low,98.9
+Punjab,Amritsar,Canal Flood,High,120.4
+Punjab,Amritsar,Drip,High,85.4
+Punjab,Amritsar,Rainfed Only,Low,137.1
+Punjab,Amritsar,Sprinkler,Medium,115.8
+Punjab,Amritsar,Sprinkler,High,101.6
+Punjab,Amritsar,Canal Flood,Low,65.9
+Punjab,Amritsar,Rainfed Only,Low,99.0
+Punjab,Amritsar,Drip,Low,6.1
+Punjab,Amritsar,Drip,Medium,143.6
+Punjab,Amritsar,Drip,Low,80.4
+Punjab,Amritsar,Drip,High,78.0
+Punjab,Amritsar,Sprinkler,Low,94.9
+Punjab,Amritsar,Drip,Medium,104.5
+Punjab,Amritsar,Rainfed Only,Medium,114.1
+Punjab,Amritsar,Canal Flood,High,58.7
+Punjab,Amritsar,Sprinkler,High,77.0
+Punjab,Amritsar,Canal Flood,High,119.1
+Punjab,Amritsar,Canal Flood,Medium,5.0
+Punjab,Amritsar,Canal Flood,Low,104.3
+Punjab,Amritsar,Rainfed Only,Medium,89.8
+Punjab,Amritsar,Drip,Low,51.2
+Punjab,Amritsar,Rainfed Only,High,44.1
+Punjab,Amritsar,Rainfed Only,High,96.2
+Punjab,Amritsar,Canal Flood,High,96.9
+Punjab,Amritsar,Drip,Low,54.4
+Punjab,Amritsar,Canal Flood,Low,132.9
+Punjab,Amritsar,Sprinkler,High,99.5
+Punjab,Amritsar,Drip,Medium,73.2
+Punjab,Amritsar,Sprinkler,Low,111.2
+Punjab,Amritsar,Canal Flood,Low,68.6
+Punjab,Amritsar,Sprinkler,Medium,133.5
+Punjab,Amritsar,Canal Flood,Low,128.6
+Punjab,Amritsar,Drip,Medium,85.7
+Punjab,Amritsar,Rainfed Only,Low,66.8
+Punjab,Amritsar,Rainfed Only,High,128.4
+Punjab,Amritsar,Canal Flood,Medium,102.3
+Punjab,Amritsar,Sprinkler,High,65.8
+Punjab,Amritsar,Canal Flood,Low,91.1
+Punjab,Amritsar,Drip,High,75.7
+Punjab,Amritsar,Sprinkler,High,33.1
+Punjab,Amritsar,Drip,High,92.2
+Punjab,Amritsar,Sprinkler,High,102.1
+Punjab,Amritsar,Drip,Medium,72.3
+Punjab,Amritsar,Sprinkler,Low,81.4
+Punjab,Amritsar,Canal Flood,Low,103.7
+Punjab,Amritsar,Sprinkler,High,101.1
+Punjab,Amritsar,Drip,Medium,16.7
+Punjab,Amritsar,Canal Flood,Low,86.2
+Punjab,Amritsar,Drip,Medium,129.0
+Punjab,Amritsar,Sprinkler,High,112.7
+Punjab,Amritsar,Rainfed Only,Medium,61.8
+Punjab,Amritsar,Sprinkler,Low,59.9
+Punjab,Amritsar,Canal Flood,Low,94.1
+Punjab,Amritsar,Sprinkler,High,116.6
+Punjab,Amritsar,Sprinkler,Low,92.8
+Punjab,Amritsar,Rainfed Only,Low,66.8
+Punjab,Amritsar,Drip,High,105.3
+Punjab,Amritsar,Sprinkler,Medium,72.5
+Punjab,Amritsar,Drip,Low,102.1
+Punjab,Amritsar,Canal Flood,Low,54.8
+Punjab,Amritsar,Rainfed Only,Low,99.2
+Punjab,Amritsar,Canal Flood,High,45.3
+Punjab,Amritsar,Rainfed Only,Low,137.0
+Punjab,Amritsar,Drip,Low,99.8
+Punjab,Amritsar,Sprinkler,Low,34.7
+Punjab,Amritsar,Rainfed Only,High,109.7
+Punjab,Amritsar,Drip,Low,54.9
+Punjab,Amritsar,Canal Flood,Medium,80.6
+Punjab,Amritsar,Rainfed Only,Medium,73.3
+Punjab,Amritsar,Drip,Medium,107.9
+Punjab,Amritsar,Canal Flood,Medium,85.7
+Punjab,Amritsar,Drip,High,70.3
+Punjab,Amritsar,Rainfed Only,High,67.6
+Punjab,Amritsar,Sprinkler,Medium,117.2
+Punjab,Amritsar,Drip,Medium,76.6
+Punjab,Amritsar,Rainfed Only,Low,42.4
+Punjab,Amritsar,Canal Flood,Low,118.0
+Punjab,Amritsar,Drip,High,98.5
+Punjab,Amritsar,Rainfed Only,Medium,81.1
+Punjab,Amritsar,Sprinkler,High,74.1
+Punjab,Amritsar,Drip,Low,97.5
+Punjab,Amritsar,Rainfed Only,Low,117.3
+Punjab,Amritsar,Sprinkler,High,53.3
+Punjab,Amritsar,Canal Flood,High,115.4
+Punjab,Amritsar,Sprinkler,Low,106.2
+Punjab,Amritsar,Sprinkler,Low,140.5
+Punjab,Amritsar,Sprinkler,High,94.4
+Punjab,Amritsar,Drip,Medium,55.1
+Punjab,Amritsar,Canal Flood,Low,89.9
+Punjab,Amritsar,Rainfed Only,Low,67.0
+Punjab,Amritsar,Rainfed Only,High,68.9
+Punjab,Amritsar,Rainfed Only,Low,47.0
+Punjab,Amritsar,Drip,Medium,61.8
+Punjab,Patiala,Sprinkler,Low,84.6
+Punjab,Patiala,Sprinkler,Medium,57.7
+Punjab,Patiala,Sprinkler,Low,133.2
+Punjab,Patiala,Drip,High,108.7
+Punjab,Patiala,Canal Flood,Medium,40.9
+Punjab,Patiala,Canal Flood,Medium,102.6
+Punjab,Patiala,Rainfed Only,High,54.9
+Punjab,Patiala,Canal Flood,Medium,128.9
+Punjab,Patiala,Drip,Medium,55.6
+Punjab,Patiala,Sprinkler,Medium,105.1
+Punjab,Patiala,Rainfed Only,Low,108.1
+Punjab,Patiala,Drip,Low,68.8
+Punjab,Patiala,Drip,Low,114.4
+Punjab,Patiala,Drip,High,118.7
+Punjab,Patiala,Drip,Low,82.8
+Punjab,Patiala,Sprinkler,High,89.0
+Punjab,Patiala,Canal Flood,Low,46.3
+Punjab,Patiala,Rainfed Only,Medium,56.7
+Punjab,Patiala,Drip,Medium,78.0
+Punjab,Patiala,Canal Flood,Medium,86.6
+Punjab,Patiala,Canal Flood,High,43.3
+Punjab,Patiala,Rainfed Only,Medium,55.1
+Punjab,Patiala,Sprinkler,Medium,101.7
+Punjab,Patiala,Canal Flood,Low,99.7
+Punjab,Patiala,Canal Flood,Low,67.7
+Punjab,Patiala,Drip,High,74.4
+Punjab,Patiala,Drip,Low,87.2
+Punjab,Patiala,Drip,Low,114.3
+Punjab,Patiala,Drip,Low,98.3
+Punjab,Patiala,Drip,Medium,39.5
+Punjab,Patiala,Drip,High,101.9
+Punjab,Patiala,Canal Flood,High,48.3
+Punjab,Patiala,Sprinkler,Low,54.5
+Punjab,Patiala,Rainfed Only,Medium,137.4
+Punjab,Patiala,Rainfed Only,Medium,99.2
+Punjab,Patiala,Sprinkler,Medium,97.3
+Punjab,Patiala,Canal Flood,Medium,55.1
+Punjab,Patiala,Drip,High,97.2
+Punjab,Patiala,Drip,Low,86.8
+Punjab,Patiala,Canal Flood,High,74.3
+Punjab,Patiala,Sprinkler,Medium,99.9
+Punjab,Patiala,Canal Flood,Low,100.1
+Punjab,Patiala,Canal Flood,High,70.7
+Punjab,Patiala,Canal Flood,Medium,128.3
+Punjab,Patiala,Canal Flood,High,139.2
+Punjab,Patiala,Canal Flood,High,9.5
+Punjab,Patiala,Canal Flood,Medium,49.6
+Punjab,Patiala,Sprinkler,Medium,65.6
+Punjab,Patiala,Sprinkler,High,82.0
+Punjab,Patiala,Sprinkler,Low,80.9
+Punjab,Patiala,Rainfed Only,Medium,58.7
+Punjab,Patiala,Canal Flood,Low,21.3
+Punjab,Patiala,Rainfed Only,High,42.2
+Punjab,Patiala,Rainfed Only,Low,72.3
+Punjab,Patiala,Sprinkler,Medium,99.8
+Punjab,Patiala,Sprinkler,Medium,48.8
+Punjab,Patiala,Drip,Medium,82.6
+Punjab,Patiala,Canal Flood,Medium,96.6
+Punjab,Patiala,Drip,Medium,56.4
+Punjab,Patiala,Drip,High,111.8
+Punjab,Patiala,Rainfed Only,Medium,49.5
+Punjab,Patiala,Rainfed Only,Low,70.5
+Punjab,Patiala,Sprinkler,Medium,87.9
+Punjab,Patiala,Sprinkler,Low,68.1
+Punjab,Patiala,Drip,Low,109.3
+Punjab,Patiala,Canal Flood,Medium,124.2
+Punjab,Patiala,Rainfed Only,Medium,79.8
+Punjab,Patiala,Drip,Low,96.5
+Punjab,Patiala,Rainfed Only,High,42.9
+Punjab,Patiala,Sprinkler,High,84.3
+Punjab,Patiala,Sprinkler,High,90.8
+Punjab,Patiala,Drip,High,84.3
+Punjab,Patiala,Canal Flood,High,70.3
+Punjab,Patiala,Drip,High,78.4
+Punjab,Patiala,Sprinkler,High,79.4
+Punjab,Patiala,Rainfed Only,Low,104.8
+Punjab,Patiala,Canal Flood,Low,101.4
+Punjab,Patiala,Sprinkler,Medium,143.5
+Punjab,Patiala,Drip,Low,120.8
+Punjab,Patiala,Drip,High,133.4
+Punjab,Patiala,Sprinkler,Low,82.8
+Punjab,Patiala,Rainfed Only,Medium,67.3
+Punjab,Patiala,Canal Flood,Low,101.0
+Punjab,Patiala,Rainfed Only,Medium,53.2
+Punjab,Patiala,Rainfed Only,Low,57.6
+Punjab,Patiala,Canal Flood,High,120.8
+Punjab,Patiala,Sprinkler,Medium,124.8
+Punjab,Patiala,Drip,Low,5.0
+Punjab,Patiala,Rainfed Only,Medium,84.5
+Punjab,Patiala,Rainfed Only,High,119.8
+Punjab,Patiala,Sprinkler,High,55.5
+Punjab,Patiala,Drip,Medium,53.4
+Punjab,Patiala,Canal Flood,Low,96.7
+Punjab,Patiala,Rainfed Only,Low,127.6
+Punjab,Patiala,Canal Flood,Medium,96.8
+Punjab,Patiala,Rainfed Only,High,82.5
+Punjab,Patiala,Rainfed Only,Low,124.4
+Punjab,Patiala,Rainfed Only,High,82.8
+Punjab,Patiala,Rainfed Only,Low,101.2
+Punjab,Patiala,Rainfed Only,Low,113.6
+Punjab,Patiala,Sprinkler,Medium,82.3
+Punjab,Patiala,Canal Flood,Low,74.4
+Punjab,Patiala,Rainfed Only,Low,127.8
+Punjab,Patiala,Canal Flood,Medium,110.3
+Punjab,Patiala,Sprinkler,Low,77.2
+Punjab,Patiala,Rainfed Only,Medium,108.2
+Punjab,Patiala,Canal Flood,Medium,106.5
+Punjab,Patiala,Canal Flood,Low,100.4
+Punjab,Patiala,Canal Flood,Low,73.5
+Punjab,Patiala,Canal Flood,Medium,149.2
+Punjab,Patiala,Rainfed Only,High,88.2
+Punjab,Patiala,Sprinkler,High,48.4
+Punjab,Patiala,Rainfed Only,Medium,91.1
+Punjab,Patiala,Drip,Low,95.4
+Punjab,Patiala,Rainfed Only,High,46.4
+Punjab,Patiala,Drip,Medium,51.2
+Punjab,Patiala,Drip,Low,34.2
+Punjab,Patiala,Drip,Medium,92.9
+Punjab,Patiala,Sprinkler,Medium,118.2
+Punjab,Patiala,Drip,High,65.3
+Punjab,Patiala,Drip,Medium,121.1
+Punjab,Patiala,Canal Flood,High,108.6
+Punjab,Patiala,Rainfed Only,Medium,70.4
+Punjab,Patiala,Canal Flood,Medium,57.8
+Punjab,Patiala,Sprinkler,Medium,73.8
+Punjab,Patiala,Drip,Low,103.0
+Punjab,Patiala,Rainfed Only,High,106.0
+Punjab,Patiala,Drip,Medium,25.5
+Punjab,Patiala,Canal Flood,Medium,119.9
+Punjab,Patiala,Drip,Low,91.8
+Punjab,Patiala,Drip,Low,53.0
+Punjab,Patiala,Canal Flood,Low,81.7
+Punjab,Patiala,Sprinkler,Medium,116.2
+Punjab,Patiala,Canal Flood,High,6.2
+Punjab,Patiala,Drip,Medium,83.6
+Punjab,Patiala,Drip,High,95.1
+Punjab,Patiala,Drip,High,104.5
+Punjab,Patiala,Canal Flood,Low,134.5
+Punjab,Patiala,Canal Flood,High,79.9
+Punjab,Patiala,Canal Flood,High,94.0
+Punjab,Patiala,Rainfed Only,Medium,83.4
+Punjab,Patiala,Sprinkler,High,126.8
+Punjab,Patiala,Canal Flood,High,12.4
+Punjab,Patiala,Rainfed Only,Low,72.7
+Punjab,Patiala,Rainfed Only,Low,117.9
+Punjab,Patiala,Drip,Low,22.8
+Punjab,Patiala,Canal Flood,Low,35.8
+Punjab,Patiala,Canal Flood,Low,43.0
+Punjab,Patiala,Drip,Medium,105.6
+Punjab,Patiala,Rainfed Only,High,29.7
+Punjab,Patiala,Drip,Medium,45.6
+Punjab,Patiala,Drip,Medium,74.3
+Punjab,Patiala,Canal Flood,Low,56.8
+Punjab,Patiala,Sprinkler,Low,130.4
+Punjab,Patiala,Canal Flood,Low,80.0
+Punjab,Patiala,Drip,Low,36.3
+Punjab,Patiala,Sprinkler,Medium,24.7
+Punjab,Patiala,Canal Flood,High,98.2
+Punjab,Patiala,Drip,Medium,63.5
+Punjab,Patiala,Rainfed Only,High,113.2
+Punjab,Patiala,Rainfed Only,High,114.8
+Punjab,Patiala,Sprinkler,Medium,45.5
+Punjab,Patiala,Sprinkler,Medium,90.6
+Punjab,Patiala,Rainfed Only,Low,97.2
+Punjab,Patiala,Drip,High,76.1
+Punjab,Patiala,Rainfed Only,High,74.5
+Punjab,Patiala,Rainfed Only,Low,51.8
+Punjab,Patiala,Drip,Medium,62.2
+Punjab,Patiala,Drip,High,102.0
+Punjab,Patiala,Rainfed Only,Low,52.8
+Punjab,Patiala,Rainfed Only,Medium,111.3
+Punjab,Patiala,Rainfed Only,Low,131.5
+Punjab,Patiala,Drip,Medium,107.0
+Punjab,Patiala,Rainfed Only,High,43.1
+Punjab,Patiala,Rainfed Only,High,67.3
+Punjab,Patiala,Drip,Low,109.9
+Punjab,Patiala,Rainfed Only,High,88.1
+Punjab,Patiala,Rainfed Only,Medium,83.5
+Punjab,Patiala,Sprinkler,Low,107.1
+Punjab,Patiala,Canal Flood,High,85.0
+Punjab,Patiala,Rainfed Only,Medium,56.3
+Punjab,Patiala,Canal Flood,Low,125.9
+Punjab,Patiala,Rainfed Only,Low,99.9
+Punjab,Patiala,Sprinkler,Medium,25.3
+Punjab,Patiala,Rainfed Only,Medium,102.6
+Punjab,Patiala,Drip,Low,65.1
+Punjab,Patiala,Sprinkler,Low,170.2
+Punjab,Patiala,Drip,Medium,96.3
+Punjab,Patiala,Rainfed Only,High,112.2
+Punjab,Patiala,Rainfed Only,High,69.4
+Punjab,Patiala,Sprinkler,Low,90.4
+Punjab,Patiala,Canal Flood,High,183.7
+Punjab,Patiala,Sprinkler,High,75.0
+Punjab,Patiala,Drip,Low,67.8
+Punjab,Patiala,Drip,Medium,83.2
+Punjab,Patiala,Canal Flood,Medium,47.5
+Punjab,Patiala,Drip,Medium,143.3
+Punjab,Patiala,Drip,Medium,82.3
+Punjab,Patiala,Sprinkler,Medium,72.4
+Punjab,Patiala,Drip,Low,68.5
+Karnataka,Bangalore Rural,Drip,Medium,44.1
+Karnataka,Bangalore Rural,Canal Flood,Low,40.3
+Karnataka,Bangalore Rural,Canal Flood,Low,119.6
+Karnataka,Bangalore Rural,Rainfed Only,High,43.0
+Karnataka,Bangalore Rural,Sprinkler,Medium,92.2
+Karnataka,Bangalore Rural,Drip,High,87.0
+Karnataka,Bangalore Rural,Sprinkler,High,131.7
+Karnataka,Bangalore Rural,Rainfed Only,Low,125.3
+Karnataka,Bangalore Rural,Drip,Low,99.0
+Karnataka,Bangalore Rural,Canal Flood,High,48.7
+Karnataka,Bangalore Rural,Drip,High,93.3
+Karnataka,Bangalore Rural,Canal Flood,High,88.5
+Karnataka,Bangalore Rural,Rainfed Only,Medium,91.3
+Karnataka,Bangalore Rural,Drip,Medium,134.4
+Karnataka,Bangalore Rural,Rainfed Only,Low,72.0
+Karnataka,Bangalore Rural,Drip,Medium,93.7
+Karnataka,Bangalore Rural,Rainfed Only,Low,63.2
+Karnataka,Bangalore Rural,Sprinkler,Low,82.8
+Karnataka,Bangalore Rural,Canal Flood,Medium,65.4
+Karnataka,Bangalore Rural,Drip,Low,93.4
+Karnataka,Bangalore Rural,Canal Flood,Medium,105.3
+Karnataka,Bangalore Rural,Rainfed Only,Low,101.2
+Karnataka,Bangalore Rural,Drip,High,96.3
+Karnataka,Bangalore Rural,Drip,Medium,100.0
+Karnataka,Bangalore Rural,Drip,High,87.4
+Karnataka,Bangalore Rural,Rainfed Only,Low,65.4
+Karnataka,Bangalore Rural,Rainfed Only,Low,53.6
+Karnataka,Bangalore Rural,Drip,High,79.7
+Karnataka,Bangalore Rural,Sprinkler,Medium,127.7
+Karnataka,Bangalore Rural,Canal Flood,High,138.7
+Karnataka,Bangalore Rural,Sprinkler,High,98.1
+Karnataka,Bangalore Rural,Rainfed Only,Low,91.9
+Karnataka,Bangalore Rural,Rainfed Only,Medium,90.5
+Karnataka,Bangalore Rural,Sprinkler,Low,99.2
+Karnataka,Bangalore Rural,Rainfed Only,Medium,45.9
+Karnataka,Bangalore Rural,Drip,High,62.3
+Karnataka,Bangalore Rural,Drip,Medium,76.6
+Karnataka,Bangalore Rural,Rainfed Only,Medium,84.5
+Karnataka,Bangalore Rural,Canal Flood,Medium,86.3
+Karnataka,Bangalore Rural,Drip,Low,102.0
+Karnataka,Bangalore Rural,Sprinkler,Medium,32.7
+Karnataka,Bangalore Rural,Drip,Medium,26.1
+Karnataka,Bangalore Rural,Rainfed Only,Medium,67.9
+Karnataka,Bangalore Rural,Drip,Medium,118.7
+Karnataka,Bangalore Rural,Sprinkler,Low,143.3
+Karnataka,Bangalore Rural,Rainfed Only,Medium,138.6
+Karnataka,Bangalore Rural,Drip,High,69.8
+Karnataka,Bangalore Rural,Sprinkler,High,123.1
+Karnataka,Bangalore Rural,Canal Flood,Low,117.1
+Karnataka,Bangalore Rural,Rainfed Only,High,83.1
+Karnataka,Bangalore Rural,Drip,Medium,79.7
+Karnataka,Bangalore Rural,Canal Flood,Medium,140.8
+Karnataka,Bangalore Rural,Canal Flood,Low,122.7
+Karnataka,Bangalore Rural,Canal Flood,Medium,31.2
+Karnataka,Bangalore Rural,Rainfed Only,Medium,51.2
+Karnataka,Bangalore Rural,Drip,Medium,88.7
+Karnataka,Bangalore Rural,Rainfed Only,Medium,143.3
+Karnataka,Bangalore Rural,Sprinkler,Medium,76.4
+Karnataka,Bangalore Rural,Drip,High,38.1
+Karnataka,Bangalore Rural,Drip,Medium,41.2
+Karnataka,Bangalore Rural,Canal Flood,Low,61.5
+Karnataka,Bangalore Rural,Canal Flood,Low,126.3
+Karnataka,Bangalore Rural,Canal Flood,High,86.6
+Karnataka,Bangalore Rural,Sprinkler,Medium,110.7
+Karnataka,Bangalore Rural,Canal Flood,Medium,69.3
+Karnataka,Bangalore Rural,Rainfed Only,High,80.8
+Karnataka,Bangalore Rural,Canal Flood,High,83.1
+Karnataka,Bangalore Rural,Canal Flood,Low,135.9
+Karnataka,Bangalore Rural,Drip,High,56.0
+Karnataka,Bangalore Rural,Rainfed Only,High,41.4
+Karnataka,Bangalore Rural,Sprinkler,Medium,80.2
+Karnataka,Bangalore Rural,Sprinkler,High,93.3
+Karnataka,Bangalore Rural,Sprinkler,Low,123.5
+Karnataka,Bangalore Rural,Canal Flood,Low,44.2
+Karnataka,Bangalore Rural,Canal Flood,Medium,87.1
+Karnataka,Bangalore Rural,Canal Flood,Low,103.2
+Karnataka,Bangalore Rural,Canal Flood,Low,49.2
+Karnataka,Bangalore Rural,Rainfed Only,Medium,100.9
+Karnataka,Bangalore Rural,Drip,High,74.3
+Karnataka,Bangalore Rural,Drip,Medium,36.9
+Karnataka,Bangalore Rural,Drip,Medium,83.0
+Karnataka,Bangalore Rural,Sprinkler,Medium,115.5
+Karnataka,Bangalore Rural,Canal Flood,Low,128.9
+Karnataka,Bangalore Rural,Rainfed Only,Medium,53.6
+Karnataka,Bangalore Rural,Drip,High,75.1
+Karnataka,Bangalore Rural,Canal Flood,Medium,90.7
+Karnataka,Bangalore Rural,Rainfed Only,High,89.2
+Karnataka,Bangalore Rural,Rainfed Only,High,33.4
+Karnataka,Bangalore Rural,Sprinkler,Medium,69.1
+Karnataka,Bangalore Rural,Canal Flood,Low,85.4
+Karnataka,Bangalore Rural,Drip,Medium,67.8
+Karnataka,Bangalore Rural,Drip,Medium,92.4
+Karnataka,Bangalore Rural,Drip,Low,102.5
+Karnataka,Bangalore Rural,Sprinkler,Medium,50.5
+Karnataka,Bangalore Rural,Drip,Low,49.9
+Karnataka,Bangalore Rural,Drip,Medium,41.6
+Karnataka,Bangalore Rural,Sprinkler,High,149.5
+Karnataka,Bangalore Rural,Drip,Low,116.9
+Karnataka,Bangalore Rural,Rainfed Only,High,25.6
+Karnataka,Bangalore Rural,Rainfed Only,Medium,107.4
+Karnataka,Bangalore Rural,Canal Flood,High,55.7
+Karnataka,Bangalore Rural,Drip,Low,36.7
+Karnataka,Bangalore Rural,Sprinkler,Low,51.9
+Karnataka,Bangalore Rural,Drip,High,27.7
+Karnataka,Bangalore Rural,Drip,Medium,97.9
+Karnataka,Bangalore Rural,Canal Flood,Low,66.1
+Karnataka,Bangalore Rural,Canal Flood,High,109.0
+Karnataka,Bangalore Rural,Drip,Medium,95.1
+Karnataka,Bangalore Rural,Rainfed Only,High,101.6
+Karnataka,Bangalore Rural,Canal Flood,High,110.4
+Karnataka,Bangalore Rural,Drip,Low,5.0
+Karnataka,Bangalore Rural,Rainfed Only,High,52.2
+Karnataka,Bangalore Rural,Rainfed Only,Medium,86.6
+Karnataka,Bangalore Rural,Rainfed Only,Low,80.7
+Karnataka,Bangalore Rural,Sprinkler,Low,59.4
+Karnataka,Bangalore Rural,Canal Flood,Low,90.1
+Karnataka,Bangalore Rural,Sprinkler,High,107.9
+Karnataka,Bangalore Rural,Canal Flood,Medium,66.3
+Karnataka,Bangalore Rural,Sprinkler,Medium,74.9
+Karnataka,Bangalore Rural,Canal Flood,High,59.7
+Karnataka,Bangalore Rural,Sprinkler,Medium,28.1
+Karnataka,Bangalore Rural,Rainfed Only,Medium,94.3
+Karnataka,Bangalore Rural,Sprinkler,Medium,65.2
+Karnataka,Bangalore Rural,Canal Flood,High,90.6
+Karnataka,Bangalore Rural,Sprinkler,Low,84.8
+Karnataka,Bangalore Rural,Drip,Low,44.8
+Karnataka,Bangalore Rural,Drip,Low,97.9
+Karnataka,Bangalore Rural,Rainfed Only,Low,65.9
+Karnataka,Bangalore Rural,Sprinkler,Medium,86.5
+Karnataka,Bangalore Rural,Sprinkler,Medium,49.9
+Karnataka,Bangalore Rural,Drip,High,76.4
+Karnataka,Bangalore Rural,Drip,High,113.6
+Karnataka,Bangalore Rural,Canal Flood,High,51.2
+Karnataka,Bangalore Rural,Sprinkler,High,107.3
+Karnataka,Bangalore Rural,Rainfed Only,Low,82.4
+Karnataka,Bangalore Rural,Rainfed Only,High,55.8
+Karnataka,Bangalore Rural,Canal Flood,Medium,113.8
+Karnataka,Bangalore Rural,Canal Flood,High,103.8
+Karnataka,Bangalore Rural,Drip,Medium,87.3
+Karnataka,Bangalore Rural,Rainfed Only,Medium,31.2
+Karnataka,Bangalore Rural,Canal Flood,High,41.5
+Karnataka,Bangalore Rural,Drip,Low,88.7
+Karnataka,Bangalore Rural,Drip,High,54.6
+Karnataka,Bangalore Rural,Canal Flood,High,126.8
+Karnataka,Bangalore Rural,Canal Flood,Medium,80.4
+Karnataka,Bangalore Rural,Rainfed Only,Medium,66.4
+Karnataka,Bangalore Rural,Rainfed Only,Medium,54.3
+Karnataka,Bangalore Rural,Rainfed Only,High,5.0
+Karnataka,Bangalore Rural,Canal Flood,High,120.0
+Karnataka,Bangalore Rural,Rainfed Only,High,59.4
+Karnataka,Bangalore Rural,Canal Flood,High,78.6
+Karnataka,Bangalore Rural,Drip,Low,77.5
+Karnataka,Bangalore Rural,Sprinkler,Low,72.5
+Karnataka,Bangalore Rural,Canal Flood,High,92.4
+Karnataka,Bangalore Rural,Rainfed Only,Medium,44.9
+Karnataka,Bangalore Rural,Rainfed Only,Low,52.9
+Karnataka,Bangalore Rural,Sprinkler,Low,123.9
+Karnataka,Bangalore Rural,Canal Flood,Low,46.2
+Karnataka,Bangalore Rural,Rainfed Only,High,88.4
+Karnataka,Bangalore Rural,Rainfed Only,High,88.4
+Karnataka,Bangalore Rural,Drip,Low,87.6
+Karnataka,Bangalore Rural,Sprinkler,High,94.0
+Karnataka,Bangalore Rural,Canal Flood,Low,21.0
+Karnataka,Bangalore Rural,Rainfed Only,Low,97.9
+Karnataka,Bangalore Rural,Canal Flood,High,60.9
+Karnataka,Bangalore Rural,Rainfed Only,Low,101.0
+Karnataka,Bangalore Rural,Rainfed Only,Low,86.9
+Karnataka,Bangalore Rural,Drip,Medium,154.0
+Karnataka,Bangalore Rural,Canal Flood,Medium,108.6
+Karnataka,Bangalore Rural,Sprinkler,Medium,78.3
+Karnataka,Bangalore Rural,Canal Flood,Low,81.8
+Karnataka,Bangalore Rural,Canal Flood,Medium,77.3
+Karnataka,Bangalore Rural,Canal Flood,Medium,117.9
+Karnataka,Bangalore Rural,Rainfed Only,High,136.2
+Karnataka,Bangalore Rural,Rainfed Only,High,107.4
+Karnataka,Bangalore Rural,Drip,Low,80.7
+Karnataka,Bangalore Rural,Drip,Medium,148.7
+Karnataka,Bangalore Rural,Rainfed Only,Medium,70.4
+Karnataka,Bangalore Rural,Rainfed Only,Medium,66.9
+Karnataka,Bangalore Rural,Canal Flood,Low,70.9
+Karnataka,Bangalore Rural,Rainfed Only,Medium,105.1
+Karnataka,Bangalore Rural,Drip,High,103.5
+Karnataka,Bangalore Rural,Drip,Low,111.3
+Karnataka,Bangalore Rural,Canal Flood,Medium,106.3
+Karnataka,Bangalore Rural,Canal Flood,Low,50.3
+Karnataka,Bangalore Rural,Drip,Low,90.5
+Karnataka,Bangalore Rural,Canal Flood,High,109.1
+Karnataka,Bangalore Rural,Canal Flood,High,146.9
+Karnataka,Bangalore Rural,Rainfed Only,Low,107.9
+Karnataka,Bangalore Rural,Sprinkler,High,70.7
+Karnataka,Bangalore Rural,Sprinkler,Low,83.7
+Karnataka,Bangalore Rural,Rainfed Only,High,129.6
+Karnataka,Bangalore Rural,Rainfed Only,Medium,67.0
+Karnataka,Bangalore Rural,Rainfed Only,Low,92.1
+Karnataka,Bangalore Rural,Canal Flood,High,73.6
+Karnataka,Bangalore Rural,Sprinkler,High,32.9
+Karnataka,Bangalore Rural,Canal Flood,High,79.7
+Karnataka,Bangalore Rural,Canal Flood,High,50.2
+Karnataka,Bangalore Rural,Sprinkler,Low,82.9
+Karnataka,Bangalore Rural,Rainfed Only,Medium,87.1
+Karnataka,Dharwad,Sprinkler,High,70.2
+Karnataka,Dharwad,Rainfed Only,High,119.8
+Karnataka,Dharwad,Sprinkler,High,103.4
+Karnataka,Dharwad,Rainfed Only,Medium,155.6
+Karnataka,Dharwad,Rainfed Only,High,93.0
+Karnataka,Dharwad,Canal Flood,High,68.4
+Karnataka,Dharwad,Sprinkler,Low,73.6
+Karnataka,Dharwad,Rainfed Only,Medium,65.1
+Karnataka,Dharwad,Canal Flood,Low,61.6
+Karnataka,Dharwad,Sprinkler,Low,65.6
+Karnataka,Dharwad,Rainfed Only,High,92.7
+Karnataka,Dharwad,Sprinkler,Low,76.2
+Karnataka,Dharwad,Drip,Medium,49.3
+Karnataka,Dharwad,Canal Flood,High,101.4
+Karnataka,Dharwad,Rainfed Only,Medium,104.9
+Karnataka,Dharwad,Sprinkler,High,78.6
+Karnataka,Dharwad,Sprinkler,Medium,75.4
+Karnataka,Dharwad,Canal Flood,High,111.6
+Karnataka,Dharwad,Drip,Low,58.0
+Karnataka,Dharwad,Rainfed Only,Medium,99.1
+Karnataka,Dharwad,Drip,Medium,74.5
+Karnataka,Dharwad,Rainfed Only,High,81.7
+Karnataka,Dharwad,Canal Flood,Medium,101.9
+Karnataka,Dharwad,Sprinkler,High,94.6
+Karnataka,Dharwad,Drip,Medium,87.0
+Karnataka,Dharwad,Sprinkler,Low,93.5
+Karnataka,Dharwad,Drip,Low,140.1
+Karnataka,Dharwad,Sprinkler,Low,94.7
+Karnataka,Dharwad,Canal Flood,Low,68.9
+Karnataka,Dharwad,Drip,Medium,50.5
+Karnataka,Dharwad,Canal Flood,Low,107.3
+Karnataka,Dharwad,Rainfed Only,Low,70.6
+Karnataka,Dharwad,Sprinkler,Medium,62.8
+Karnataka,Dharwad,Sprinkler,Medium,81.5
+Karnataka,Dharwad,Drip,High,62.3
+Karnataka,Dharwad,Rainfed Only,High,105.9
+Karnataka,Dharwad,Canal Flood,High,143.1
+Karnataka,Dharwad,Canal Flood,Medium,84.9
+Karnataka,Dharwad,Canal Flood,High,39.5
+Karnataka,Dharwad,Drip,High,83.7
+Karnataka,Dharwad,Canal Flood,Medium,36.6
+Karnataka,Dharwad,Canal Flood,Low,112.3
+Karnataka,Dharwad,Drip,Low,72.2
+Karnataka,Dharwad,Sprinkler,High,130.8
+Karnataka,Dharwad,Rainfed Only,High,43.1
+Karnataka,Dharwad,Canal Flood,Medium,53.7
+Karnataka,Dharwad,Sprinkler,High,103.7
+Karnataka,Dharwad,Canal Flood,Low,111.2
+Karnataka,Dharwad,Drip,High,112.1
+Karnataka,Dharwad,Rainfed Only,High,138.2
+Karnataka,Dharwad,Canal Flood,Medium,51.5
+Karnataka,Dharwad,Drip,High,47.7
+Karnataka,Dharwad,Canal Flood,Low,40.2
+Karnataka,Dharwad,Canal Flood,Medium,64.8
+Karnataka,Dharwad,Drip,Low,119.7
+Karnataka,Dharwad,Canal Flood,High,150.3
+Karnataka,Dharwad,Canal Flood,High,100.7
+Karnataka,Dharwad,Sprinkler,Low,56.7
+Karnataka,Dharwad,Sprinkler,Medium,85.4
+Karnataka,Dharwad,Sprinkler,Low,105.4
+Karnataka,Dharwad,Sprinkler,Low,67.0
+Karnataka,Dharwad,Rainfed Only,High,64.8
+Karnataka,Dharwad,Canal Flood,High,84.2
+Karnataka,Dharwad,Canal Flood,Medium,127.9
+Karnataka,Dharwad,Canal Flood,High,45.8
+Karnataka,Dharwad,Rainfed Only,Medium,14.9
+Karnataka,Dharwad,Rainfed Only,Medium,71.9
+Karnataka,Dharwad,Sprinkler,High,56.2
+Karnataka,Dharwad,Rainfed Only,Low,70.5
+Karnataka,Dharwad,Rainfed Only,Low,101.4
+Karnataka,Dharwad,Drip,Low,78.8
+Karnataka,Dharwad,Sprinkler,Low,131.1
+Karnataka,Dharwad,Sprinkler,High,125.8
+Karnataka,Dharwad,Sprinkler,High,60.3
+Karnataka,Dharwad,Rainfed Only,Medium,66.2
+Karnataka,Dharwad,Rainfed Only,High,113.7
+Karnataka,Dharwad,Canal Flood,Medium,71.9
+Karnataka,Dharwad,Canal Flood,High,81.8
+Karnataka,Dharwad,Rainfed Only,Medium,106.5
+Karnataka,Dharwad,Rainfed Only,High,85.1
+Karnataka,Dharwad,Sprinkler,High,71.6
+Karnataka,Dharwad,Canal Flood,High,94.7
+Karnataka,Dharwad,Drip,Low,73.4
+Karnataka,Dharwad,Rainfed Only,Low,132.8
+Karnataka,Dharwad,Rainfed Only,Medium,50.0
+Karnataka,Dharwad,Canal Flood,High,64.5
+Karnataka,Dharwad,Drip,Low,110.5
+Karnataka,Dharwad,Rainfed Only,Low,104.8
+Karnataka,Dharwad,Drip,High,59.2
+Karnataka,Dharwad,Canal Flood,Medium,95.7
+Karnataka,Dharwad,Drip,Low,90.0
+Karnataka,Dharwad,Drip,Medium,68.2
+Karnataka,Dharwad,Rainfed Only,Medium,79.2
+Karnataka,Dharwad,Drip,High,76.2
+Karnataka,Dharwad,Sprinkler,Medium,56.0
+Karnataka,Dharwad,Rainfed Only,High,88.7
+Karnataka,Dharwad,Sprinkler,High,71.4
+Karnataka,Dharwad,Canal Flood,Low,91.8
+Karnataka,Dharwad,Rainfed Only,Low,69.0
+Karnataka,Dharwad,Drip,High,43.9
+Karnataka,Dharwad,Sprinkler,High,120.3
+Karnataka,Dharwad,Canal Flood,Medium,117.0
+Karnataka,Dharwad,Sprinkler,Medium,46.6
+Karnataka,Dharwad,Sprinkler,Low,70.8
+Karnataka,Dharwad,Canal Flood,High,103.2
+Karnataka,Dharwad,Drip,High,64.7
+Karnataka,Dharwad,Drip,High,72.3
+Karnataka,Dharwad,Rainfed Only,Low,100.0
+Karnataka,Dharwad,Drip,High,70.8
+Karnataka,Dharwad,Canal Flood,High,131.3
+Karnataka,Dharwad,Drip,Medium,105.0
+Karnataka,Dharwad,Sprinkler,High,100.8
+Karnataka,Dharwad,Sprinkler,High,86.2
+Karnataka,Dharwad,Sprinkler,High,84.9
+Karnataka,Dharwad,Sprinkler,Low,118.7
+Karnataka,Dharwad,Rainfed Only,High,80.1
+Karnataka,Dharwad,Sprinkler,Low,106.0
+Karnataka,Dharwad,Canal Flood,Low,95.9
+Karnataka,Dharwad,Canal Flood,Medium,127.5
+Karnataka,Dharwad,Drip,Low,108.9
+Karnataka,Dharwad,Canal Flood,Low,104.0
+Karnataka,Dharwad,Rainfed Only,Low,159.4
+Karnataka,Dharwad,Drip,Medium,78.6
+Karnataka,Dharwad,Canal Flood,High,122.5
+Karnataka,Dharwad,Rainfed Only,High,144.3
+Karnataka,Dharwad,Sprinkler,Low,96.7
+Karnataka,Dharwad,Drip,Medium,135.3
+Karnataka,Dharwad,Rainfed Only,High,85.1
+Karnataka,Dharwad,Sprinkler,Low,81.2
+Karnataka,Dharwad,Drip,High,93.2
+Karnataka,Dharwad,Rainfed Only,High,90.2
+Karnataka,Dharwad,Rainfed Only,Medium,51.0
+Karnataka,Dharwad,Drip,Low,108.4
+Karnataka,Dharwad,Drip,High,72.2
+Karnataka,Dharwad,Sprinkler,Medium,119.0
+Karnataka,Dharwad,Rainfed Only,Medium,77.9
+Karnataka,Dharwad,Canal Flood,Low,71.2
+Karnataka,Dharwad,Drip,High,134.9
+Karnataka,Dharwad,Sprinkler,Low,70.2
+Karnataka,Dharwad,Rainfed Only,High,76.8
+Karnataka,Dharwad,Drip,Medium,108.7
+Karnataka,Dharwad,Canal Flood,High,43.8
+Karnataka,Dharwad,Sprinkler,Medium,82.5
+Karnataka,Dharwad,Drip,Medium,85.3
+Karnataka,Dharwad,Canal Flood,Medium,57.3
+Karnataka,Dharwad,Rainfed Only,High,78.6
+Karnataka,Dharwad,Drip,Low,78.2
+Karnataka,Dharwad,Rainfed Only,Low,76.6
+Karnataka,Dharwad,Sprinkler,Medium,117.7
+Karnataka,Dharwad,Canal Flood,Medium,124.3
+Karnataka,Dharwad,Rainfed Only,Low,57.5
+Karnataka,Dharwad,Canal Flood,Medium,90.2
+Karnataka,Dharwad,Sprinkler,Medium,56.8
+Karnataka,Dharwad,Rainfed Only,Medium,69.5
+Karnataka,Dharwad,Rainfed Only,High,88.5
+Karnataka,Dharwad,Rainfed Only,High,93.1
+Karnataka,Dharwad,Drip,High,70.3
+Karnataka,Dharwad,Rainfed Only,Low,135.6
+Karnataka,Dharwad,Sprinkler,Medium,138.5
+Karnataka,Dharwad,Rainfed Only,Medium,70.7
+Karnataka,Dharwad,Rainfed Only,High,106.3
+Karnataka,Dharwad,Drip,Low,100.0
+Karnataka,Dharwad,Canal Flood,High,93.9
+Karnataka,Dharwad,Canal Flood,Low,125.4
+Karnataka,Dharwad,Rainfed Only,High,71.9
+Karnataka,Dharwad,Canal Flood,Low,126.8
+Karnataka,Dharwad,Sprinkler,Low,104.8
+Karnataka,Dharwad,Rainfed Only,Medium,75.3
+Karnataka,Dharwad,Sprinkler,Medium,72.1
+Karnataka,Dharwad,Drip,High,54.4
+Karnataka,Dharwad,Sprinkler,Low,129.2
+Karnataka,Dharwad,Sprinkler,Medium,148.3
+Karnataka,Dharwad,Drip,Medium,172.3
+Karnataka,Dharwad,Rainfed Only,Medium,108.2
+Karnataka,Dharwad,Drip,High,81.9
+Karnataka,Dharwad,Canal Flood,Medium,89.0
+Karnataka,Dharwad,Canal Flood,Low,143.4
+Karnataka,Dharwad,Canal Flood,Medium,100.2
+Karnataka,Dharwad,Drip,High,94.9
+Karnataka,Dharwad,Sprinkler,High,66.9
+Karnataka,Dharwad,Drip,High,99.9
+Karnataka,Dharwad,Sprinkler,Medium,62.6
+Karnataka,Dharwad,Drip,Low,147.0
+Karnataka,Dharwad,Drip,High,80.9
+Karnataka,Dharwad,Sprinkler,High,72.9
+Karnataka,Dharwad,Sprinkler,Low,115.3
+Karnataka,Dharwad,Sprinkler,High,20.9
+Karnataka,Dharwad,Sprinkler,High,132.2
+Karnataka,Dharwad,Canal Flood,Low,116.2
+Karnataka,Dharwad,Rainfed Only,Low,32.8
+Karnataka,Dharwad,Rainfed Only,Medium,105.2
+Karnataka,Dharwad,Sprinkler,High,65.7
+Karnataka,Dharwad,Drip,High,54.5
+Karnataka,Dharwad,Sprinkler,Medium,56.1
+Karnataka,Dharwad,Rainfed Only,Medium,112.1
+Karnataka,Dharwad,Rainfed Only,High,53.1
+Karnataka,Dharwad,Drip,Low,78.0
+Karnataka,Dharwad,Canal Flood,Medium,60.8
+Karnataka,Dharwad,Canal Flood,Medium,61.2
+Karnataka,Dharwad,Drip,Low,87.1
+Karnataka,Mysore,Canal Flood,Medium,30.8
+Karnataka,Mysore,Drip,High,75.6
+Karnataka,Mysore,Canal Flood,High,14.3
+Karnataka,Mysore,Canal Flood,High,115.2
+Karnataka,Mysore,Drip,High,54.6
+Karnataka,Mysore,Sprinkler,High,23.9
+Karnataka,Mysore,Sprinkler,High,67.4
+Karnataka,Mysore,Sprinkler,Medium,41.0
+Karnataka,Mysore,Canal Flood,High,67.6
+Karnataka,Mysore,Sprinkler,Medium,81.0
+Karnataka,Mysore,Rainfed Only,Medium,59.1
+Karnataka,Mysore,Canal Flood,High,83.7
+Karnataka,Mysore,Sprinkler,Medium,112.7
+Karnataka,Mysore,Rainfed Only,Low,78.5
+Karnataka,Mysore,Sprinkler,Low,104.6
+Karnataka,Mysore,Sprinkler,Medium,56.4
+Karnataka,Mysore,Sprinkler,Medium,111.0
+Karnataka,Mysore,Rainfed Only,High,102.8
+Karnataka,Mysore,Drip,Low,134.7
+Karnataka,Mysore,Canal Flood,Medium,61.8
+Karnataka,Mysore,Drip,Low,41.8
+Karnataka,Mysore,Drip,Medium,63.6
+Karnataka,Mysore,Sprinkler,High,83.5
+Karnataka,Mysore,Sprinkler,Low,83.2
+Karnataka,Mysore,Sprinkler,Low,69.0
+Karnataka,Mysore,Canal Flood,High,115.4
+Karnataka,Mysore,Rainfed Only,Medium,123.9
+Karnataka,Mysore,Canal Flood,Medium,63.2
+Karnataka,Mysore,Rainfed Only,High,67.7
+Karnataka,Mysore,Sprinkler,High,73.3
+Karnataka,Mysore,Rainfed Only,Medium,64.5
+Karnataka,Mysore,Canal Flood,Medium,76.7
+Karnataka,Mysore,Rainfed Only,Medium,17.5
+Karnataka,Mysore,Canal Flood,Medium,118.5
+Karnataka,Mysore,Rainfed Only,Low,121.0
+Karnataka,Mysore,Sprinkler,Medium,31.2
+Karnataka,Mysore,Rainfed Only,Low,56.9
+Karnataka,Mysore,Drip,High,85.2
+Karnataka,Mysore,Canal Flood,High,70.2
+Karnataka,Mysore,Drip,Low,87.2
+Karnataka,Mysore,Canal Flood,High,136.4
+Karnataka,Mysore,Canal Flood,Low,75.5
+Karnataka,Mysore,Drip,High,134.5
+Karnataka,Mysore,Drip,Medium,15.7
+Karnataka,Mysore,Rainfed Only,High,121.5
+Karnataka,Mysore,Rainfed Only,Low,106.5
+Karnataka,Mysore,Rainfed Only,High,125.3
+Karnataka,Mysore,Sprinkler,Medium,99.2
+Karnataka,Mysore,Sprinkler,High,76.7
+Karnataka,Mysore,Drip,Low,174.5
+Karnataka,Mysore,Canal Flood,Low,83.8
+Karnataka,Mysore,Canal Flood,Medium,110.6
+Karnataka,Mysore,Sprinkler,High,41.5
+Karnataka,Mysore,Sprinkler,Low,86.2
+Karnataka,Mysore,Drip,Medium,118.4
+Karnataka,Mysore,Sprinkler,Medium,75.0
+Karnataka,Mysore,Drip,High,56.0
+Karnataka,Mysore,Drip,Low,130.4
+Karnataka,Mysore,Rainfed Only,High,76.2
+Karnataka,Mysore,Drip,Medium,156.0
+Karnataka,Mysore,Canal Flood,Medium,106.6
+Karnataka,Mysore,Drip,Low,126.1
+Karnataka,Mysore,Drip,Medium,93.6
+Karnataka,Mysore,Canal Flood,Medium,112.2
+Karnataka,Mysore,Canal Flood,Medium,54.5
+Karnataka,Mysore,Rainfed Only,Low,130.0
+Karnataka,Mysore,Canal Flood,High,86.5
+Karnataka,Mysore,Canal Flood,High,129.7
+Karnataka,Mysore,Sprinkler,High,105.1
+Karnataka,Mysore,Canal Flood,Medium,81.1
+Karnataka,Mysore,Canal Flood,High,64.4
+Karnataka,Mysore,Sprinkler,Medium,46.2
+Karnataka,Mysore,Drip,High,53.5
+Karnataka,Mysore,Sprinkler,Medium,5.0
+Karnataka,Mysore,Rainfed Only,Medium,80.2
+Karnataka,Mysore,Drip,High,82.3
+Karnataka,Mysore,Canal Flood,Medium,72.7
+Karnataka,Mysore,Sprinkler,High,101.7
+Karnataka,Mysore,Sprinkler,High,73.6
+Karnataka,Mysore,Sprinkler,High,100.4
+Karnataka,Mysore,Canal Flood,Medium,56.5
+Karnataka,Mysore,Sprinkler,Medium,123.0
+Karnataka,Mysore,Rainfed Only,Low,84.8
+Karnataka,Mysore,Sprinkler,Medium,72.5
+Karnataka,Mysore,Drip,Medium,91.1
+Karnataka,Mysore,Rainfed Only,Medium,68.0
+Karnataka,Mysore,Drip,High,78.7
+Karnataka,Mysore,Canal Flood,High,75.5
+Karnataka,Mysore,Sprinkler,Medium,44.8
+Karnataka,Mysore,Drip,Low,97.6
+Karnataka,Mysore,Drip,Low,115.9
+Karnataka,Mysore,Rainfed Only,Low,59.8
+Karnataka,Mysore,Canal Flood,High,120.3
+Karnataka,Mysore,Rainfed Only,Medium,96.8
+Karnataka,Mysore,Rainfed Only,High,141.4
+Karnataka,Mysore,Canal Flood,Low,80.5
+Karnataka,Mysore,Sprinkler,High,59.5
+Karnataka,Mysore,Canal Flood,High,60.7
+Karnataka,Mysore,Canal Flood,Low,98.3
+Karnataka,Mysore,Sprinkler,Medium,90.1
+Karnataka,Mysore,Sprinkler,Medium,162.8
+Karnataka,Mysore,Sprinkler,Medium,87.8
+Karnataka,Mysore,Canal Flood,High,41.5
+Karnataka,Mysore,Canal Flood,Medium,91.8
+Karnataka,Mysore,Sprinkler,High,65.1
+Karnataka,Mysore,Canal Flood,High,92.7
+Karnataka,Mysore,Rainfed Only,High,111.1
+Karnataka,Mysore,Canal Flood,Low,92.1
+Karnataka,Mysore,Rainfed Only,Low,104.0
+Karnataka,Mysore,Drip,High,161.4
+Karnataka,Mysore,Rainfed Only,High,91.4
+Karnataka,Mysore,Drip,Medium,79.0
+Karnataka,Mysore,Drip,High,98.7
+Karnataka,Mysore,Sprinkler,Medium,109.4
+Karnataka,Mysore,Drip,Medium,64.4
+Karnataka,Mysore,Canal Flood,High,105.3
+Karnataka,Mysore,Canal Flood,Medium,136.5
+Karnataka,Mysore,Canal Flood,Medium,131.2
+Karnataka,Mysore,Sprinkler,Medium,82.0
+Karnataka,Mysore,Sprinkler,Medium,79.1
+Karnataka,Mysore,Rainfed Only,High,115.8
+Karnataka,Mysore,Drip,Low,148.6
+Karnataka,Mysore,Drip,Medium,57.3
+Karnataka,Mysore,Rainfed Only,High,35.0
+Karnataka,Mysore,Rainfed Only,High,40.5
+Karnataka,Mysore,Rainfed Only,High,67.3
+Karnataka,Mysore,Drip,High,52.0
+Karnataka,Mysore,Sprinkler,Medium,89.2
+Karnataka,Mysore,Drip,High,45.5
+Karnataka,Mysore,Drip,Low,93.1
+Karnataka,Mysore,Rainfed Only,Low,55.6
+Karnataka,Mysore,Drip,High,75.1
+Karnataka,Mysore,Sprinkler,Low,129.4
+Karnataka,Mysore,Sprinkler,High,127.2
+Karnataka,Mysore,Drip,Low,55.7
+Karnataka,Mysore,Drip,High,26.2
+Karnataka,Mysore,Drip,Low,32.2
+Karnataka,Mysore,Canal Flood,Low,37.7
+Karnataka,Mysore,Rainfed Only,Low,21.9
+Karnataka,Mysore,Sprinkler,High,132.9
+Karnataka,Mysore,Drip,Low,118.3
+Karnataka,Mysore,Rainfed Only,Medium,118.6
+Karnataka,Mysore,Rainfed Only,High,54.6
+Karnataka,Mysore,Drip,Medium,126.1
+Karnataka,Mysore,Canal Flood,High,50.1
+Karnataka,Mysore,Canal Flood,High,74.7
+Karnataka,Mysore,Rainfed Only,High,80.2
+Karnataka,Mysore,Drip,Low,120.1
+Karnataka,Mysore,Canal Flood,Medium,47.7
+Karnataka,Mysore,Rainfed Only,Medium,83.4
+Karnataka,Mysore,Rainfed Only,High,35.8
+Karnataka,Mysore,Sprinkler,Medium,55.6
+Karnataka,Mysore,Sprinkler,Low,58.6
+Karnataka,Mysore,Rainfed Only,Low,80.9
+Karnataka,Mysore,Sprinkler,Medium,62.9
+Karnataka,Mysore,Drip,Low,149.5
+Karnataka,Mysore,Drip,Medium,88.8
+Karnataka,Mysore,Sprinkler,High,73.4
+Karnataka,Mysore,Canal Flood,Low,66.0
+Karnataka,Mysore,Sprinkler,High,78.9
+Karnataka,Mysore,Canal Flood,Medium,94.3
+Karnataka,Mysore,Canal Flood,High,127.4
+Karnataka,Mysore,Rainfed Only,Medium,50.0
+Karnataka,Mysore,Canal Flood,Medium,90.4
+Karnataka,Mysore,Drip,Low,123.0
+Karnataka,Mysore,Sprinkler,High,99.5
+Karnataka,Mysore,Canal Flood,Medium,66.7
+Karnataka,Mysore,Rainfed Only,High,61.5
+Karnataka,Mysore,Drip,High,59.6
+Karnataka,Mysore,Drip,Medium,64.0
+Karnataka,Mysore,Canal Flood,High,50.6
+Karnataka,Mysore,Canal Flood,High,73.2
+Karnataka,Mysore,Rainfed Only,Low,85.1
+Karnataka,Mysore,Sprinkler,Medium,71.0
+Karnataka,Mysore,Sprinkler,High,102.5
+Karnataka,Mysore,Sprinkler,High,70.0
+Karnataka,Mysore,Drip,High,180.4
+Karnataka,Mysore,Drip,High,115.6
+Karnataka,Mysore,Rainfed Only,High,119.0
+Karnataka,Mysore,Sprinkler,High,121.4
+Karnataka,Mysore,Drip,High,28.0
+Karnataka,Mysore,Sprinkler,Medium,72.4
+Karnataka,Mysore,Canal Flood,Medium,108.9
+Karnataka,Mysore,Canal Flood,Low,65.0
+Karnataka,Mysore,Drip,Medium,49.9
+Karnataka,Mysore,Canal Flood,Low,68.3
+Karnataka,Mysore,Drip,High,109.8
+Karnataka,Mysore,Canal Flood,High,51.7
+Karnataka,Mysore,Sprinkler,High,79.5
+Karnataka,Mysore,Canal Flood,Low,64.3
+Karnataka,Mysore,Sprinkler,Low,81.3
+Karnataka,Mysore,Sprinkler,Medium,40.1
+Karnataka,Mysore,Sprinkler,High,98.6
+Karnataka,Mysore,Sprinkler,Low,97.9
+Karnataka,Mysore,Canal Flood,High,84.6
+Karnataka,Mysore,Rainfed Only,Medium,85.9
+Karnataka,Mysore,Drip,Low,96.0
+Karnataka,Mysore,Sprinkler,High,91.2
+Karnataka,Mysore,Sprinkler,Low,132.9
+Karnataka,Mysore,Rainfed Only,Low,73.7
+Tamil Nadu,Coimbatore,Sprinkler,Low,38.6
+Tamil Nadu,Coimbatore,Sprinkler,High,69.1
+Tamil Nadu,Coimbatore,Sprinkler,Medium,125.2
+Tamil Nadu,Coimbatore,Canal Flood,Low,60.9
+Tamil Nadu,Coimbatore,Canal Flood,Low,61.5
+Tamil Nadu,Coimbatore,Sprinkler,Medium,75.8
+Tamil Nadu,Coimbatore,Canal Flood,Medium,44.0
+Tamil Nadu,Coimbatore,Sprinkler,Medium,105.5
+Tamil Nadu,Coimbatore,Sprinkler,High,91.3
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,71.2
+Tamil Nadu,Coimbatore,Canal Flood,Low,99.4
+Tamil Nadu,Coimbatore,Drip,Medium,53.2
+Tamil Nadu,Coimbatore,Rainfed Only,High,87.7
+Tamil Nadu,Coimbatore,Sprinkler,High,52.9
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,99.9
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,90.8
+Tamil Nadu,Coimbatore,Sprinkler,Medium,98.4
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,42.8
+Tamil Nadu,Coimbatore,Canal Flood,Low,77.7
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,82.0
+Tamil Nadu,Coimbatore,Drip,Low,65.5
+Tamil Nadu,Coimbatore,Sprinkler,High,77.3
+Tamil Nadu,Coimbatore,Drip,Low,89.6
+Tamil Nadu,Coimbatore,Rainfed Only,Low,72.3
+Tamil Nadu,Coimbatore,Drip,Medium,41.9
+Tamil Nadu,Coimbatore,Canal Flood,Medium,29.3
+Tamil Nadu,Coimbatore,Drip,Medium,68.2
+Tamil Nadu,Coimbatore,Canal Flood,Medium,122.0
+Tamil Nadu,Coimbatore,Sprinkler,High,116.7
+Tamil Nadu,Coimbatore,Canal Flood,High,60.0
+Tamil Nadu,Coimbatore,Drip,High,63.0
+Tamil Nadu,Coimbatore,Rainfed Only,Low,112.4
+Tamil Nadu,Coimbatore,Canal Flood,High,98.3
+Tamil Nadu,Coimbatore,Drip,Low,97.9
+Tamil Nadu,Coimbatore,Canal Flood,Low,72.9
+Tamil Nadu,Coimbatore,Sprinkler,High,65.1
+Tamil Nadu,Coimbatore,Canal Flood,High,92.6
+Tamil Nadu,Coimbatore,Sprinkler,Low,68.5
+Tamil Nadu,Coimbatore,Rainfed Only,High,119.9
+Tamil Nadu,Coimbatore,Sprinkler,Medium,83.1
+Tamil Nadu,Coimbatore,Sprinkler,High,152.2
+Tamil Nadu,Coimbatore,Rainfed Only,Low,103.3
+Tamil Nadu,Coimbatore,Drip,Medium,73.0
+Tamil Nadu,Coimbatore,Sprinkler,High,63.4
+Tamil Nadu,Coimbatore,Sprinkler,High,42.2
+Tamil Nadu,Coimbatore,Canal Flood,Medium,115.6
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,69.5
+Tamil Nadu,Coimbatore,Drip,Medium,57.8
+Tamil Nadu,Coimbatore,Drip,High,70.3
+Tamil Nadu,Coimbatore,Canal Flood,High,104.9
+Tamil Nadu,Coimbatore,Drip,Medium,134.0
+Tamil Nadu,Coimbatore,Drip,Medium,61.3
+Tamil Nadu,Coimbatore,Sprinkler,Low,97.1
+Tamil Nadu,Coimbatore,Drip,Medium,84.9
+Tamil Nadu,Coimbatore,Canal Flood,High,180.5
+Tamil Nadu,Coimbatore,Sprinkler,Low,102.8
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,66.3
+Tamil Nadu,Coimbatore,Sprinkler,Medium,64.2
+Tamil Nadu,Coimbatore,Canal Flood,High,5.0
+Tamil Nadu,Coimbatore,Rainfed Only,High,82.5
+Tamil Nadu,Coimbatore,Drip,Low,87.1
+Tamil Nadu,Coimbatore,Rainfed Only,Low,98.4
+Tamil Nadu,Coimbatore,Drip,Medium,74.1
+Tamil Nadu,Coimbatore,Drip,Low,105.4
+Tamil Nadu,Coimbatore,Drip,High,56.5
+Tamil Nadu,Coimbatore,Canal Flood,Medium,84.0
+Tamil Nadu,Coimbatore,Drip,High,47.8
+Tamil Nadu,Coimbatore,Canal Flood,Low,103.4
+Tamil Nadu,Coimbatore,Canal Flood,Medium,48.5
+Tamil Nadu,Coimbatore,Drip,Medium,19.3
+Tamil Nadu,Coimbatore,Drip,Low,76.4
+Tamil Nadu,Coimbatore,Canal Flood,Low,64.1
+Tamil Nadu,Coimbatore,Rainfed Only,High,124.5
+Tamil Nadu,Coimbatore,Canal Flood,Medium,92.0
+Tamil Nadu,Coimbatore,Sprinkler,Medium,12.3
+Tamil Nadu,Coimbatore,Canal Flood,High,130.5
+Tamil Nadu,Coimbatore,Sprinkler,Low,42.3
+Tamil Nadu,Coimbatore,Drip,Low,56.1
+Tamil Nadu,Coimbatore,Sprinkler,Low,69.0
+Tamil Nadu,Coimbatore,Rainfed Only,High,84.7
+Tamil Nadu,Coimbatore,Sprinkler,Medium,56.6
+Tamil Nadu,Coimbatore,Sprinkler,High,118.4
+Tamil Nadu,Coimbatore,Drip,High,65.5
+Tamil Nadu,Coimbatore,Rainfed Only,Low,38.1
+Tamil Nadu,Coimbatore,Sprinkler,Low,139.4
+Tamil Nadu,Coimbatore,Rainfed Only,Low,109.6
+Tamil Nadu,Coimbatore,Drip,Low,109.3
+Tamil Nadu,Coimbatore,Sprinkler,Medium,11.2
+Tamil Nadu,Coimbatore,Canal Flood,High,83.6
+Tamil Nadu,Coimbatore,Drip,Medium,118.2
+Tamil Nadu,Coimbatore,Canal Flood,Low,71.1
+Tamil Nadu,Coimbatore,Canal Flood,High,111.6
+Tamil Nadu,Coimbatore,Canal Flood,Low,106.5
+Tamil Nadu,Coimbatore,Rainfed Only,High,100.9
+Tamil Nadu,Coimbatore,Drip,High,98.2
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,47.5
+Tamil Nadu,Coimbatore,Canal Flood,Medium,134.4
+Tamil Nadu,Coimbatore,Sprinkler,Low,73.9
+Tamil Nadu,Coimbatore,Drip,High,106.5
+Tamil Nadu,Coimbatore,Drip,Medium,106.0
+Tamil Nadu,Coimbatore,Sprinkler,Medium,82.7
+Tamil Nadu,Coimbatore,Rainfed Only,High,62.2
+Tamil Nadu,Coimbatore,Drip,Medium,138.9
+Tamil Nadu,Coimbatore,Sprinkler,High,12.2
+Tamil Nadu,Coimbatore,Rainfed Only,Low,115.6
+Tamil Nadu,Coimbatore,Drip,Low,146.4
+Tamil Nadu,Coimbatore,Drip,High,92.2
+Tamil Nadu,Coimbatore,Rainfed Only,Low,121.2
+Tamil Nadu,Coimbatore,Rainfed Only,Low,130.3
+Tamil Nadu,Coimbatore,Rainfed Only,High,85.8
+Tamil Nadu,Coimbatore,Canal Flood,Medium,82.7
+Tamil Nadu,Coimbatore,Sprinkler,Medium,60.7
+Tamil Nadu,Coimbatore,Canal Flood,Medium,45.7
+Tamil Nadu,Coimbatore,Drip,High,80.8
+Tamil Nadu,Coimbatore,Rainfed Only,Low,114.4
+Tamil Nadu,Coimbatore,Sprinkler,High,38.8
+Tamil Nadu,Coimbatore,Drip,Low,83.0
+Tamil Nadu,Coimbatore,Canal Flood,Medium,113.6
+Tamil Nadu,Coimbatore,Rainfed Only,High,42.7
+Tamil Nadu,Coimbatore,Sprinkler,High,54.3
+Tamil Nadu,Coimbatore,Drip,High,102.6
+Tamil Nadu,Coimbatore,Rainfed Only,Low,48.3
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,106.7
+Tamil Nadu,Coimbatore,Sprinkler,High,96.8
+Tamil Nadu,Coimbatore,Sprinkler,Medium,70.0
+Tamil Nadu,Coimbatore,Canal Flood,High,90.4
+Tamil Nadu,Coimbatore,Sprinkler,High,64.1
+Tamil Nadu,Coimbatore,Drip,High,96.5
+Tamil Nadu,Coimbatore,Sprinkler,Low,127.8
+Tamil Nadu,Coimbatore,Drip,Medium,113.8
+Tamil Nadu,Coimbatore,Canal Flood,Low,123.9
+Tamil Nadu,Coimbatore,Sprinkler,Low,123.1
+Tamil Nadu,Coimbatore,Canal Flood,Low,144.1
+Tamil Nadu,Coimbatore,Sprinkler,Low,103.3
+Tamil Nadu,Coimbatore,Sprinkler,Low,150.3
+Tamil Nadu,Coimbatore,Canal Flood,High,100.6
+Tamil Nadu,Coimbatore,Rainfed Only,High,90.7
+Tamil Nadu,Coimbatore,Rainfed Only,High,93.1
+Tamil Nadu,Coimbatore,Rainfed Only,Low,153.2
+Tamil Nadu,Coimbatore,Rainfed Only,High,94.8
+Tamil Nadu,Coimbatore,Canal Flood,Low,60.1
+Tamil Nadu,Coimbatore,Rainfed Only,Low,79.0
+Tamil Nadu,Coimbatore,Drip,Low,90.3
+Tamil Nadu,Coimbatore,Canal Flood,Low,68.3
+Tamil Nadu,Coimbatore,Canal Flood,Low,112.9
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,108.3
+Tamil Nadu,Coimbatore,Canal Flood,Low,33.0
+Tamil Nadu,Coimbatore,Rainfed Only,Low,91.3
+Tamil Nadu,Coimbatore,Canal Flood,Low,67.1
+Tamil Nadu,Coimbatore,Drip,Medium,56.6
+Tamil Nadu,Coimbatore,Sprinkler,Medium,70.6
+Tamil Nadu,Coimbatore,Rainfed Only,High,50.2
+Tamil Nadu,Coimbatore,Rainfed Only,High,64.8
+Tamil Nadu,Coimbatore,Canal Flood,Medium,55.8
+Tamil Nadu,Coimbatore,Rainfed Only,Low,144.4
+Tamil Nadu,Coimbatore,Rainfed Only,High,61.6
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,112.6
+Tamil Nadu,Coimbatore,Rainfed Only,High,79.9
+Tamil Nadu,Coimbatore,Drip,Medium,71.3
+Tamil Nadu,Coimbatore,Rainfed Only,High,37.9
+Tamil Nadu,Coimbatore,Sprinkler,Medium,104.1
+Tamil Nadu,Coimbatore,Drip,Medium,116.5
+Tamil Nadu,Coimbatore,Rainfed Only,Low,53.0
+Tamil Nadu,Coimbatore,Drip,Medium,73.4
+Tamil Nadu,Coimbatore,Sprinkler,Low,48.9
+Tamil Nadu,Coimbatore,Sprinkler,High,119.8
+Tamil Nadu,Coimbatore,Sprinkler,Low,92.4
+Tamil Nadu,Coimbatore,Canal Flood,High,100.2
+Tamil Nadu,Coimbatore,Canal Flood,Medium,104.1
+Tamil Nadu,Coimbatore,Rainfed Only,Low,141.0
+Tamil Nadu,Coimbatore,Drip,Medium,70.0
+Tamil Nadu,Coimbatore,Drip,Low,87.3
+Tamil Nadu,Coimbatore,Sprinkler,Medium,77.4
+Tamil Nadu,Coimbatore,Canal Flood,Low,63.6
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,10.6
+Tamil Nadu,Coimbatore,Drip,Low,65.7
+Tamil Nadu,Coimbatore,Sprinkler,Low,121.4
+Tamil Nadu,Coimbatore,Canal Flood,Low,89.1
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,80.9
+Tamil Nadu,Coimbatore,Sprinkler,Medium,119.6
+Tamil Nadu,Coimbatore,Drip,Medium,61.7
+Tamil Nadu,Coimbatore,Drip,Low,64.4
+Tamil Nadu,Coimbatore,Drip,High,57.0
+Tamil Nadu,Coimbatore,Drip,Low,117.9
+Tamil Nadu,Coimbatore,Canal Flood,Medium,80.2
+Tamil Nadu,Coimbatore,Canal Flood,Medium,79.7
+Tamil Nadu,Coimbatore,Canal Flood,High,86.5
+Tamil Nadu,Coimbatore,Drip,High,55.6
+Tamil Nadu,Coimbatore,Sprinkler,Medium,106.1
+Tamil Nadu,Coimbatore,Canal Flood,High,62.6
+Tamil Nadu,Coimbatore,Canal Flood,High,89.2
+Tamil Nadu,Coimbatore,Drip,High,127.3
+Tamil Nadu,Coimbatore,Rainfed Only,High,130.1
+Tamil Nadu,Coimbatore,Rainfed Only,High,116.2
+Tamil Nadu,Coimbatore,Drip,Low,104.8
+Tamil Nadu,Coimbatore,Drip,Low,47.1
+Tamil Nadu,Coimbatore,Sprinkler,Medium,108.7
+Tamil Nadu,Coimbatore,Drip,Low,64.6
+Tamil Nadu,Coimbatore,Canal Flood,Medium,95.4
+Tamil Nadu,Coimbatore,Rainfed Only,Medium,98.9
+Tamil Nadu,Thanjavur,Canal Flood,Low,8.0
+Tamil Nadu,Thanjavur,Canal Flood,Low,142.0
+Tamil Nadu,Thanjavur,Sprinkler,Medium,108.7
+Tamil Nadu,Thanjavur,Drip,High,32.1
+Tamil Nadu,Thanjavur,Drip,Medium,113.9
+Tamil Nadu,Thanjavur,Rainfed Only,Low,56.1
+Tamil Nadu,Thanjavur,Sprinkler,Low,82.9
+Tamil Nadu,Thanjavur,Canal Flood,Medium,123.7
+Tamil Nadu,Thanjavur,Rainfed Only,Low,108.4
+Tamil Nadu,Thanjavur,Drip,Low,93.9
+Tamil Nadu,Thanjavur,Drip,Medium,34.7
+Tamil Nadu,Thanjavur,Drip,Low,127.7
+Tamil Nadu,Thanjavur,Sprinkler,Medium,136.5
+Tamil Nadu,Thanjavur,Drip,Low,92.5
+Tamil Nadu,Thanjavur,Canal Flood,High,89.6
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,67.5
+Tamil Nadu,Thanjavur,Rainfed Only,Low,72.4
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,97.2
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,45.1
+Tamil Nadu,Thanjavur,Rainfed Only,High,42.8
+Tamil Nadu,Thanjavur,Canal Flood,High,88.7
+Tamil Nadu,Thanjavur,Canal Flood,Low,62.4
+Tamil Nadu,Thanjavur,Rainfed Only,Low,59.0
+Tamil Nadu,Thanjavur,Drip,Medium,47.3
+Tamil Nadu,Thanjavur,Drip,Medium,125.2
+Tamil Nadu,Thanjavur,Drip,Low,89.4
+Tamil Nadu,Thanjavur,Drip,High,75.7
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,95.2
+Tamil Nadu,Thanjavur,Rainfed Only,High,54.8
+Tamil Nadu,Thanjavur,Canal Flood,High,98.2
+Tamil Nadu,Thanjavur,Canal Flood,Low,61.2
+Tamil Nadu,Thanjavur,Canal Flood,Medium,114.5
+Tamil Nadu,Thanjavur,Rainfed Only,High,106.3
+Tamil Nadu,Thanjavur,Canal Flood,Low,135.7
+Tamil Nadu,Thanjavur,Canal Flood,Medium,114.8
+Tamil Nadu,Thanjavur,Canal Flood,High,82.7
+Tamil Nadu,Thanjavur,Canal Flood,High,107.5
+Tamil Nadu,Thanjavur,Sprinkler,Medium,161.3
+Tamil Nadu,Thanjavur,Drip,High,85.0
+Tamil Nadu,Thanjavur,Sprinkler,High,97.7
+Tamil Nadu,Thanjavur,Rainfed Only,Low,63.5
+Tamil Nadu,Thanjavur,Canal Flood,Low,98.8
+Tamil Nadu,Thanjavur,Sprinkler,High,101.0
+Tamil Nadu,Thanjavur,Sprinkler,Medium,104.7
+Tamil Nadu,Thanjavur,Rainfed Only,Low,101.0
+Tamil Nadu,Thanjavur,Drip,High,90.7
+Tamil Nadu,Thanjavur,Sprinkler,High,69.1
+Tamil Nadu,Thanjavur,Drip,Medium,68.2
+Tamil Nadu,Thanjavur,Drip,Low,75.5
+Tamil Nadu,Thanjavur,Rainfed Only,High,68.6
+Tamil Nadu,Thanjavur,Rainfed Only,High,90.9
+Tamil Nadu,Thanjavur,Sprinkler,High,89.9
+Tamil Nadu,Thanjavur,Canal Flood,High,119.7
+Tamil Nadu,Thanjavur,Sprinkler,Medium,78.2
+Tamil Nadu,Thanjavur,Rainfed Only,High,54.6
+Tamil Nadu,Thanjavur,Canal Flood,High,86.8
+Tamil Nadu,Thanjavur,Rainfed Only,High,20.6
+Tamil Nadu,Thanjavur,Drip,High,33.1
+Tamil Nadu,Thanjavur,Canal Flood,High,50.7
+Tamil Nadu,Thanjavur,Drip,Low,68.4
+Tamil Nadu,Thanjavur,Sprinkler,Medium,63.2
+Tamil Nadu,Thanjavur,Rainfed Only,Low,96.5
+Tamil Nadu,Thanjavur,Rainfed Only,Low,78.3
+Tamil Nadu,Thanjavur,Canal Flood,Medium,93.2
+Tamil Nadu,Thanjavur,Sprinkler,Low,38.7
+Tamil Nadu,Thanjavur,Canal Flood,Medium,32.4
+Tamil Nadu,Thanjavur,Sprinkler,Low,112.6
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,78.4
+Tamil Nadu,Thanjavur,Sprinkler,Medium,86.5
+Tamil Nadu,Thanjavur,Canal Flood,High,73.0
+Tamil Nadu,Thanjavur,Sprinkler,Low,110.0
+Tamil Nadu,Thanjavur,Drip,High,87.3
+Tamil Nadu,Thanjavur,Sprinkler,Low,96.9
+Tamil Nadu,Thanjavur,Canal Flood,High,81.2
+Tamil Nadu,Thanjavur,Sprinkler,Medium,69.1
+Tamil Nadu,Thanjavur,Rainfed Only,High,59.4
+Tamil Nadu,Thanjavur,Rainfed Only,High,97.0
+Tamil Nadu,Thanjavur,Rainfed Only,High,93.8
+Tamil Nadu,Thanjavur,Drip,Low,119.1
+Tamil Nadu,Thanjavur,Sprinkler,Medium,118.9
+Tamil Nadu,Thanjavur,Canal Flood,Medium,104.5
+Tamil Nadu,Thanjavur,Canal Flood,High,109.9
+Tamil Nadu,Thanjavur,Drip,Medium,94.8
+Tamil Nadu,Thanjavur,Canal Flood,High,106.2
+Tamil Nadu,Thanjavur,Canal Flood,Low,82.0
+Tamil Nadu,Thanjavur,Canal Flood,Medium,71.3
+Tamil Nadu,Thanjavur,Sprinkler,High,48.3
+Tamil Nadu,Thanjavur,Drip,High,93.3
+Tamil Nadu,Thanjavur,Canal Flood,High,68.6
+Tamil Nadu,Thanjavur,Canal Flood,Medium,84.6
+Tamil Nadu,Thanjavur,Sprinkler,High,70.3
+Tamil Nadu,Thanjavur,Canal Flood,Medium,73.8
+Tamil Nadu,Thanjavur,Drip,Low,87.0
+Tamil Nadu,Thanjavur,Sprinkler,Medium,87.0
+Tamil Nadu,Thanjavur,Sprinkler,High,49.0
+Tamil Nadu,Thanjavur,Drip,Low,68.4
+Tamil Nadu,Thanjavur,Rainfed Only,High,63.9
+Tamil Nadu,Thanjavur,Canal Flood,Low,102.7
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,135.5
+Tamil Nadu,Thanjavur,Canal Flood,Low,118.4
+Tamil Nadu,Thanjavur,Drip,High,33.2
+Tamil Nadu,Thanjavur,Drip,Low,139.8
+Tamil Nadu,Thanjavur,Sprinkler,High,93.4
+Tamil Nadu,Thanjavur,Drip,Low,80.3
+Tamil Nadu,Thanjavur,Drip,Low,134.5
+Tamil Nadu,Thanjavur,Canal Flood,Low,117.7
+Tamil Nadu,Thanjavur,Canal Flood,Low,105.6
+Tamil Nadu,Thanjavur,Canal Flood,High,75.1
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,99.2
+Tamil Nadu,Thanjavur,Rainfed Only,High,116.2
+Tamil Nadu,Thanjavur,Canal Flood,High,76.4
+Tamil Nadu,Thanjavur,Rainfed Only,Low,78.4
+Tamil Nadu,Thanjavur,Drip,Medium,46.9
+Tamil Nadu,Thanjavur,Drip,Medium,95.8
+Tamil Nadu,Thanjavur,Canal Flood,High,68.4
+Tamil Nadu,Thanjavur,Sprinkler,High,35.5
+Tamil Nadu,Thanjavur,Drip,High,57.6
+Tamil Nadu,Thanjavur,Drip,Low,53.4
+Tamil Nadu,Thanjavur,Sprinkler,High,114.2
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,97.0
+Tamil Nadu,Thanjavur,Canal Flood,Medium,89.5
+Tamil Nadu,Thanjavur,Canal Flood,Low,35.4
+Tamil Nadu,Thanjavur,Canal Flood,Low,44.7
+Tamil Nadu,Thanjavur,Sprinkler,Low,93.6
+Tamil Nadu,Thanjavur,Sprinkler,Medium,103.1
+Tamil Nadu,Thanjavur,Rainfed Only,High,71.8
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,94.9
+Tamil Nadu,Thanjavur,Sprinkler,Medium,99.5
+Tamil Nadu,Thanjavur,Drip,High,119.1
+Tamil Nadu,Thanjavur,Drip,Low,43.4
+Tamil Nadu,Thanjavur,Drip,Low,88.4
+Tamil Nadu,Thanjavur,Canal Flood,Low,122.7
+Tamil Nadu,Thanjavur,Canal Flood,Medium,91.3
+Tamil Nadu,Thanjavur,Drip,Medium,70.2
+Tamil Nadu,Thanjavur,Rainfed Only,High,47.8
+Tamil Nadu,Thanjavur,Drip,Low,108.2
+Tamil Nadu,Thanjavur,Sprinkler,Medium,24.1
+Tamil Nadu,Thanjavur,Drip,High,72.2
+Tamil Nadu,Thanjavur,Rainfed Only,High,105.6
+Tamil Nadu,Thanjavur,Drip,Medium,63.5
+Tamil Nadu,Thanjavur,Sprinkler,High,77.6
+Tamil Nadu,Thanjavur,Canal Flood,Medium,96.4
+Tamil Nadu,Thanjavur,Canal Flood,Low,97.5
+Tamil Nadu,Thanjavur,Sprinkler,Low,139.4
+Tamil Nadu,Thanjavur,Rainfed Only,High,86.4
+Tamil Nadu,Thanjavur,Sprinkler,Low,118.8
+Tamil Nadu,Thanjavur,Sprinkler,Medium,69.5
+Tamil Nadu,Thanjavur,Canal Flood,Low,77.8
+Tamil Nadu,Thanjavur,Sprinkler,High,69.9
+Tamil Nadu,Thanjavur,Drip,High,89.8
+Tamil Nadu,Thanjavur,Canal Flood,Low,81.4
+Tamil Nadu,Thanjavur,Rainfed Only,High,113.5
+Tamil Nadu,Thanjavur,Rainfed Only,Low,40.0
+Tamil Nadu,Thanjavur,Drip,High,5.0
+Tamil Nadu,Thanjavur,Canal Flood,High,75.0
+Tamil Nadu,Thanjavur,Sprinkler,Low,81.7
+Tamil Nadu,Thanjavur,Drip,High,44.7
+Tamil Nadu,Thanjavur,Rainfed Only,Low,117.1
+Tamil Nadu,Thanjavur,Rainfed Only,High,98.5
+Tamil Nadu,Thanjavur,Sprinkler,High,114.6
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,114.9
+Tamil Nadu,Thanjavur,Drip,High,48.5
+Tamil Nadu,Thanjavur,Sprinkler,High,93.0
+Tamil Nadu,Thanjavur,Rainfed Only,Low,102.7
+Tamil Nadu,Thanjavur,Canal Flood,Low,107.7
+Tamil Nadu,Thanjavur,Canal Flood,High,94.6
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,119.9
+Tamil Nadu,Thanjavur,Rainfed Only,High,124.8
+Tamil Nadu,Thanjavur,Rainfed Only,Low,75.7
+Tamil Nadu,Thanjavur,Rainfed Only,High,50.8
+Tamil Nadu,Thanjavur,Drip,Medium,65.8
+Tamil Nadu,Thanjavur,Sprinkler,High,103.5
+Tamil Nadu,Thanjavur,Sprinkler,Low,90.5
+Tamil Nadu,Thanjavur,Drip,Medium,61.1
+Tamil Nadu,Thanjavur,Drip,Medium,104.6
+Tamil Nadu,Thanjavur,Canal Flood,Medium,118.7
+Tamil Nadu,Thanjavur,Sprinkler,Low,100.8
+Tamil Nadu,Thanjavur,Sprinkler,Medium,101.6
+Tamil Nadu,Thanjavur,Canal Flood,Medium,147.6
+Tamil Nadu,Thanjavur,Sprinkler,Low,73.9
+Tamil Nadu,Thanjavur,Rainfed Only,High,93.4
+Tamil Nadu,Thanjavur,Canal Flood,Medium,105.9
+Tamil Nadu,Thanjavur,Canal Flood,Medium,102.0
+Tamil Nadu,Thanjavur,Drip,Medium,89.8
+Tamil Nadu,Thanjavur,Sprinkler,Low,140.8
+Tamil Nadu,Thanjavur,Canal Flood,Low,105.9
+Tamil Nadu,Thanjavur,Sprinkler,Low,65.7
+Tamil Nadu,Thanjavur,Drip,High,129.4
+Tamil Nadu,Thanjavur,Rainfed Only,High,113.2
+Tamil Nadu,Thanjavur,Sprinkler,High,111.1
+Tamil Nadu,Thanjavur,Drip,Medium,94.9
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,72.4
+Tamil Nadu,Thanjavur,Sprinkler,Medium,46.6
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,60.5
+Tamil Nadu,Thanjavur,Drip,Medium,70.2
+Tamil Nadu,Thanjavur,Drip,Medium,99.5
+Tamil Nadu,Thanjavur,Rainfed Only,Medium,110.7
+Tamil Nadu,Thanjavur,Rainfed Only,Low,74.6
+Tamil Nadu,Thanjavur,Sprinkler,Medium,105.7
+Tamil Nadu,Thanjavur,Canal Flood,High,104.6
+Tamil Nadu,Madurai,Sprinkler,High,97.3
+Tamil Nadu,Madurai,Sprinkler,Medium,100.3
+Tamil Nadu,Madurai,Drip,High,100.7
+Tamil Nadu,Madurai,Canal Flood,Medium,66.8
+Tamil Nadu,Madurai,Sprinkler,Medium,79.9
+Tamil Nadu,Madurai,Rainfed Only,Low,133.6
+Tamil Nadu,Madurai,Rainfed Only,Medium,72.7
+Tamil Nadu,Madurai,Sprinkler,Low,67.1
+Tamil Nadu,Madurai,Sprinkler,High,128.2
+Tamil Nadu,Madurai,Drip,High,75.5
+Tamil Nadu,Madurai,Rainfed Only,Medium,104.0
+Tamil Nadu,Madurai,Drip,Medium,188.7
+Tamil Nadu,Madurai,Drip,High,81.2
+Tamil Nadu,Madurai,Sprinkler,High,115.8
+Tamil Nadu,Madurai,Canal Flood,High,72.9
+Tamil Nadu,Madurai,Rainfed Only,Low,106.9
+Tamil Nadu,Madurai,Sprinkler,Low,71.5
+Tamil Nadu,Madurai,Rainfed Only,High,66.1
+Tamil Nadu,Madurai,Rainfed Only,Medium,89.2
+Tamil Nadu,Madurai,Canal Flood,Medium,129.8
+Tamil Nadu,Madurai,Drip,Medium,61.7
+Tamil Nadu,Madurai,Canal Flood,Medium,99.6
+Tamil Nadu,Madurai,Rainfed Only,Low,80.9
+Tamil Nadu,Madurai,Drip,Low,130.6
+Tamil Nadu,Madurai,Drip,High,83.8
+Tamil Nadu,Madurai,Rainfed Only,Low,92.1
+Tamil Nadu,Madurai,Rainfed Only,High,74.4
+Tamil Nadu,Madurai,Rainfed Only,Medium,57.7
+Tamil Nadu,Madurai,Sprinkler,Low,89.9
+Tamil Nadu,Madurai,Rainfed Only,High,89.9
+Tamil Nadu,Madurai,Sprinkler,High,99.0
+Tamil Nadu,Madurai,Sprinkler,High,111.6
+Tamil Nadu,Madurai,Rainfed Only,Low,64.4
+Tamil Nadu,Madurai,Drip,High,55.3
+Tamil Nadu,Madurai,Canal Flood,Low,87.0
+Tamil Nadu,Madurai,Sprinkler,Medium,58.4
+Tamil Nadu,Madurai,Rainfed Only,Low,107.0
+Tamil Nadu,Madurai,Canal Flood,Low,78.8
+Tamil Nadu,Madurai,Drip,Medium,126.3
+Tamil Nadu,Madurai,Rainfed Only,Medium,66.0
+Tamil Nadu,Madurai,Rainfed Only,High,83.1
+Tamil Nadu,Madurai,Rainfed Only,Low,28.9
+Tamil Nadu,Madurai,Canal Flood,Low,50.1
+Tamil Nadu,Madurai,Drip,Medium,72.7
+Tamil Nadu,Madurai,Canal Flood,High,64.2
+Tamil Nadu,Madurai,Sprinkler,High,57.5
+Tamil Nadu,Madurai,Canal Flood,Medium,38.6
+Tamil Nadu,Madurai,Sprinkler,High,111.0
+Tamil Nadu,Madurai,Drip,High,74.1
+Tamil Nadu,Madurai,Canal Flood,Medium,187.9
+Tamil Nadu,Madurai,Drip,High,79.3
+Tamil Nadu,Madurai,Canal Flood,Low,53.2
+Tamil Nadu,Madurai,Sprinkler,Low,88.9
+Tamil Nadu,Madurai,Rainfed Only,High,80.5
+Tamil Nadu,Madurai,Drip,Medium,56.7
+Tamil Nadu,Madurai,Drip,Medium,40.7
+Tamil Nadu,Madurai,Drip,High,84.7
+Tamil Nadu,Madurai,Rainfed Only,High,97.4
+Tamil Nadu,Madurai,Sprinkler,High,87.5
+Tamil Nadu,Madurai,Sprinkler,Medium,69.5
+Tamil Nadu,Madurai,Rainfed Only,Low,109.5
+Tamil Nadu,Madurai,Sprinkler,Low,131.3
+Tamil Nadu,Madurai,Rainfed Only,High,37.8
+Tamil Nadu,Madurai,Canal Flood,High,74.2
+Tamil Nadu,Madurai,Drip,High,60.9
+Tamil Nadu,Madurai,Drip,High,75.4
+Tamil Nadu,Madurai,Canal Flood,High,68.6
+Tamil Nadu,Madurai,Rainfed Only,Medium,97.1
+Tamil Nadu,Madurai,Drip,High,69.1
+Tamil Nadu,Madurai,Canal Flood,Medium,97.2
+Tamil Nadu,Madurai,Canal Flood,High,122.1
+Tamil Nadu,Madurai,Rainfed Only,Medium,143.6
+Tamil Nadu,Madurai,Drip,Low,67.0
+Tamil Nadu,Madurai,Canal Flood,Low,131.9
+Tamil Nadu,Madurai,Drip,Low,108.2
+Tamil Nadu,Madurai,Canal Flood,Low,81.5
+Tamil Nadu,Madurai,Canal Flood,Low,154.9
+Tamil Nadu,Madurai,Rainfed Only,Medium,104.8
+Tamil Nadu,Madurai,Sprinkler,Low,109.4
+Tamil Nadu,Madurai,Drip,High,78.5
+Tamil Nadu,Madurai,Rainfed Only,High,92.7
+Tamil Nadu,Madurai,Rainfed Only,Low,62.3
+Tamil Nadu,Madurai,Rainfed Only,Low,135.2
+Tamil Nadu,Madurai,Drip,Medium,113.9
+Tamil Nadu,Madurai,Rainfed Only,Low,113.3
+Tamil Nadu,Madurai,Drip,Low,120.2
+Tamil Nadu,Madurai,Canal Flood,High,114.7
+Tamil Nadu,Madurai,Drip,Low,40.4
+Tamil Nadu,Madurai,Canal Flood,Low,59.4
+Tamil Nadu,Madurai,Drip,Low,143.1
+Tamil Nadu,Madurai,Canal Flood,Medium,52.2
+Tamil Nadu,Madurai,Canal Flood,Medium,80.4
+Tamil Nadu,Madurai,Drip,High,71.3
+Tamil Nadu,Madurai,Drip,Low,83.7
+Tamil Nadu,Madurai,Drip,Low,110.3
+Tamil Nadu,Madurai,Canal Flood,Low,41.0
+Tamil Nadu,Madurai,Canal Flood,Low,61.9
+Tamil Nadu,Madurai,Drip,Low,89.5
+Tamil Nadu,Madurai,Sprinkler,Low,97.4
+Tamil Nadu,Madurai,Drip,High,85.4
+Tamil Nadu,Madurai,Drip,High,108.7
+Tamil Nadu,Madurai,Sprinkler,Low,102.1
+Tamil Nadu,Madurai,Canal Flood,Medium,80.4
+Tamil Nadu,Madurai,Rainfed Only,Medium,92.8
+Tamil Nadu,Madurai,Canal Flood,Medium,97.6
+Tamil Nadu,Madurai,Rainfed Only,Low,128.0
+Tamil Nadu,Madurai,Rainfed Only,Low,67.8
+Tamil Nadu,Madurai,Canal Flood,Medium,49.9
+Tamil Nadu,Madurai,Sprinkler,High,91.8
+Tamil Nadu,Madurai,Rainfed Only,Low,99.4
+Tamil Nadu,Madurai,Drip,Low,116.9
+Tamil Nadu,Madurai,Sprinkler,Medium,81.0
+Tamil Nadu,Madurai,Canal Flood,Low,112.3
+Tamil Nadu,Madurai,Rainfed Only,Medium,60.0
+Tamil Nadu,Madurai,Sprinkler,High,111.3
+Tamil Nadu,Madurai,Sprinkler,Medium,86.7
+Tamil Nadu,Madurai,Rainfed Only,Medium,55.6
+Tamil Nadu,Madurai,Rainfed Only,Medium,47.9
+Tamil Nadu,Madurai,Canal Flood,Low,58.7
+Tamil Nadu,Madurai,Rainfed Only,High,83.9
+Tamil Nadu,Madurai,Sprinkler,High,90.2
+Tamil Nadu,Madurai,Rainfed Only,Low,60.8
+Tamil Nadu,Madurai,Canal Flood,Low,97.1
+Tamil Nadu,Madurai,Canal Flood,High,69.3
+Tamil Nadu,Madurai,Canal Flood,Medium,100.7
+Tamil Nadu,Madurai,Rainfed Only,Medium,72.9
+Tamil Nadu,Madurai,Sprinkler,Medium,78.2
+Tamil Nadu,Madurai,Canal Flood,Low,154.3
+Tamil Nadu,Madurai,Rainfed Only,Medium,69.8
+Tamil Nadu,Madurai,Sprinkler,Medium,103.8
+Tamil Nadu,Madurai,Rainfed Only,High,68.7
+Tamil Nadu,Madurai,Canal Flood,High,113.8
+Tamil Nadu,Madurai,Drip,Medium,77.4
+Tamil Nadu,Madurai,Sprinkler,Low,83.8
+Tamil Nadu,Madurai,Rainfed Only,Medium,81.7
+Tamil Nadu,Madurai,Sprinkler,Medium,60.6
+Tamil Nadu,Madurai,Rainfed Only,Low,115.2
+Tamil Nadu,Madurai,Drip,Low,77.3
+Tamil Nadu,Madurai,Drip,High,70.9
+Tamil Nadu,Madurai,Drip,Low,99.8
+Tamil Nadu,Madurai,Rainfed Only,Medium,129.6
+Tamil Nadu,Madurai,Sprinkler,Medium,94.0
+Tamil Nadu,Madurai,Canal Flood,Low,102.8
+Tamil Nadu,Madurai,Rainfed Only,High,158.7
+Tamil Nadu,Madurai,Drip,Low,48.1
+Tamil Nadu,Madurai,Rainfed Only,Low,83.9
+Tamil Nadu,Madurai,Sprinkler,High,58.3
+Tamil Nadu,Madurai,Canal Flood,Medium,59.0
+Tamil Nadu,Madurai,Rainfed Only,Medium,107.9
+Tamil Nadu,Madurai,Canal Flood,High,96.6
+Tamil Nadu,Madurai,Canal Flood,High,58.4
+Tamil Nadu,Madurai,Rainfed Only,High,105.1
+Tamil Nadu,Madurai,Canal Flood,High,19.7
+Tamil Nadu,Madurai,Sprinkler,High,119.5
+Tamil Nadu,Madurai,Sprinkler,High,73.8
+Tamil Nadu,Madurai,Drip,Low,58.3
+Tamil Nadu,Madurai,Drip,Low,43.2
+Tamil Nadu,Madurai,Rainfed Only,Low,112.2
+Tamil Nadu,Madurai,Sprinkler,Low,78.0
+Tamil Nadu,Madurai,Drip,High,83.7
+Tamil Nadu,Madurai,Canal Flood,High,113.0
+Tamil Nadu,Madurai,Drip,Low,106.6
+Tamil Nadu,Madurai,Sprinkler,High,149.0
+Tamil Nadu,Madurai,Canal Flood,Medium,99.9
+Tamil Nadu,Madurai,Rainfed Only,Medium,82.9
+Tamil Nadu,Madurai,Rainfed Only,High,14.2
+Tamil Nadu,Madurai,Sprinkler,High,73.4
+Tamil Nadu,Madurai,Rainfed Only,Medium,68.6
+Tamil Nadu,Madurai,Rainfed Only,High,123.6
+Tamil Nadu,Madurai,Canal Flood,Medium,13.2
+Tamil Nadu,Madurai,Rainfed Only,Medium,60.5
+Tamil Nadu,Madurai,Rainfed Only,High,68.8
+Tamil Nadu,Madurai,Rainfed Only,High,107.7
+Tamil Nadu,Madurai,Drip,Low,87.4
+Tamil Nadu,Madurai,Rainfed Only,High,70.0
+Tamil Nadu,Madurai,Canal Flood,High,77.4
+Tamil Nadu,Madurai,Canal Flood,Low,63.8
+Tamil Nadu,Madurai,Canal Flood,High,93.8
+Tamil Nadu,Madurai,Canal Flood,Medium,46.2
+Tamil Nadu,Madurai,Canal Flood,High,32.2
+Tamil Nadu,Madurai,Canal Flood,Low,90.1
+Tamil Nadu,Madurai,Sprinkler,High,71.2
+Tamil Nadu,Madurai,Canal Flood,Low,22.6
+Tamil Nadu,Madurai,Rainfed Only,Low,84.4
+Tamil Nadu,Madurai,Sprinkler,Medium,50.2
+Tamil Nadu,Madurai,Canal Flood,Low,69.8
+Tamil Nadu,Madurai,Drip,High,107.7
+Tamil Nadu,Madurai,Canal Flood,Medium,79.4
+Tamil Nadu,Madurai,Rainfed Only,Medium,109.3
+Tamil Nadu,Madurai,Drip,Low,127.1
+Tamil Nadu,Madurai,Canal Flood,Medium,126.4
+Tamil Nadu,Madurai,Canal Flood,Medium,135.0
+Tamil Nadu,Madurai,Sprinkler,Medium,51.1
+Tamil Nadu,Madurai,Rainfed Only,High,79.7
+Tamil Nadu,Madurai,Sprinkler,High,41.0
+Tamil Nadu,Madurai,Rainfed Only,Low,79.4
+Tamil Nadu,Madurai,Sprinkler,Low,90.9
+Tamil Nadu,Madurai,Rainfed Only,Medium,73.5
+Tamil Nadu,Madurai,Sprinkler,Medium,84.6
+Tamil Nadu,Madurai,Rainfed Only,Medium,107.4
+Uttar Pradesh,Meerut,Sprinkler,High,150.7
+Uttar Pradesh,Meerut,Rainfed Only,High,102.6
+Uttar Pradesh,Meerut,Rainfed Only,Low,62.3
+Uttar Pradesh,Meerut,Rainfed Only,High,114.0
+Uttar Pradesh,Meerut,Canal Flood,Low,69.2
+Uttar Pradesh,Meerut,Drip,Low,74.1
+Uttar Pradesh,Meerut,Rainfed Only,Low,136.6
+Uttar Pradesh,Meerut,Sprinkler,Low,56.5
+Uttar Pradesh,Meerut,Sprinkler,Low,80.4
+Uttar Pradesh,Meerut,Rainfed Only,Low,91.1
+Uttar Pradesh,Meerut,Drip,Low,84.0
+Uttar Pradesh,Meerut,Rainfed Only,Medium,125.5
+Uttar Pradesh,Meerut,Canal Flood,Medium,92.1
+Uttar Pradesh,Meerut,Rainfed Only,Low,54.3
+Uttar Pradesh,Meerut,Canal Flood,High,80.3
+Uttar Pradesh,Meerut,Rainfed Only,Medium,128.0
+Uttar Pradesh,Meerut,Drip,Low,77.0
+Uttar Pradesh,Meerut,Drip,Medium,102.7
+Uttar Pradesh,Meerut,Sprinkler,High,104.8
+Uttar Pradesh,Meerut,Drip,Low,133.6
+Uttar Pradesh,Meerut,Sprinkler,Medium,95.2
+Uttar Pradesh,Meerut,Rainfed Only,High,45.5
+Uttar Pradesh,Meerut,Rainfed Only,Low,73.5
+Uttar Pradesh,Meerut,Sprinkler,High,127.1
+Uttar Pradesh,Meerut,Sprinkler,Low,63.4
+Uttar Pradesh,Meerut,Drip,High,104.6
+Uttar Pradesh,Meerut,Sprinkler,High,70.1
+Uttar Pradesh,Meerut,Sprinkler,Medium,66.5
+Uttar Pradesh,Meerut,Rainfed Only,Low,103.4
+Uttar Pradesh,Meerut,Drip,Low,67.6
+Uttar Pradesh,Meerut,Rainfed Only,Low,102.5
+Uttar Pradesh,Meerut,Sprinkler,High,114.4
+Uttar Pradesh,Meerut,Rainfed Only,Medium,89.7
+Uttar Pradesh,Meerut,Drip,Low,52.0
+Uttar Pradesh,Meerut,Canal Flood,High,5.0
+Uttar Pradesh,Meerut,Canal Flood,Medium,52.5
+Uttar Pradesh,Meerut,Drip,Low,117.4
+Uttar Pradesh,Meerut,Canal Flood,High,104.1
+Uttar Pradesh,Meerut,Rainfed Only,Low,24.7
+Uttar Pradesh,Meerut,Drip,High,58.7
+Uttar Pradesh,Meerut,Rainfed Only,Medium,79.6
+Uttar Pradesh,Meerut,Sprinkler,Low,52.0
+Uttar Pradesh,Meerut,Sprinkler,High,78.2
+Uttar Pradesh,Meerut,Sprinkler,Medium,108.8
+Uttar Pradesh,Meerut,Drip,Medium,119.3
+Uttar Pradesh,Meerut,Rainfed Only,Low,30.9
+Uttar Pradesh,Meerut,Rainfed Only,Low,84.5
+Uttar Pradesh,Meerut,Drip,Low,81.0
+Uttar Pradesh,Meerut,Sprinkler,Low,94.3
+Uttar Pradesh,Meerut,Sprinkler,Medium,68.1
+Uttar Pradesh,Meerut,Drip,Medium,95.4
+Uttar Pradesh,Meerut,Canal Flood,High,71.2
+Uttar Pradesh,Meerut,Canal Flood,Low,70.7
+Uttar Pradesh,Meerut,Drip,Medium,87.4
+Uttar Pradesh,Meerut,Sprinkler,High,71.9
+Uttar Pradesh,Meerut,Sprinkler,Medium,73.1
+Uttar Pradesh,Meerut,Sprinkler,Medium,72.4
+Uttar Pradesh,Meerut,Canal Flood,Medium,115.7
+Uttar Pradesh,Meerut,Rainfed Only,High,58.2
+Uttar Pradesh,Meerut,Drip,Low,73.1
+Uttar Pradesh,Meerut,Drip,Medium,45.8
+Uttar Pradesh,Meerut,Canal Flood,Low,67.6
+Uttar Pradesh,Meerut,Canal Flood,Low,93.9
+Uttar Pradesh,Meerut,Sprinkler,Medium,90.9
+Uttar Pradesh,Meerut,Canal Flood,Low,76.7
+Uttar Pradesh,Meerut,Drip,High,45.2
+Uttar Pradesh,Meerut,Sprinkler,Medium,60.0
+Uttar Pradesh,Meerut,Sprinkler,High,71.1
+Uttar Pradesh,Meerut,Drip,High,97.9
+Uttar Pradesh,Meerut,Rainfed Only,High,109.7
+Uttar Pradesh,Meerut,Canal Flood,Medium,49.9
+Uttar Pradesh,Meerut,Rainfed Only,Low,39.1
+Uttar Pradesh,Meerut,Canal Flood,High,126.2
+Uttar Pradesh,Meerut,Drip,Medium,100.1
+Uttar Pradesh,Meerut,Sprinkler,Low,112.2
+Uttar Pradesh,Meerut,Drip,Medium,144.4
+Uttar Pradesh,Meerut,Drip,Medium,116.5
+Uttar Pradesh,Meerut,Rainfed Only,Low,79.5
+Uttar Pradesh,Meerut,Sprinkler,Medium,88.7
+Uttar Pradesh,Meerut,Sprinkler,Low,77.8
+Uttar Pradesh,Meerut,Drip,High,44.7
+Uttar Pradesh,Meerut,Sprinkler,Medium,46.7
+Uttar Pradesh,Meerut,Rainfed Only,Medium,64.4
+Uttar Pradesh,Meerut,Canal Flood,Low,41.9
+Uttar Pradesh,Meerut,Drip,High,81.3
+Uttar Pradesh,Meerut,Sprinkler,High,160.7
+Uttar Pradesh,Meerut,Drip,Medium,79.9
+Uttar Pradesh,Meerut,Canal Flood,Medium,102.6
+Uttar Pradesh,Meerut,Canal Flood,Medium,112.5
+Uttar Pradesh,Meerut,Canal Flood,Low,59.4
+Uttar Pradesh,Meerut,Canal Flood,High,53.6
+Uttar Pradesh,Meerut,Canal Flood,Medium,115.2
+Uttar Pradesh,Meerut,Drip,Low,92.2
+Uttar Pradesh,Meerut,Rainfed Only,Low,94.6
+Uttar Pradesh,Meerut,Canal Flood,High,87.5
+Uttar Pradesh,Meerut,Sprinkler,High,81.9
+Uttar Pradesh,Meerut,Sprinkler,High,90.8
+Uttar Pradesh,Meerut,Rainfed Only,Medium,66.5
+Uttar Pradesh,Meerut,Canal Flood,Low,5.0
+Uttar Pradesh,Meerut,Sprinkler,High,80.5
+Uttar Pradesh,Meerut,Rainfed Only,Low,92.5
+Uttar Pradesh,Meerut,Drip,Low,95.0
+Uttar Pradesh,Meerut,Rainfed Only,Medium,72.7
+Uttar Pradesh,Meerut,Canal Flood,Low,110.3
+Uttar Pradesh,Meerut,Drip,Low,56.0
+Uttar Pradesh,Meerut,Sprinkler,High,97.5
+Uttar Pradesh,Meerut,Rainfed Only,High,71.3
+Uttar Pradesh,Meerut,Drip,Medium,95.8
+Uttar Pradesh,Meerut,Canal Flood,High,100.3
+Uttar Pradesh,Meerut,Drip,Medium,120.1
+Uttar Pradesh,Meerut,Sprinkler,Low,66.6
+Uttar Pradesh,Meerut,Sprinkler,High,44.5
+Uttar Pradesh,Meerut,Rainfed Only,Medium,66.7
+Uttar Pradesh,Meerut,Sprinkler,High,79.5
+Uttar Pradesh,Meerut,Rainfed Only,Medium,45.4
+Uttar Pradesh,Meerut,Sprinkler,Low,125.5
+Uttar Pradesh,Meerut,Sprinkler,Low,57.3
+Uttar Pradesh,Meerut,Sprinkler,Low,125.6
+Uttar Pradesh,Meerut,Canal Flood,Low,39.8
+Uttar Pradesh,Meerut,Drip,Low,109.8
+Uttar Pradesh,Meerut,Canal Flood,Low,119.5
+Uttar Pradesh,Meerut,Sprinkler,Medium,132.5
+Uttar Pradesh,Meerut,Canal Flood,High,88.0
+Uttar Pradesh,Meerut,Sprinkler,Low,117.2
+Uttar Pradesh,Meerut,Canal Flood,Medium,110.8
+Uttar Pradesh,Meerut,Rainfed Only,Low,64.7
+Uttar Pradesh,Meerut,Drip,Medium,46.2
+Uttar Pradesh,Meerut,Rainfed Only,High,86.5
+Uttar Pradesh,Meerut,Canal Flood,Medium,34.3
+Uttar Pradesh,Meerut,Canal Flood,High,145.3
+Uttar Pradesh,Meerut,Canal Flood,Low,79.6
+Uttar Pradesh,Meerut,Sprinkler,Medium,55.4
+Uttar Pradesh,Meerut,Drip,Low,36.8
+Uttar Pradesh,Meerut,Sprinkler,Medium,90.7
+Uttar Pradesh,Meerut,Rainfed Only,Low,34.8
+Uttar Pradesh,Meerut,Canal Flood,Low,94.9
+Uttar Pradesh,Meerut,Sprinkler,Low,95.7
+Uttar Pradesh,Meerut,Sprinkler,Low,75.0
+Uttar Pradesh,Meerut,Rainfed Only,Medium,32.2
+Uttar Pradesh,Meerut,Sprinkler,High,72.1
+Uttar Pradesh,Meerut,Rainfed Only,Low,37.9
+Uttar Pradesh,Meerut,Canal Flood,Medium,45.8
+Uttar Pradesh,Meerut,Sprinkler,High,133.3
+Uttar Pradesh,Meerut,Drip,High,92.2
+Uttar Pradesh,Meerut,Drip,High,122.9
+Uttar Pradesh,Meerut,Sprinkler,Low,101.4
+Uttar Pradesh,Meerut,Sprinkler,Low,105.0
+Uttar Pradesh,Meerut,Sprinkler,Low,129.4
+Uttar Pradesh,Meerut,Canal Flood,High,100.8
+Uttar Pradesh,Meerut,Canal Flood,High,133.6
+Uttar Pradesh,Meerut,Drip,Medium,101.9
+Uttar Pradesh,Meerut,Drip,Medium,120.7
+Uttar Pradesh,Meerut,Canal Flood,Low,92.7
+Uttar Pradesh,Meerut,Sprinkler,Medium,102.4
+Uttar Pradesh,Meerut,Canal Flood,Medium,121.3
+Uttar Pradesh,Meerut,Rainfed Only,High,57.4
+Uttar Pradesh,Meerut,Sprinkler,Low,50.6
+Uttar Pradesh,Meerut,Drip,Medium,119.0
+Uttar Pradesh,Meerut,Sprinkler,Low,69.5
+Uttar Pradesh,Meerut,Canal Flood,Medium,105.3
+Uttar Pradesh,Meerut,Sprinkler,High,151.2
+Uttar Pradesh,Meerut,Rainfed Only,Medium,118.8
+Uttar Pradesh,Meerut,Sprinkler,Medium,46.7
+Uttar Pradesh,Meerut,Drip,Low,71.9
+Uttar Pradesh,Meerut,Drip,Medium,94.7
+Uttar Pradesh,Meerut,Drip,High,31.4
+Uttar Pradesh,Meerut,Sprinkler,Low,89.2
+Uttar Pradesh,Meerut,Canal Flood,Low,95.2
+Uttar Pradesh,Meerut,Canal Flood,High,48.1
+Uttar Pradesh,Meerut,Sprinkler,High,57.4
+Uttar Pradesh,Meerut,Canal Flood,Low,57.1
+Uttar Pradesh,Meerut,Rainfed Only,Low,104.7
+Uttar Pradesh,Meerut,Drip,Low,78.0
+Uttar Pradesh,Meerut,Canal Flood,Medium,14.9
+Uttar Pradesh,Meerut,Rainfed Only,Medium,65.3
+Uttar Pradesh,Meerut,Canal Flood,Medium,99.3
+Uttar Pradesh,Meerut,Rainfed Only,Medium,46.5
+Uttar Pradesh,Meerut,Canal Flood,Low,77.8
+Uttar Pradesh,Meerut,Sprinkler,Low,97.6
+Uttar Pradesh,Meerut,Sprinkler,High,136.9
+Uttar Pradesh,Meerut,Rainfed Only,High,112.8
+Uttar Pradesh,Meerut,Rainfed Only,Low,128.9
+Uttar Pradesh,Meerut,Canal Flood,Medium,142.9
+Uttar Pradesh,Meerut,Rainfed Only,High,153.6
+Uttar Pradesh,Meerut,Drip,High,17.6
+Uttar Pradesh,Meerut,Drip,Medium,81.8
+Uttar Pradesh,Meerut,Sprinkler,Low,92.9
+Uttar Pradesh,Meerut,Sprinkler,Low,70.8
+Uttar Pradesh,Meerut,Rainfed Only,High,174.4
+Uttar Pradesh,Meerut,Canal Flood,Medium,86.0
+Uttar Pradesh,Meerut,Canal Flood,High,99.0
+Uttar Pradesh,Meerut,Rainfed Only,High,50.6
+Uttar Pradesh,Meerut,Drip,High,83.0
+Uttar Pradesh,Meerut,Drip,High,55.0
+Uttar Pradesh,Meerut,Rainfed Only,High,114.8
+Uttar Pradesh,Meerut,Drip,Low,74.1
+Uttar Pradesh,Meerut,Drip,High,123.4
+Uttar Pradesh,Meerut,Rainfed Only,Medium,44.7
+Uttar Pradesh,Meerut,Rainfed Only,Medium,56.9
+Uttar Pradesh,Meerut,Drip,High,100.7
+Uttar Pradesh,Varanasi,Canal Flood,High,95.0
+Uttar Pradesh,Varanasi,Sprinkler,Medium,103.5
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,98.0
+Uttar Pradesh,Varanasi,Sprinkler,High,120.5
+Uttar Pradesh,Varanasi,Rainfed Only,High,63.5
+Uttar Pradesh,Varanasi,Sprinkler,High,95.2
+Uttar Pradesh,Varanasi,Rainfed Only,Low,64.3
+Uttar Pradesh,Varanasi,Sprinkler,Low,100.7
+Uttar Pradesh,Varanasi,Drip,High,87.9
+Uttar Pradesh,Varanasi,Canal Flood,Low,95.9
+Uttar Pradesh,Varanasi,Sprinkler,Low,57.3
+Uttar Pradesh,Varanasi,Sprinkler,Low,87.7
+Uttar Pradesh,Varanasi,Drip,High,92.5
+Uttar Pradesh,Varanasi,Rainfed Only,High,82.8
+Uttar Pradesh,Varanasi,Rainfed Only,High,55.9
+Uttar Pradesh,Varanasi,Rainfed Only,Low,48.5
+Uttar Pradesh,Varanasi,Drip,Low,91.7
+Uttar Pradesh,Varanasi,Sprinkler,Medium,83.0
+Uttar Pradesh,Varanasi,Drip,Low,82.6
+Uttar Pradesh,Varanasi,Sprinkler,Medium,100.9
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,170.0
+Uttar Pradesh,Varanasi,Rainfed Only,High,118.5
+Uttar Pradesh,Varanasi,Drip,Low,73.2
+Uttar Pradesh,Varanasi,Sprinkler,Medium,115.4
+Uttar Pradesh,Varanasi,Rainfed Only,High,112.6
+Uttar Pradesh,Varanasi,Rainfed Only,Low,104.3
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,115.6
+Uttar Pradesh,Varanasi,Sprinkler,Low,118.8
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,52.3
+Uttar Pradesh,Varanasi,Sprinkler,High,98.8
+Uttar Pradesh,Varanasi,Canal Flood,Low,84.8
+Uttar Pradesh,Varanasi,Rainfed Only,High,111.1
+Uttar Pradesh,Varanasi,Drip,Low,52.7
+Uttar Pradesh,Varanasi,Sprinkler,Low,73.8
+Uttar Pradesh,Varanasi,Canal Flood,High,74.2
+Uttar Pradesh,Varanasi,Drip,Medium,64.3
+Uttar Pradesh,Varanasi,Rainfed Only,High,59.8
+Uttar Pradesh,Varanasi,Drip,High,31.3
+Uttar Pradesh,Varanasi,Canal Flood,High,83.2
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,104.2
+Uttar Pradesh,Varanasi,Sprinkler,Low,161.6
+Uttar Pradesh,Varanasi,Canal Flood,Medium,66.5
+Uttar Pradesh,Varanasi,Rainfed Only,Low,38.4
+Uttar Pradesh,Varanasi,Sprinkler,Low,46.3
+Uttar Pradesh,Varanasi,Rainfed Only,Low,71.2
+Uttar Pradesh,Varanasi,Drip,Low,75.5
+Uttar Pradesh,Varanasi,Drip,Medium,47.8
+Uttar Pradesh,Varanasi,Canal Flood,High,67.1
+Uttar Pradesh,Varanasi,Sprinkler,Medium,53.0
+Uttar Pradesh,Varanasi,Canal Flood,Medium,105.3
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,85.8
+Uttar Pradesh,Varanasi,Rainfed Only,High,112.1
+Uttar Pradesh,Varanasi,Sprinkler,Medium,37.8
+Uttar Pradesh,Varanasi,Canal Flood,Low,113.9
+Uttar Pradesh,Varanasi,Sprinkler,High,61.2
+Uttar Pradesh,Varanasi,Sprinkler,High,138.5
+Uttar Pradesh,Varanasi,Sprinkler,High,58.7
+Uttar Pradesh,Varanasi,Rainfed Only,High,77.9
+Uttar Pradesh,Varanasi,Canal Flood,High,63.2
+Uttar Pradesh,Varanasi,Sprinkler,High,80.9
+Uttar Pradesh,Varanasi,Canal Flood,Low,70.7
+Uttar Pradesh,Varanasi,Canal Flood,Medium,98.2
+Uttar Pradesh,Varanasi,Canal Flood,High,134.5
+Uttar Pradesh,Varanasi,Drip,Medium,30.0
+Uttar Pradesh,Varanasi,Sprinkler,Medium,82.3
+Uttar Pradesh,Varanasi,Rainfed Only,High,121.2
+Uttar Pradesh,Varanasi,Rainfed Only,High,109.5
+Uttar Pradesh,Varanasi,Sprinkler,Medium,73.5
+Uttar Pradesh,Varanasi,Canal Flood,High,77.3
+Uttar Pradesh,Varanasi,Drip,Low,86.4
+Uttar Pradesh,Varanasi,Rainfed Only,High,89.2
+Uttar Pradesh,Varanasi,Sprinkler,High,113.3
+Uttar Pradesh,Varanasi,Drip,High,92.4
+Uttar Pradesh,Varanasi,Drip,High,120.8
+Uttar Pradesh,Varanasi,Sprinkler,High,43.3
+Uttar Pradesh,Varanasi,Rainfed Only,Low,90.3
+Uttar Pradesh,Varanasi,Sprinkler,Medium,36.3
+Uttar Pradesh,Varanasi,Sprinkler,Low,104.4
+Uttar Pradesh,Varanasi,Canal Flood,High,121.6
+Uttar Pradesh,Varanasi,Drip,Medium,90.5
+Uttar Pradesh,Varanasi,Canal Flood,Medium,129.2
+Uttar Pradesh,Varanasi,Canal Flood,Low,86.2
+Uttar Pradesh,Varanasi,Drip,Low,55.6
+Uttar Pradesh,Varanasi,Sprinkler,Low,55.3
+Uttar Pradesh,Varanasi,Canal Flood,Low,72.0
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,107.2
+Uttar Pradesh,Varanasi,Drip,Medium,82.7
+Uttar Pradesh,Varanasi,Canal Flood,Low,75.7
+Uttar Pradesh,Varanasi,Sprinkler,Low,59.8
+Uttar Pradesh,Varanasi,Drip,Low,8.4
+Uttar Pradesh,Varanasi,Drip,Low,93.4
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,90.5
+Uttar Pradesh,Varanasi,Drip,High,107.6
+Uttar Pradesh,Varanasi,Sprinkler,Medium,35.7
+Uttar Pradesh,Varanasi,Drip,Low,130.7
+Uttar Pradesh,Varanasi,Canal Flood,Medium,166.6
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,44.5
+Uttar Pradesh,Varanasi,Sprinkler,High,117.7
+Uttar Pradesh,Varanasi,Sprinkler,Low,45.3
+Uttar Pradesh,Varanasi,Drip,Medium,125.7
+Uttar Pradesh,Varanasi,Canal Flood,Medium,83.2
+Uttar Pradesh,Varanasi,Rainfed Only,High,97.0
+Uttar Pradesh,Varanasi,Canal Flood,Low,47.7
+Uttar Pradesh,Varanasi,Rainfed Only,Low,60.9
+Uttar Pradesh,Varanasi,Canal Flood,Medium,50.5
+Uttar Pradesh,Varanasi,Rainfed Only,Low,79.8
+Uttar Pradesh,Varanasi,Canal Flood,High,27.1
+Uttar Pradesh,Varanasi,Drip,Medium,61.3
+Uttar Pradesh,Varanasi,Sprinkler,Medium,97.0
+Uttar Pradesh,Varanasi,Canal Flood,Medium,117.5
+Uttar Pradesh,Varanasi,Sprinkler,Medium,68.9
+Uttar Pradesh,Varanasi,Rainfed Only,High,72.6
+Uttar Pradesh,Varanasi,Canal Flood,High,59.6
+Uttar Pradesh,Varanasi,Drip,Low,99.3
+Uttar Pradesh,Varanasi,Sprinkler,Low,56.5
+Uttar Pradesh,Varanasi,Drip,Medium,108.5
+Uttar Pradesh,Varanasi,Sprinkler,High,109.2
+Uttar Pradesh,Varanasi,Drip,Low,67.9
+Uttar Pradesh,Varanasi,Rainfed Only,High,120.4
+Uttar Pradesh,Varanasi,Rainfed Only,High,112.9
+Uttar Pradesh,Varanasi,Drip,Low,92.0
+Uttar Pradesh,Varanasi,Drip,Medium,40.2
+Uttar Pradesh,Varanasi,Sprinkler,High,130.1
+Uttar Pradesh,Varanasi,Canal Flood,Medium,79.7
+Uttar Pradesh,Varanasi,Rainfed Only,High,48.3
+Uttar Pradesh,Varanasi,Drip,Medium,79.4
+Uttar Pradesh,Varanasi,Drip,High,93.3
+Uttar Pradesh,Varanasi,Canal Flood,High,125.1
+Uttar Pradesh,Varanasi,Drip,Medium,71.2
+Uttar Pradesh,Varanasi,Sprinkler,Low,136.0
+Uttar Pradesh,Varanasi,Canal Flood,Low,71.2
+Uttar Pradesh,Varanasi,Sprinkler,High,62.6
+Uttar Pradesh,Varanasi,Drip,Low,85.5
+Uttar Pradesh,Varanasi,Sprinkler,High,94.3
+Uttar Pradesh,Varanasi,Rainfed Only,Low,138.1
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,127.4
+Uttar Pradesh,Varanasi,Drip,Medium,52.2
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,71.9
+Uttar Pradesh,Varanasi,Drip,Medium,107.8
+Uttar Pradesh,Varanasi,Rainfed Only,High,105.9
+Uttar Pradesh,Varanasi,Rainfed Only,High,177.4
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,74.9
+Uttar Pradesh,Varanasi,Canal Flood,Low,80.6
+Uttar Pradesh,Varanasi,Drip,Low,93.7
+Uttar Pradesh,Varanasi,Sprinkler,High,65.4
+Uttar Pradesh,Varanasi,Canal Flood,Medium,87.3
+Uttar Pradesh,Varanasi,Sprinkler,Low,90.3
+Uttar Pradesh,Varanasi,Drip,Low,92.9
+Uttar Pradesh,Varanasi,Canal Flood,Medium,86.9
+Uttar Pradesh,Varanasi,Canal Flood,Low,65.7
+Uttar Pradesh,Varanasi,Canal Flood,Medium,131.8
+Uttar Pradesh,Varanasi,Drip,Medium,128.3
+Uttar Pradesh,Varanasi,Drip,Low,38.0
+Uttar Pradesh,Varanasi,Canal Flood,High,109.2
+Uttar Pradesh,Varanasi,Sprinkler,Medium,71.7
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,125.6
+Uttar Pradesh,Varanasi,Drip,Medium,84.8
+Uttar Pradesh,Varanasi,Drip,Medium,96.6
+Uttar Pradesh,Varanasi,Canal Flood,Medium,125.0
+Uttar Pradesh,Varanasi,Sprinkler,High,85.2
+Uttar Pradesh,Varanasi,Canal Flood,Medium,109.5
+Uttar Pradesh,Varanasi,Canal Flood,High,69.2
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,89.3
+Uttar Pradesh,Varanasi,Drip,Medium,76.9
+Uttar Pradesh,Varanasi,Drip,Low,118.0
+Uttar Pradesh,Varanasi,Drip,High,76.8
+Uttar Pradesh,Varanasi,Canal Flood,Low,42.2
+Uttar Pradesh,Varanasi,Drip,Low,107.4
+Uttar Pradesh,Varanasi,Drip,High,93.3
+Uttar Pradesh,Varanasi,Drip,High,57.4
+Uttar Pradesh,Varanasi,Rainfed Only,Low,119.0
+Uttar Pradesh,Varanasi,Sprinkler,Medium,98.7
+Uttar Pradesh,Varanasi,Drip,Low,58.5
+Uttar Pradesh,Varanasi,Rainfed Only,Low,124.3
+Uttar Pradesh,Varanasi,Canal Flood,Medium,92.9
+Uttar Pradesh,Varanasi,Sprinkler,Low,90.3
+Uttar Pradesh,Varanasi,Sprinkler,Medium,80.4
+Uttar Pradesh,Varanasi,Canal Flood,Low,64.1
+Uttar Pradesh,Varanasi,Drip,High,83.7
+Uttar Pradesh,Varanasi,Drip,Medium,44.0
+Uttar Pradesh,Varanasi,Canal Flood,High,96.6
+Uttar Pradesh,Varanasi,Drip,Low,130.5
+Uttar Pradesh,Varanasi,Drip,High,82.0
+Uttar Pradesh,Varanasi,Sprinkler,Medium,81.8
+Uttar Pradesh,Varanasi,Drip,High,63.9
+Uttar Pradesh,Varanasi,Canal Flood,High,96.7
+Uttar Pradesh,Varanasi,Canal Flood,Low,56.9
+Uttar Pradesh,Varanasi,Drip,High,152.6
+Uttar Pradesh,Varanasi,Canal Flood,Medium,74.3
+Uttar Pradesh,Varanasi,Rainfed Only,Low,57.5
+Uttar Pradesh,Varanasi,Rainfed Only,Medium,44.8
+Uttar Pradesh,Varanasi,Sprinkler,Medium,59.4
+Uttar Pradesh,Varanasi,Canal Flood,High,108.2
+Uttar Pradesh,Varanasi,Sprinkler,High,77.2
+Uttar Pradesh,Varanasi,Sprinkler,Low,121.1
+Uttar Pradesh,Varanasi,Sprinkler,Low,74.7
+Uttar Pradesh,Varanasi,Canal Flood,Medium,90.0
+Uttar Pradesh,Varanasi,Sprinkler,Low,64.8
+Uttar Pradesh,Varanasi,Canal Flood,High,14.4
+Uttar Pradesh,Varanasi,Rainfed Only,Low,92.8
+Uttar Pradesh,Bareilly,Rainfed Only,High,72.1
+Uttar Pradesh,Bareilly,Canal Flood,Low,131.5
+Uttar Pradesh,Bareilly,Canal Flood,High,50.6
+Uttar Pradesh,Bareilly,Canal Flood,Medium,115.9
+Uttar Pradesh,Bareilly,Canal Flood,High,170.5
+Uttar Pradesh,Bareilly,Rainfed Only,Low,97.5
+Uttar Pradesh,Bareilly,Drip,Low,125.2
+Uttar Pradesh,Bareilly,Rainfed Only,High,88.6
+Uttar Pradesh,Bareilly,Drip,Low,75.8
+Uttar Pradesh,Bareilly,Rainfed Only,High,51.4
+Uttar Pradesh,Bareilly,Drip,High,98.9
+Uttar Pradesh,Bareilly,Rainfed Only,Low,59.5
+Uttar Pradesh,Bareilly,Canal Flood,Medium,177.8
+Uttar Pradesh,Bareilly,Rainfed Only,Low,123.0
+Uttar Pradesh,Bareilly,Drip,Medium,45.7
+Uttar Pradesh,Bareilly,Drip,High,116.9
+Uttar Pradesh,Bareilly,Canal Flood,Medium,20.2
+Uttar Pradesh,Bareilly,Drip,Low,113.6
+Uttar Pradesh,Bareilly,Canal Flood,High,95.4
+Uttar Pradesh,Bareilly,Canal Flood,Low,81.8
+Uttar Pradesh,Bareilly,Rainfed Only,Low,17.9
+Uttar Pradesh,Bareilly,Sprinkler,Medium,34.2
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,120.7
+Uttar Pradesh,Bareilly,Rainfed Only,High,112.1
+Uttar Pradesh,Bareilly,Sprinkler,Medium,137.6
+Uttar Pradesh,Bareilly,Rainfed Only,High,70.1
+Uttar Pradesh,Bareilly,Sprinkler,Medium,60.0
+Uttar Pradesh,Bareilly,Canal Flood,Medium,46.6
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,65.8
+Uttar Pradesh,Bareilly,Drip,High,78.9
+Uttar Pradesh,Bareilly,Drip,Low,88.0
+Uttar Pradesh,Bareilly,Sprinkler,Medium,75.6
+Uttar Pradesh,Bareilly,Sprinkler,High,73.4
+Uttar Pradesh,Bareilly,Canal Flood,Medium,118.5
+Uttar Pradesh,Bareilly,Canal Flood,High,130.9
+Uttar Pradesh,Bareilly,Canal Flood,Medium,80.9
+Uttar Pradesh,Bareilly,Sprinkler,Low,54.6
+Uttar Pradesh,Bareilly,Sprinkler,Low,138.9
+Uttar Pradesh,Bareilly,Canal Flood,Low,131.5
+Uttar Pradesh,Bareilly,Drip,High,50.6
+Uttar Pradesh,Bareilly,Sprinkler,Low,98.6
+Uttar Pradesh,Bareilly,Drip,High,129.2
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,106.2
+Uttar Pradesh,Bareilly,Canal Flood,High,96.0
+Uttar Pradesh,Bareilly,Drip,Low,63.3
+Uttar Pradesh,Bareilly,Drip,High,89.5
+Uttar Pradesh,Bareilly,Sprinkler,High,81.2
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,132.8
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,105.0
+Uttar Pradesh,Bareilly,Sprinkler,High,41.0
+Uttar Pradesh,Bareilly,Sprinkler,Low,96.2
+Uttar Pradesh,Bareilly,Canal Flood,Low,104.2
+Uttar Pradesh,Bareilly,Canal Flood,Medium,52.5
+Uttar Pradesh,Bareilly,Sprinkler,Low,103.0
+Uttar Pradesh,Bareilly,Canal Flood,Low,90.9
+Uttar Pradesh,Bareilly,Rainfed Only,Low,62.0
+Uttar Pradesh,Bareilly,Drip,High,58.8
+Uttar Pradesh,Bareilly,Sprinkler,Low,115.9
+Uttar Pradesh,Bareilly,Sprinkler,Medium,96.8
+Uttar Pradesh,Bareilly,Sprinkler,Low,37.4
+Uttar Pradesh,Bareilly,Drip,Low,76.2
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,117.3
+Uttar Pradesh,Bareilly,Rainfed Only,Low,81.4
+Uttar Pradesh,Bareilly,Drip,Medium,39.2
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,96.8
+Uttar Pradesh,Bareilly,Sprinkler,Medium,94.5
+Uttar Pradesh,Bareilly,Drip,Low,90.1
+Uttar Pradesh,Bareilly,Canal Flood,Medium,67.3
+Uttar Pradesh,Bareilly,Canal Flood,Low,96.2
+Uttar Pradesh,Bareilly,Sprinkler,Low,80.3
+Uttar Pradesh,Bareilly,Canal Flood,Medium,110.4
+Uttar Pradesh,Bareilly,Canal Flood,High,44.8
+Uttar Pradesh,Bareilly,Sprinkler,Medium,75.1
+Uttar Pradesh,Bareilly,Canal Flood,Medium,38.1
+Uttar Pradesh,Bareilly,Canal Flood,Low,89.5
+Uttar Pradesh,Bareilly,Drip,Medium,110.9
+Uttar Pradesh,Bareilly,Canal Flood,Medium,15.5
+Uttar Pradesh,Bareilly,Drip,Low,74.3
+Uttar Pradesh,Bareilly,Sprinkler,Low,38.1
+Uttar Pradesh,Bareilly,Rainfed Only,Low,72.9
+Uttar Pradesh,Bareilly,Drip,High,93.8
+Uttar Pradesh,Bareilly,Rainfed Only,High,81.1
+Uttar Pradesh,Bareilly,Rainfed Only,High,50.6
+Uttar Pradesh,Bareilly,Rainfed Only,Low,61.3
+Uttar Pradesh,Bareilly,Canal Flood,High,114.1
+Uttar Pradesh,Bareilly,Drip,Low,136.1
+Uttar Pradesh,Bareilly,Drip,High,61.7
+Uttar Pradesh,Bareilly,Drip,Low,48.1
+Uttar Pradesh,Bareilly,Sprinkler,Medium,110.2
+Uttar Pradesh,Bareilly,Sprinkler,High,91.8
+Uttar Pradesh,Bareilly,Canal Flood,Low,70.9
+Uttar Pradesh,Bareilly,Canal Flood,Medium,106.0
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,54.7
+Uttar Pradesh,Bareilly,Drip,High,108.6
+Uttar Pradesh,Bareilly,Drip,Medium,79.4
+Uttar Pradesh,Bareilly,Canal Flood,Medium,51.8
+Uttar Pradesh,Bareilly,Canal Flood,Medium,53.6
+Uttar Pradesh,Bareilly,Rainfed Only,Low,38.2
+Uttar Pradesh,Bareilly,Canal Flood,Low,82.4
+Uttar Pradesh,Bareilly,Drip,High,118.8
+Uttar Pradesh,Bareilly,Canal Flood,High,72.9
+Uttar Pradesh,Bareilly,Canal Flood,Low,107.6
+Uttar Pradesh,Bareilly,Rainfed Only,Low,98.9
+Uttar Pradesh,Bareilly,Canal Flood,Medium,85.7
+Uttar Pradesh,Bareilly,Sprinkler,Low,140.6
+Uttar Pradesh,Bareilly,Rainfed Only,Low,105.9
+Uttar Pradesh,Bareilly,Drip,Medium,105.0
+Uttar Pradesh,Bareilly,Canal Flood,Medium,99.5
+Uttar Pradesh,Bareilly,Canal Flood,Low,112.3
+Uttar Pradesh,Bareilly,Sprinkler,High,65.0
+Uttar Pradesh,Bareilly,Canal Flood,Medium,98.4
+Uttar Pradesh,Bareilly,Canal Flood,Medium,130.2
+Uttar Pradesh,Bareilly,Rainfed Only,High,100.3
+Uttar Pradesh,Bareilly,Canal Flood,Low,61.7
+Uttar Pradesh,Bareilly,Sprinkler,Low,56.1
+Uttar Pradesh,Bareilly,Sprinkler,Medium,95.6
+Uttar Pradesh,Bareilly,Canal Flood,High,112.6
+Uttar Pradesh,Bareilly,Canal Flood,Low,37.2
+Uttar Pradesh,Bareilly,Canal Flood,Medium,106.8
+Uttar Pradesh,Bareilly,Canal Flood,Low,138.7
+Uttar Pradesh,Bareilly,Drip,Low,96.8
+Uttar Pradesh,Bareilly,Canal Flood,Low,145.4
+Uttar Pradesh,Bareilly,Rainfed Only,High,107.1
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,76.7
+Uttar Pradesh,Bareilly,Drip,Low,61.4
+Uttar Pradesh,Bareilly,Rainfed Only,High,81.3
+Uttar Pradesh,Bareilly,Canal Flood,Medium,107.7
+Uttar Pradesh,Bareilly,Canal Flood,Medium,45.3
+Uttar Pradesh,Bareilly,Canal Flood,Medium,65.9
+Uttar Pradesh,Bareilly,Rainfed Only,Low,80.0
+Uttar Pradesh,Bareilly,Rainfed Only,Low,73.0
+Uttar Pradesh,Bareilly,Drip,Medium,60.5
+Uttar Pradesh,Bareilly,Drip,Medium,117.1
+Uttar Pradesh,Bareilly,Rainfed Only,Low,66.9
+Uttar Pradesh,Bareilly,Sprinkler,High,78.2
+Uttar Pradesh,Bareilly,Sprinkler,Medium,128.5
+Uttar Pradesh,Bareilly,Sprinkler,Low,121.3
+Uttar Pradesh,Bareilly,Canal Flood,Low,121.3
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,95.6
+Uttar Pradesh,Bareilly,Canal Flood,Medium,104.5
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,85.4
+Uttar Pradesh,Bareilly,Rainfed Only,High,116.0
+Uttar Pradesh,Bareilly,Sprinkler,Low,114.1
+Uttar Pradesh,Bareilly,Canal Flood,Low,67.9
+Uttar Pradesh,Bareilly,Drip,Low,66.8
+Uttar Pradesh,Bareilly,Sprinkler,Medium,110.6
+Uttar Pradesh,Bareilly,Rainfed Only,Low,56.5
+Uttar Pradesh,Bareilly,Canal Flood,High,78.2
+Uttar Pradesh,Bareilly,Sprinkler,Medium,75.0
+Uttar Pradesh,Bareilly,Canal Flood,Medium,89.3
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,80.8
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,64.2
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,150.2
+Uttar Pradesh,Bareilly,Sprinkler,High,76.5
+Uttar Pradesh,Bareilly,Rainfed Only,Low,111.1
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,80.3
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,116.4
+Uttar Pradesh,Bareilly,Canal Flood,Low,100.7
+Uttar Pradesh,Bareilly,Sprinkler,High,80.9
+Uttar Pradesh,Bareilly,Drip,Medium,101.1
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,55.5
+Uttar Pradesh,Bareilly,Rainfed Only,High,112.4
+Uttar Pradesh,Bareilly,Sprinkler,Medium,83.0
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,97.3
+Uttar Pradesh,Bareilly,Canal Flood,Medium,54.5
+Uttar Pradesh,Bareilly,Drip,Medium,116.1
+Uttar Pradesh,Bareilly,Canal Flood,Medium,84.1
+Uttar Pradesh,Bareilly,Canal Flood,Low,70.4
+Uttar Pradesh,Bareilly,Canal Flood,Medium,104.0
+Uttar Pradesh,Bareilly,Drip,High,79.9
+Uttar Pradesh,Bareilly,Canal Flood,Medium,65.5
+Uttar Pradesh,Bareilly,Canal Flood,Medium,60.2
+Uttar Pradesh,Bareilly,Sprinkler,Low,76.0
+Uttar Pradesh,Bareilly,Rainfed Only,High,76.5
+Uttar Pradesh,Bareilly,Canal Flood,High,51.2
+Uttar Pradesh,Bareilly,Canal Flood,Low,109.2
+Uttar Pradesh,Bareilly,Drip,Low,79.8
+Uttar Pradesh,Bareilly,Drip,Medium,62.7
+Uttar Pradesh,Bareilly,Rainfed Only,High,125.2
+Uttar Pradesh,Bareilly,Drip,Medium,42.4
+Uttar Pradesh,Bareilly,Sprinkler,High,16.9
+Uttar Pradesh,Bareilly,Canal Flood,Medium,66.6
+Uttar Pradesh,Bareilly,Canal Flood,Medium,23.3
+Uttar Pradesh,Bareilly,Canal Flood,Medium,75.3
+Uttar Pradesh,Bareilly,Sprinkler,High,137.4
+Uttar Pradesh,Bareilly,Canal Flood,Low,82.1
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,96.3
+Uttar Pradesh,Bareilly,Sprinkler,High,108.9
+Uttar Pradesh,Bareilly,Sprinkler,Low,83.0
+Uttar Pradesh,Bareilly,Drip,High,95.4
+Uttar Pradesh,Bareilly,Drip,Low,59.5
+Uttar Pradesh,Bareilly,Drip,Low,82.2
+Uttar Pradesh,Bareilly,Canal Flood,High,42.9
+Uttar Pradesh,Bareilly,Rainfed Only,High,84.7
+Uttar Pradesh,Bareilly,Sprinkler,High,146.3
+Uttar Pradesh,Bareilly,Canal Flood,Medium,117.9
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,104.2
+Uttar Pradesh,Bareilly,Rainfed Only,Low,49.8
+Uttar Pradesh,Bareilly,Rainfed Only,Medium,79.6
+Uttar Pradesh,Bareilly,Sprinkler,High,62.9
+Gujarat,Rajkot,Canal Flood,Medium,68.7
+Gujarat,Rajkot,Canal Flood,High,33.6
+Gujarat,Rajkot,Sprinkler,Medium,43.7
+Gujarat,Rajkot,Canal Flood,Low,81.2
+Gujarat,Rajkot,Sprinkler,Medium,68.4
+Gujarat,Rajkot,Drip,Low,114.7
+Gujarat,Rajkot,Sprinkler,Medium,88.2
+Gujarat,Rajkot,Rainfed Only,Medium,98.5
+Gujarat,Rajkot,Drip,High,92.5
+Gujarat,Rajkot,Rainfed Only,Medium,70.0
+Gujarat,Rajkot,Canal Flood,High,67.4
+Gujarat,Rajkot,Canal Flood,Medium,59.1
+Gujarat,Rajkot,Canal Flood,Low,13.9
+Gujarat,Rajkot,Canal Flood,Medium,49.5
+Gujarat,Rajkot,Sprinkler,Low,85.2
+Gujarat,Rajkot,Drip,High,107.8
+Gujarat,Rajkot,Rainfed Only,High,69.9
+Gujarat,Rajkot,Sprinkler,High,69.3
+Gujarat,Rajkot,Drip,High,91.3
+Gujarat,Rajkot,Drip,Low,41.0
+Gujarat,Rajkot,Drip,Low,67.4
+Gujarat,Rajkot,Drip,Low,81.4
+Gujarat,Rajkot,Canal Flood,High,75.9
+Gujarat,Rajkot,Sprinkler,Low,61.9
+Gujarat,Rajkot,Sprinkler,High,86.5
+Gujarat,Rajkot,Sprinkler,Low,79.4
+Gujarat,Rajkot,Sprinkler,High,63.4
+Gujarat,Rajkot,Drip,Low,56.1
+Gujarat,Rajkot,Drip,Medium,62.5
+Gujarat,Rajkot,Canal Flood,Medium,59.8
+Gujarat,Rajkot,Drip,High,120.9
+Gujarat,Rajkot,Drip,High,73.4
+Gujarat,Rajkot,Drip,Low,105.4
+Gujarat,Rajkot,Sprinkler,Low,66.7
+Gujarat,Rajkot,Drip,Medium,99.6
+Gujarat,Rajkot,Rainfed Only,Low,72.8
+Gujarat,Rajkot,Canal Flood,Low,83.0
+Gujarat,Rajkot,Sprinkler,High,61.9
+Gujarat,Rajkot,Rainfed Only,Low,99.9
+Gujarat,Rajkot,Canal Flood,Medium,113.3
+Gujarat,Rajkot,Drip,Medium,54.4
+Gujarat,Rajkot,Drip,Low,92.7
+Gujarat,Rajkot,Sprinkler,Medium,114.8
+Gujarat,Rajkot,Canal Flood,Low,106.5
+Gujarat,Rajkot,Rainfed Only,Medium,23.5
+Gujarat,Rajkot,Rainfed Only,Medium,101.2
+Gujarat,Rajkot,Rainfed Only,Low,105.2
+Gujarat,Rajkot,Canal Flood,High,100.5
+Gujarat,Rajkot,Drip,Low,122.6
+Gujarat,Rajkot,Canal Flood,High,88.1
+Gujarat,Rajkot,Sprinkler,Medium,106.1
+Gujarat,Rajkot,Drip,Medium,57.7
+Gujarat,Rajkot,Rainfed Only,Low,40.2
+Gujarat,Rajkot,Sprinkler,High,91.8
+Gujarat,Rajkot,Rainfed Only,High,59.1
+Gujarat,Rajkot,Canal Flood,Low,83.4
+Gujarat,Rajkot,Rainfed Only,High,99.9
+Gujarat,Rajkot,Rainfed Only,High,61.2
+Gujarat,Rajkot,Canal Flood,Low,29.1
+Gujarat,Rajkot,Rainfed Only,Low,125.0
+Gujarat,Rajkot,Sprinkler,Low,88.9
+Gujarat,Rajkot,Rainfed Only,High,62.6
+Gujarat,Rajkot,Drip,Medium,102.6
+Gujarat,Rajkot,Sprinkler,Low,61.8
+Gujarat,Rajkot,Canal Flood,High,96.9
+Gujarat,Rajkot,Drip,Medium,35.7
+Gujarat,Rajkot,Rainfed Only,High,68.0
+Gujarat,Rajkot,Drip,Low,108.2
+Gujarat,Rajkot,Drip,Medium,114.6
+Gujarat,Rajkot,Drip,Medium,136.2
+Gujarat,Rajkot,Drip,Low,49.6
+Gujarat,Rajkot,Canal Flood,High,82.5
+Gujarat,Rajkot,Drip,High,85.6
+Gujarat,Rajkot,Drip,Medium,106.5
+Gujarat,Rajkot,Drip,Medium,86.7
+Gujarat,Rajkot,Canal Flood,High,79.3
+Gujarat,Rajkot,Sprinkler,Medium,61.6
+Gujarat,Rajkot,Canal Flood,High,29.6
+Gujarat,Rajkot,Canal Flood,High,61.8
+Gujarat,Rajkot,Rainfed Only,Medium,40.6
+Gujarat,Rajkot,Drip,High,68.8
+Gujarat,Rajkot,Sprinkler,Low,12.9
+Gujarat,Rajkot,Drip,High,95.8
+Gujarat,Rajkot,Rainfed Only,Low,97.0
+Gujarat,Rajkot,Sprinkler,Medium,86.3
+Gujarat,Rajkot,Drip,Medium,60.0
+Gujarat,Rajkot,Drip,Medium,117.1
+Gujarat,Rajkot,Sprinkler,Medium,95.6
+Gujarat,Rajkot,Canal Flood,High,89.6
+Gujarat,Rajkot,Rainfed Only,High,143.0
+Gujarat,Rajkot,Canal Flood,Low,66.8
+Gujarat,Rajkot,Drip,High,76.0
+Gujarat,Rajkot,Rainfed Only,High,89.5
+Gujarat,Rajkot,Canal Flood,High,31.0
+Gujarat,Rajkot,Rainfed Only,High,91.7
+Gujarat,Rajkot,Rainfed Only,High,45.5
+Gujarat,Rajkot,Canal Flood,Medium,57.1
+Gujarat,Rajkot,Drip,Medium,55.7
+Gujarat,Rajkot,Sprinkler,Medium,41.3
+Gujarat,Rajkot,Drip,Low,146.4
+Gujarat,Rajkot,Sprinkler,Medium,79.4
+Gujarat,Rajkot,Sprinkler,High,78.4
+Gujarat,Rajkot,Sprinkler,Low,92.8
+Gujarat,Rajkot,Canal Flood,Medium,154.0
+Gujarat,Rajkot,Sprinkler,High,122.1
+Gujarat,Rajkot,Canal Flood,High,86.5
+Gujarat,Rajkot,Sprinkler,Medium,80.5
+Gujarat,Rajkot,Drip,Medium,64.6
+Gujarat,Rajkot,Sprinkler,Low,46.3
+Gujarat,Rajkot,Drip,Medium,76.2
+Gujarat,Rajkot,Canal Flood,Medium,82.8
+Gujarat,Rajkot,Sprinkler,High,87.7
+Gujarat,Rajkot,Rainfed Only,Low,96.9
+Gujarat,Rajkot,Drip,High,70.7
+Gujarat,Rajkot,Rainfed Only,High,84.2
+Gujarat,Rajkot,Sprinkler,Low,108.3
+Gujarat,Rajkot,Canal Flood,Low,130.4
+Gujarat,Rajkot,Drip,Medium,101.9
+Gujarat,Rajkot,Canal Flood,High,89.2
+Gujarat,Rajkot,Canal Flood,High,148.6
+Gujarat,Rajkot,Canal Flood,Medium,45.0
+Gujarat,Rajkot,Drip,High,90.7
+Gujarat,Rajkot,Sprinkler,Medium,6.3
+Gujarat,Rajkot,Canal Flood,High,67.0
+Gujarat,Rajkot,Canal Flood,Medium,75.1
+Gujarat,Rajkot,Drip,High,109.7
+Gujarat,Rajkot,Canal Flood,Medium,103.8
+Gujarat,Rajkot,Rainfed Only,Low,64.0
+Gujarat,Rajkot,Drip,Medium,87.0
+Gujarat,Rajkot,Sprinkler,Medium,60.3
+Gujarat,Rajkot,Sprinkler,Low,88.3
+Gujarat,Rajkot,Canal Flood,High,96.1
+Gujarat,Rajkot,Sprinkler,High,104.8
+Gujarat,Rajkot,Sprinkler,Medium,67.2
+Gujarat,Rajkot,Canal Flood,Low,90.8
+Gujarat,Rajkot,Rainfed Only,High,65.7
+Gujarat,Rajkot,Rainfed Only,High,67.0
+Gujarat,Rajkot,Rainfed Only,High,33.3
+Gujarat,Rajkot,Canal Flood,Medium,80.2
+Gujarat,Rajkot,Canal Flood,Low,52.9
+Gujarat,Rajkot,Sprinkler,Medium,103.3
+Gujarat,Rajkot,Canal Flood,Medium,67.5
+Gujarat,Rajkot,Sprinkler,Medium,44.1
+Gujarat,Rajkot,Rainfed Only,Medium,57.3
+Gujarat,Rajkot,Sprinkler,Medium,115.8
+Gujarat,Rajkot,Drip,Low,83.5
+Gujarat,Rajkot,Drip,Low,85.6
+Gujarat,Rajkot,Sprinkler,Low,47.9
+Gujarat,Rajkot,Drip,Medium,61.6
+Gujarat,Rajkot,Drip,Low,116.3
+Gujarat,Rajkot,Drip,High,63.5
+Gujarat,Rajkot,Drip,High,69.1
+Gujarat,Rajkot,Canal Flood,Low,83.0
+Gujarat,Rajkot,Drip,High,60.8
+Gujarat,Rajkot,Canal Flood,Medium,96.2
+Gujarat,Rajkot,Canal Flood,High,86.4
+Gujarat,Rajkot,Drip,High,76.0
+Gujarat,Rajkot,Drip,Medium,76.1
+Gujarat,Rajkot,Rainfed Only,High,126.3
+Gujarat,Rajkot,Rainfed Only,Medium,104.7
+Gujarat,Rajkot,Drip,Low,90.3
+Gujarat,Rajkot,Sprinkler,High,97.9
+Gujarat,Rajkot,Sprinkler,Medium,89.2
+Gujarat,Rajkot,Drip,Low,102.8
+Gujarat,Rajkot,Rainfed Only,High,86.4
+Gujarat,Rajkot,Canal Flood,High,70.1
+Gujarat,Rajkot,Rainfed Only,High,79.5
+Gujarat,Rajkot,Drip,High,74.2
+Gujarat,Rajkot,Rainfed Only,Low,104.5
+Gujarat,Rajkot,Canal Flood,Low,78.1
+Gujarat,Rajkot,Drip,Low,138.6
+Gujarat,Rajkot,Rainfed Only,High,93.9
+Gujarat,Rajkot,Rainfed Only,Low,152.0
+Gujarat,Rajkot,Sprinkler,Medium,73.9
+Gujarat,Rajkot,Canal Flood,Low,77.2
+Gujarat,Rajkot,Drip,Medium,46.0
+Gujarat,Rajkot,Rainfed Only,Medium,49.3
+Gujarat,Rajkot,Sprinkler,Low,87.5
+Gujarat,Rajkot,Sprinkler,Low,105.5
+Gujarat,Rajkot,Drip,Medium,54.5
+Gujarat,Rajkot,Canal Flood,Low,82.7
+Gujarat,Rajkot,Sprinkler,Medium,60.5
+Gujarat,Rajkot,Drip,Low,63.3
+Gujarat,Rajkot,Rainfed Only,Medium,94.3
+Gujarat,Rajkot,Rainfed Only,Medium,133.2
+Gujarat,Rajkot,Rainfed Only,Medium,108.4
+Gujarat,Rajkot,Canal Flood,High,62.2
+Gujarat,Rajkot,Sprinkler,Low,87.6
+Gujarat,Rajkot,Drip,Low,48.4
+Gujarat,Rajkot,Rainfed Only,Medium,91.4
+Gujarat,Rajkot,Sprinkler,Low,106.2
+Gujarat,Rajkot,Sprinkler,Medium,91.5
+Gujarat,Rajkot,Canal Flood,High,72.7
+Gujarat,Rajkot,Rainfed Only,High,69.2
+Gujarat,Rajkot,Rainfed Only,Low,101.0
+Gujarat,Rajkot,Rainfed Only,Medium,23.5
+Gujarat,Rajkot,Rainfed Only,High,53.7
+Gujarat,Rajkot,Drip,Low,95.6
+Gujarat,Rajkot,Rainfed Only,High,116.3
+Gujarat,Rajkot,Rainfed Only,Medium,57.4
+Gujarat,Anand,Rainfed Only,High,66.7
+Gujarat,Anand,Sprinkler,High,141.3
+Gujarat,Anand,Drip,Low,80.0
+Gujarat,Anand,Sprinkler,Low,55.0
+Gujarat,Anand,Rainfed Only,High,144.1
+Gujarat,Anand,Rainfed Only,Medium,129.5
+Gujarat,Anand,Canal Flood,Low,96.4
+Gujarat,Anand,Sprinkler,High,125.1
+Gujarat,Anand,Drip,Medium,71.7
+Gujarat,Anand,Sprinkler,High,61.8
+Gujarat,Anand,Canal Flood,Medium,136.5
+Gujarat,Anand,Rainfed Only,Low,32.7
+Gujarat,Anand,Rainfed Only,Low,75.9
+Gujarat,Anand,Drip,Low,97.9
+Gujarat,Anand,Drip,High,84.8
+Gujarat,Anand,Canal Flood,High,103.0
+Gujarat,Anand,Sprinkler,High,78.4
+Gujarat,Anand,Drip,Medium,77.2
+Gujarat,Anand,Rainfed Only,Medium,15.4
+Gujarat,Anand,Canal Flood,Medium,109.6
+Gujarat,Anand,Sprinkler,High,97.6
+Gujarat,Anand,Canal Flood,High,45.3
+Gujarat,Anand,Drip,High,95.6
+Gujarat,Anand,Rainfed Only,Medium,123.8
+Gujarat,Anand,Rainfed Only,Medium,81.0
+Gujarat,Anand,Drip,Low,52.0
+Gujarat,Anand,Canal Flood,High,58.2
+Gujarat,Anand,Rainfed Only,Low,114.9
+Gujarat,Anand,Rainfed Only,Medium,112.0
+Gujarat,Anand,Canal Flood,Medium,87.6
+Gujarat,Anand,Canal Flood,Low,53.3
+Gujarat,Anand,Sprinkler,Medium,96.1
+Gujarat,Anand,Rainfed Only,High,87.3
+Gujarat,Anand,Rainfed Only,Low,116.2
+Gujarat,Anand,Drip,High,75.6
+Gujarat,Anand,Canal Flood,Medium,54.9
+Gujarat,Anand,Rainfed Only,High,121.5
+Gujarat,Anand,Sprinkler,Medium,86.1
+Gujarat,Anand,Rainfed Only,Low,53.2
+Gujarat,Anand,Rainfed Only,Low,70.2
+Gujarat,Anand,Sprinkler,Medium,84.9
+Gujarat,Anand,Sprinkler,Low,35.3
+Gujarat,Anand,Rainfed Only,Low,60.4
+Gujarat,Anand,Canal Flood,Medium,48.6
+Gujarat,Anand,Sprinkler,Medium,83.2
+Gujarat,Anand,Sprinkler,Medium,155.0
+Gujarat,Anand,Sprinkler,High,116.7
+Gujarat,Anand,Sprinkler,Medium,86.7
+Gujarat,Anand,Canal Flood,Medium,64.7
+Gujarat,Anand,Canal Flood,Medium,112.0
+Gujarat,Anand,Drip,High,55.7
+Gujarat,Anand,Canal Flood,Low,88.4
+Gujarat,Anand,Drip,High,107.6
+Gujarat,Anand,Rainfed Only,Medium,25.7
+Gujarat,Anand,Canal Flood,High,106.5
+Gujarat,Anand,Canal Flood,Low,73.8
+Gujarat,Anand,Canal Flood,Medium,132.0
+Gujarat,Anand,Rainfed Only,Low,66.7
+Gujarat,Anand,Sprinkler,Low,66.2
+Gujarat,Anand,Drip,High,81.6
+Gujarat,Anand,Canal Flood,Medium,111.0
+Gujarat,Anand,Rainfed Only,High,93.3
+Gujarat,Anand,Rainfed Only,High,120.9
+Gujarat,Anand,Sprinkler,Low,113.7
+Gujarat,Anand,Drip,Medium,70.4
+Gujarat,Anand,Drip,Medium,98.5
+Gujarat,Anand,Sprinkler,High,104.7
+Gujarat,Anand,Canal Flood,High,32.5
+Gujarat,Anand,Canal Flood,Medium,60.5
+Gujarat,Anand,Rainfed Only,High,131.9
+Gujarat,Anand,Drip,Low,93.7
+Gujarat,Anand,Canal Flood,Medium,45.3
+Gujarat,Anand,Rainfed Only,Medium,42.6
+Gujarat,Anand,Drip,Medium,112.5
+Gujarat,Anand,Sprinkler,Low,43.8
+Gujarat,Anand,Rainfed Only,Medium,124.2
+Gujarat,Anand,Canal Flood,High,97.9
+Gujarat,Anand,Sprinkler,Low,83.9
+Gujarat,Anand,Sprinkler,High,101.8
+Gujarat,Anand,Sprinkler,Low,21.2
+Gujarat,Anand,Rainfed Only,Low,75.0
+Gujarat,Anand,Sprinkler,High,74.7
+Gujarat,Anand,Rainfed Only,High,71.8
+Gujarat,Anand,Canal Flood,Low,48.8
+Gujarat,Anand,Drip,Low,73.6
+Gujarat,Anand,Canal Flood,High,56.9
+Gujarat,Anand,Drip,High,25.5
+Gujarat,Anand,Sprinkler,High,138.9
+Gujarat,Anand,Drip,Low,103.4
+Gujarat,Anand,Canal Flood,High,88.2
+Gujarat,Anand,Canal Flood,Medium,73.7
+Gujarat,Anand,Drip,Low,117.9
+Gujarat,Anand,Rainfed Only,Medium,101.8
+Gujarat,Anand,Drip,High,94.7
+Gujarat,Anand,Drip,Medium,56.1
+Gujarat,Anand,Rainfed Only,High,77.3
+Gujarat,Anand,Drip,Medium,124.2
+Gujarat,Anand,Sprinkler,Medium,73.5
+Gujarat,Anand,Sprinkler,Medium,56.3
+Gujarat,Anand,Drip,Medium,47.6
+Gujarat,Anand,Drip,High,77.4
+Gujarat,Anand,Rainfed Only,High,84.5
+Gujarat,Anand,Rainfed Only,Medium,108.5
+Gujarat,Anand,Canal Flood,Medium,85.0
+Gujarat,Anand,Rainfed Only,High,48.3
+Gujarat,Anand,Rainfed Only,Low,145.8
+Gujarat,Anand,Sprinkler,Medium,76.0
+Gujarat,Anand,Drip,Medium,118.9
+Gujarat,Anand,Sprinkler,Medium,52.7
+Gujarat,Anand,Sprinkler,Medium,106.7
+Gujarat,Anand,Sprinkler,Medium,71.7
+Gujarat,Anand,Canal Flood,Medium,97.1
+Gujarat,Anand,Canal Flood,Medium,108.2
+Gujarat,Anand,Sprinkler,Low,139.4
+Gujarat,Anand,Drip,Low,55.0
+Gujarat,Anand,Drip,Medium,69.0
+Gujarat,Anand,Canal Flood,High,99.7
+Gujarat,Anand,Rainfed Only,High,96.5
+Gujarat,Anand,Rainfed Only,High,43.1
+Gujarat,Anand,Drip,Low,99.0
+Gujarat,Anand,Drip,Medium,130.2
+Gujarat,Anand,Sprinkler,Low,37.2
+Gujarat,Anand,Sprinkler,Medium,103.4
+Gujarat,Anand,Canal Flood,Medium,83.8
+Gujarat,Anand,Rainfed Only,Low,108.0
+Gujarat,Anand,Rainfed Only,Medium,42.3
+Gujarat,Anand,Drip,High,22.4
+Gujarat,Anand,Rainfed Only,High,77.9
+Gujarat,Anand,Rainfed Only,Low,91.2
+Gujarat,Anand,Canal Flood,Medium,63.1
+Gujarat,Anand,Drip,Medium,82.0
+Gujarat,Anand,Sprinkler,High,47.1
+Gujarat,Anand,Sprinkler,Medium,86.6
+Gujarat,Anand,Drip,Medium,77.5
+Gujarat,Anand,Sprinkler,High,62.5
+Gujarat,Anand,Sprinkler,Low,60.6
+Gujarat,Anand,Rainfed Only,High,58.3
+Gujarat,Anand,Sprinkler,High,82.6
+Gujarat,Anand,Rainfed Only,High,73.6
+Gujarat,Anand,Rainfed Only,High,120.2
+Gujarat,Anand,Drip,Low,95.9
+Gujarat,Anand,Canal Flood,High,142.2
+Gujarat,Anand,Drip,Low,69.5
+Gujarat,Anand,Drip,Medium,62.1
+Gujarat,Anand,Canal Flood,High,101.4
+Gujarat,Anand,Rainfed Only,High,114.9
+Gujarat,Anand,Canal Flood,High,90.4
+Gujarat,Anand,Drip,Medium,114.7
+Gujarat,Anand,Drip,Low,153.6
+Gujarat,Anand,Rainfed Only,Low,92.6
+Gujarat,Anand,Rainfed Only,Low,123.0
+Gujarat,Anand,Rainfed Only,High,74.0
+Gujarat,Anand,Drip,Low,127.9
+Gujarat,Anand,Canal Flood,Medium,110.3
+Gujarat,Anand,Sprinkler,Low,101.9
+Gujarat,Anand,Drip,High,87.4
+Gujarat,Anand,Canal Flood,High,112.6
+Gujarat,Anand,Canal Flood,Low,29.0
+Gujarat,Anand,Canal Flood,High,97.9
+Gujarat,Anand,Rainfed Only,Medium,5.0
+Gujarat,Anand,Sprinkler,High,52.4
+Gujarat,Anand,Canal Flood,Medium,95.0
+Gujarat,Anand,Sprinkler,High,129.1
+Gujarat,Anand,Rainfed Only,Medium,77.3
+Gujarat,Anand,Drip,Medium,104.4
+Gujarat,Anand,Sprinkler,Medium,55.3
+Gujarat,Anand,Sprinkler,Low,5.0
+Gujarat,Anand,Canal Flood,High,46.8
+Gujarat,Anand,Sprinkler,High,91.8
+Gujarat,Anand,Canal Flood,Medium,78.1
+Gujarat,Anand,Sprinkler,Low,47.7
+Gujarat,Anand,Canal Flood,Low,66.9
+Gujarat,Anand,Canal Flood,Low,51.2
+Gujarat,Anand,Canal Flood,Low,92.8
+Gujarat,Anand,Drip,Medium,91.3
+Gujarat,Anand,Rainfed Only,Low,41.8
+Gujarat,Anand,Rainfed Only,Low,90.6
+Gujarat,Anand,Sprinkler,Medium,156.5
+Gujarat,Anand,Drip,High,56.7
+Gujarat,Anand,Sprinkler,Medium,68.1
+Gujarat,Anand,Canal Flood,High,48.8
+Gujarat,Anand,Rainfed Only,Low,93.8
+Gujarat,Anand,Rainfed Only,High,79.3
+Gujarat,Anand,Drip,Medium,42.2
+Gujarat,Anand,Sprinkler,Medium,105.4
+Gujarat,Anand,Rainfed Only,High,51.0
+Gujarat,Anand,Canal Flood,High,22.2
+Gujarat,Anand,Canal Flood,Low,118.1
+Gujarat,Anand,Sprinkler,Low,59.9
+Gujarat,Anand,Canal Flood,High,108.9
+Gujarat,Anand,Sprinkler,Low,78.3
+Gujarat,Anand,Canal Flood,Low,61.1
+Gujarat,Anand,Drip,High,83.7
+Gujarat,Anand,Canal Flood,Low,92.1
+Gujarat,Anand,Rainfed Only,High,110.6
+Gujarat,Anand,Rainfed Only,Medium,132.1
+Gujarat,Anand,Sprinkler,Low,71.5
+Gujarat,Anand,Rainfed Only,Medium,129.6
+Gujarat,Anand,Drip,High,139.0
+Gujarat,Anand,Rainfed Only,Medium,45.9
+Gujarat,Surat,Rainfed Only,Low,22.9
+Gujarat,Surat,Sprinkler,Low,38.2
+Gujarat,Surat,Canal Flood,High,101.2
+Gujarat,Surat,Drip,Low,32.0
+Gujarat,Surat,Sprinkler,High,119.0
+Gujarat,Surat,Sprinkler,Medium,67.8
+Gujarat,Surat,Sprinkler,Medium,152.7
+Gujarat,Surat,Rainfed Only,Medium,41.2
+Gujarat,Surat,Rainfed Only,Medium,47.2
+Gujarat,Surat,Rainfed Only,Low,63.8
+Gujarat,Surat,Canal Flood,Medium,87.5
+Gujarat,Surat,Canal Flood,Medium,12.9
+Gujarat,Surat,Drip,Low,131.7
+Gujarat,Surat,Sprinkler,High,102.1
+Gujarat,Surat,Sprinkler,Medium,92.2
+Gujarat,Surat,Rainfed Only,Medium,55.8
+Gujarat,Surat,Canal Flood,Low,123.9
+Gujarat,Surat,Drip,High,106.9
+Gujarat,Surat,Drip,Low,76.5
+Gujarat,Surat,Drip,High,135.3
+Gujarat,Surat,Canal Flood,High,82.9
+Gujarat,Surat,Canal Flood,High,40.2
+Gujarat,Surat,Drip,Medium,90.5
+Gujarat,Surat,Sprinkler,Medium,86.3
+Gujarat,Surat,Drip,High,46.2
+Gujarat,Surat,Rainfed Only,Low,66.8
+Gujarat,Surat,Canal Flood,Low,87.3
+Gujarat,Surat,Rainfed Only,Medium,75.0
+Gujarat,Surat,Rainfed Only,High,75.4
+Gujarat,Surat,Drip,Medium,128.6
+Gujarat,Surat,Sprinkler,High,40.5
+Gujarat,Surat,Drip,High,106.9
+Gujarat,Surat,Rainfed Only,Medium,84.9
+Gujarat,Surat,Sprinkler,High,101.3
+Gujarat,Surat,Rainfed Only,Medium,26.1
+Gujarat,Surat,Canal Flood,High,100.6
+Gujarat,Surat,Rainfed Only,Medium,21.8
+Gujarat,Surat,Rainfed Only,Low,89.9
+Gujarat,Surat,Rainfed Only,Low,52.7
+Gujarat,Surat,Canal Flood,High,56.2
+Gujarat,Surat,Sprinkler,Medium,119.5
+Gujarat,Surat,Rainfed Only,High,92.7
+Gujarat,Surat,Sprinkler,High,44.5
+Gujarat,Surat,Drip,High,56.0
+Gujarat,Surat,Canal Flood,High,107.9
+Gujarat,Surat,Rainfed Only,Low,40.4
+Gujarat,Surat,Canal Flood,Low,65.4
+Gujarat,Surat,Rainfed Only,High,149.1
+Gujarat,Surat,Sprinkler,Low,74.5
+Gujarat,Surat,Drip,High,99.4
+Gujarat,Surat,Drip,Medium,79.1
+Gujarat,Surat,Drip,High,88.7
+Gujarat,Surat,Rainfed Only,High,75.6
+Gujarat,Surat,Canal Flood,Low,59.9
+Gujarat,Surat,Rainfed Only,Medium,78.9
+Gujarat,Surat,Canal Flood,Medium,118.7
+Gujarat,Surat,Sprinkler,High,42.5
+Gujarat,Surat,Drip,Medium,89.0
+Gujarat,Surat,Drip,High,127.0
+Gujarat,Surat,Drip,Low,147.2
+Gujarat,Surat,Rainfed Only,High,99.0
+Gujarat,Surat,Canal Flood,Low,71.0
+Gujarat,Surat,Canal Flood,Medium,89.8
+Gujarat,Surat,Rainfed Only,Medium,100.5
+Gujarat,Surat,Canal Flood,Medium,90.1
+Gujarat,Surat,Canal Flood,High,141.1
+Gujarat,Surat,Rainfed Only,Medium,98.1
+Gujarat,Surat,Sprinkler,Low,83.0
+Gujarat,Surat,Canal Flood,Medium,109.5
+Gujarat,Surat,Drip,Medium,130.9
+Gujarat,Surat,Rainfed Only,High,52.2
+Gujarat,Surat,Canal Flood,Low,93.8
+Gujarat,Surat,Sprinkler,High,45.4
+Gujarat,Surat,Drip,Medium,69.9
+Gujarat,Surat,Rainfed Only,High,49.1
+Gujarat,Surat,Sprinkler,High,116.7
+Gujarat,Surat,Sprinkler,High,91.7
+Gujarat,Surat,Rainfed Only,Low,93.7
+Gujarat,Surat,Rainfed Only,Medium,80.6
+Gujarat,Surat,Canal Flood,Low,104.3
+Gujarat,Surat,Drip,Medium,39.1
+Gujarat,Surat,Rainfed Only,High,88.8
+Gujarat,Surat,Drip,Medium,101.5
+Gujarat,Surat,Drip,Low,103.4
+Gujarat,Surat,Sprinkler,Low,116.6
+Gujarat,Surat,Sprinkler,High,70.6
+Gujarat,Surat,Drip,Low,89.5
+Gujarat,Surat,Drip,High,113.8
+Gujarat,Surat,Rainfed Only,Low,88.2
+Gujarat,Surat,Sprinkler,Medium,67.3
+Gujarat,Surat,Sprinkler,Medium,131.5
+Gujarat,Surat,Rainfed Only,High,30.2
+Gujarat,Surat,Drip,Medium,49.9
+Gujarat,Surat,Sprinkler,High,37.6
+Gujarat,Surat,Drip,Medium,86.8
+Gujarat,Surat,Canal Flood,High,131.1
+Gujarat,Surat,Sprinkler,High,86.8
+Gujarat,Surat,Drip,High,91.7
+Gujarat,Surat,Sprinkler,High,85.8
+Gujarat,Surat,Sprinkler,Low,61.3
+Gujarat,Surat,Drip,Medium,142.6
+Gujarat,Surat,Drip,Low,52.2
+Gujarat,Surat,Drip,Medium,87.5
+Gujarat,Surat,Sprinkler,Medium,96.9
+Gujarat,Surat,Rainfed Only,Low,89.4
+Gujarat,Surat,Drip,High,67.7
+Gujarat,Surat,Drip,Medium,93.8
+Gujarat,Surat,Canal Flood,Low,74.1
+Gujarat,Surat,Canal Flood,Low,41.4
+Gujarat,Surat,Canal Flood,Medium,134.7
+Gujarat,Surat,Rainfed Only,Low,10.8
+Gujarat,Surat,Canal Flood,High,67.8
+Gujarat,Surat,Canal Flood,Low,99.3
+Gujarat,Surat,Drip,Low,118.0
+Gujarat,Surat,Sprinkler,High,131.9
+Gujarat,Surat,Rainfed Only,Medium,125.8
+Gujarat,Surat,Canal Flood,High,126.6
+Gujarat,Surat,Drip,High,94.2
+Gujarat,Surat,Canal Flood,Medium,100.7
+Gujarat,Surat,Drip,High,86.0
+Gujarat,Surat,Drip,High,71.9
+Gujarat,Surat,Sprinkler,Low,65.4
+Gujarat,Surat,Rainfed Only,Low,106.8
+Gujarat,Surat,Drip,High,91.9
+Gujarat,Surat,Canal Flood,High,47.0
+Gujarat,Surat,Rainfed Only,High,100.5
+Gujarat,Surat,Canal Flood,Medium,36.9
+Gujarat,Surat,Sprinkler,High,106.8
+Gujarat,Surat,Sprinkler,Medium,77.4
+Gujarat,Surat,Drip,Low,118.3
+Gujarat,Surat,Canal Flood,Low,47.1
+Gujarat,Surat,Drip,Medium,49.5
+Gujarat,Surat,Rainfed Only,High,49.1
+Gujarat,Surat,Sprinkler,High,89.9
+Gujarat,Surat,Drip,Medium,73.7
+Gujarat,Surat,Rainfed Only,Low,21.5
+Gujarat,Surat,Canal Flood,Low,82.7
+Gujarat,Surat,Drip,High,122.0
+Gujarat,Surat,Canal Flood,Medium,129.7
+Gujarat,Surat,Drip,Low,101.7
+Gujarat,Surat,Drip,High,100.9
+Gujarat,Surat,Canal Flood,Low,61.0
+Gujarat,Surat,Rainfed Only,Low,113.2
+Gujarat,Surat,Sprinkler,Low,109.1
+Gujarat,Surat,Sprinkler,High,20.2
+Gujarat,Surat,Sprinkler,High,33.0
+Gujarat,Surat,Canal Flood,Low,26.8
+Gujarat,Surat,Drip,Medium,165.7
+Gujarat,Surat,Drip,Low,67.8
+Gujarat,Surat,Drip,Medium,89.9
+Gujarat,Surat,Sprinkler,Low,34.1
+Gujarat,Surat,Rainfed Only,High,66.5
+Gujarat,Surat,Sprinkler,Low,137.3
+Gujarat,Surat,Canal Flood,High,40.6
+Gujarat,Surat,Drip,High,73.7
+Gujarat,Surat,Sprinkler,Medium,100.4
+Gujarat,Surat,Rainfed Only,Low,105.5
+Gujarat,Surat,Canal Flood,Medium,109.4
+Gujarat,Surat,Canal Flood,High,82.8
+Gujarat,Surat,Drip,High,89.8
+Gujarat,Surat,Drip,High,54.8
+Gujarat,Surat,Rainfed Only,Medium,133.2
+Gujarat,Surat,Canal Flood,High,104.2
+Gujarat,Surat,Rainfed Only,Medium,118.6
+Gujarat,Surat,Rainfed Only,Low,89.1
+Gujarat,Surat,Canal Flood,Medium,89.1
+Gujarat,Surat,Drip,High,52.2
+Gujarat,Surat,Canal Flood,Medium,79.4
+Gujarat,Surat,Rainfed Only,Low,64.3
+Gujarat,Surat,Drip,High,84.9
+Gujarat,Surat,Drip,High,120.3
+Gujarat,Surat,Sprinkler,High,67.0
+Gujarat,Surat,Sprinkler,Low,114.1
+Gujarat,Surat,Sprinkler,Low,58.7
+Gujarat,Surat,Sprinkler,Medium,101.7
+Gujarat,Surat,Drip,Medium,50.4
+Gujarat,Surat,Canal Flood,High,135.8
+Gujarat,Surat,Drip,Low,61.2
+Gujarat,Surat,Sprinkler,Medium,87.3
+Gujarat,Surat,Sprinkler,Medium,41.9
+Gujarat,Surat,Rainfed Only,Medium,113.8
+Gujarat,Surat,Rainfed Only,Low,105.5
+Gujarat,Surat,Sprinkler,Medium,85.4
+Gujarat,Surat,Rainfed Only,Medium,60.9
+Gujarat,Surat,Rainfed Only,Medium,109.1
+Gujarat,Surat,Sprinkler,Medium,67.9
+Gujarat,Surat,Drip,Low,65.9
+Gujarat,Surat,Canal Flood,Medium,142.2
+Gujarat,Surat,Sprinkler,High,40.4
+Gujarat,Surat,Canal Flood,Low,93.0
+Gujarat,Surat,Drip,High,82.9
+Gujarat,Surat,Drip,High,144.5
+Gujarat,Surat,Canal Flood,Low,110.0
+Gujarat,Surat,Rainfed Only,Low,99.8
+Gujarat,Surat,Sprinkler,Low,118.9
+Gujarat,Surat,Drip,Medium,36.3
+Gujarat,Surat,Rainfed Only,Medium,67.7
+Gujarat,Surat,Canal Flood,Medium,80.5
+Gujarat,Surat,Rainfed Only,Medium,49.5
+Gujarat,Surat,Sprinkler,Medium,99.2
+Andhra Pradesh,Guntur,Sprinkler,Low,40.4
+Andhra Pradesh,Guntur,Rainfed Only,Medium,12.1
+Andhra Pradesh,Guntur,Rainfed Only,High,120.8
+Andhra Pradesh,Guntur,Canal Flood,Low,106.1
+Andhra Pradesh,Guntur,Canal Flood,Low,83.0
+Andhra Pradesh,Guntur,Sprinkler,Low,120.2
+Andhra Pradesh,Guntur,Drip,Low,99.6
+Andhra Pradesh,Guntur,Sprinkler,Medium,112.1
+Andhra Pradesh,Guntur,Rainfed Only,Medium,35.7
+Andhra Pradesh,Guntur,Rainfed Only,High,91.2
+Andhra Pradesh,Guntur,Canal Flood,Low,59.1
+Andhra Pradesh,Guntur,Canal Flood,Medium,137.4
+Andhra Pradesh,Guntur,Rainfed Only,Low,85.7
+Andhra Pradesh,Guntur,Canal Flood,Medium,186.4
+Andhra Pradesh,Guntur,Rainfed Only,Medium,41.9
+Andhra Pradesh,Guntur,Canal Flood,Low,106.5
+Andhra Pradesh,Guntur,Rainfed Only,Medium,121.3
+Andhra Pradesh,Guntur,Sprinkler,Medium,65.9
+Andhra Pradesh,Guntur,Sprinkler,Medium,38.5
+Andhra Pradesh,Guntur,Rainfed Only,Medium,60.5
+Andhra Pradesh,Guntur,Sprinkler,Low,57.0
+Andhra Pradesh,Guntur,Sprinkler,Medium,113.2
+Andhra Pradesh,Guntur,Rainfed Only,Low,134.8
+Andhra Pradesh,Guntur,Sprinkler,Low,126.6
+Andhra Pradesh,Guntur,Rainfed Only,Low,51.8
+Andhra Pradesh,Guntur,Drip,Low,43.5
+Andhra Pradesh,Guntur,Canal Flood,Low,98.0
+Andhra Pradesh,Guntur,Drip,High,95.8
+Andhra Pradesh,Guntur,Rainfed Only,Low,130.7
+Andhra Pradesh,Guntur,Sprinkler,Medium,124.5
+Andhra Pradesh,Guntur,Canal Flood,High,143.2
+Andhra Pradesh,Guntur,Drip,Low,81.3
+Andhra Pradesh,Guntur,Canal Flood,High,88.3
+Andhra Pradesh,Guntur,Drip,High,40.7
+Andhra Pradesh,Guntur,Sprinkler,Low,45.1
+Andhra Pradesh,Guntur,Drip,Low,71.5
+Andhra Pradesh,Guntur,Drip,Low,101.7
+Andhra Pradesh,Guntur,Canal Flood,High,129.5
+Andhra Pradesh,Guntur,Sprinkler,Low,100.5
+Andhra Pradesh,Guntur,Rainfed Only,High,102.4
+Andhra Pradesh,Guntur,Sprinkler,Medium,61.4
+Andhra Pradesh,Guntur,Drip,Medium,122.3
+Andhra Pradesh,Guntur,Sprinkler,Low,96.6
+Andhra Pradesh,Guntur,Rainfed Only,Medium,97.0
+Andhra Pradesh,Guntur,Rainfed Only,High,100.0
+Andhra Pradesh,Guntur,Sprinkler,Low,111.6
+Andhra Pradesh,Guntur,Rainfed Only,Low,122.7
+Andhra Pradesh,Guntur,Drip,High,92.8
+Andhra Pradesh,Guntur,Rainfed Only,Low,47.5
+Andhra Pradesh,Guntur,Rainfed Only,High,54.8
+Andhra Pradesh,Guntur,Sprinkler,Low,73.3
+Andhra Pradesh,Guntur,Drip,Low,121.9
+Andhra Pradesh,Guntur,Canal Flood,High,95.4
+Andhra Pradesh,Guntur,Rainfed Only,Low,142.8
+Andhra Pradesh,Guntur,Rainfed Only,High,113.3
+Andhra Pradesh,Guntur,Canal Flood,Medium,106.2
+Andhra Pradesh,Guntur,Canal Flood,Low,73.5
+Andhra Pradesh,Guntur,Sprinkler,High,50.7
+Andhra Pradesh,Guntur,Canal Flood,Medium,56.5
+Andhra Pradesh,Guntur,Canal Flood,Medium,111.9
+Andhra Pradesh,Guntur,Sprinkler,High,62.2
+Andhra Pradesh,Guntur,Drip,Low,106.8
+Andhra Pradesh,Guntur,Rainfed Only,Medium,34.8
+Andhra Pradesh,Guntur,Rainfed Only,Low,89.9
+Andhra Pradesh,Guntur,Drip,Medium,89.6
+Andhra Pradesh,Guntur,Drip,High,107.9
+Andhra Pradesh,Guntur,Rainfed Only,High,73.9
+Andhra Pradesh,Guntur,Rainfed Only,Low,117.2
+Andhra Pradesh,Guntur,Drip,High,91.5
+Andhra Pradesh,Guntur,Rainfed Only,High,43.5
+Andhra Pradesh,Guntur,Rainfed Only,Low,106.3
+Andhra Pradesh,Guntur,Canal Flood,Medium,34.0
+Andhra Pradesh,Guntur,Rainfed Only,High,66.7
+Andhra Pradesh,Guntur,Sprinkler,High,59.7
+Andhra Pradesh,Guntur,Sprinkler,Low,46.3
+Andhra Pradesh,Guntur,Rainfed Only,Low,114.0
+Andhra Pradesh,Guntur,Canal Flood,Medium,103.6
+Andhra Pradesh,Guntur,Canal Flood,Medium,49.8
+Andhra Pradesh,Guntur,Rainfed Only,Low,93.5
+Andhra Pradesh,Guntur,Sprinkler,Low,121.8
+Andhra Pradesh,Guntur,Drip,High,8.0
+Andhra Pradesh,Guntur,Canal Flood,Low,61.7
+Andhra Pradesh,Guntur,Sprinkler,High,94.3
+Andhra Pradesh,Guntur,Canal Flood,High,46.2
+Andhra Pradesh,Guntur,Sprinkler,Low,72.4
+Andhra Pradesh,Guntur,Canal Flood,Low,104.1
+Andhra Pradesh,Guntur,Sprinkler,Medium,67.6
+Andhra Pradesh,Guntur,Drip,High,47.4
+Andhra Pradesh,Guntur,Canal Flood,High,69.7
+Andhra Pradesh,Guntur,Drip,High,123.3
+Andhra Pradesh,Guntur,Drip,High,38.6
+Andhra Pradesh,Guntur,Rainfed Only,Low,101.1
+Andhra Pradesh,Guntur,Canal Flood,Low,68.3
+Andhra Pradesh,Guntur,Rainfed Only,Medium,94.0
+Andhra Pradesh,Guntur,Drip,Medium,112.4
+Andhra Pradesh,Guntur,Canal Flood,High,64.4
+Andhra Pradesh,Guntur,Sprinkler,Medium,94.4
+Andhra Pradesh,Guntur,Rainfed Only,High,100.0
+Andhra Pradesh,Guntur,Sprinkler,Low,100.2
+Andhra Pradesh,Guntur,Sprinkler,Medium,100.9
+Andhra Pradesh,Guntur,Drip,High,85.3
+Andhra Pradesh,Guntur,Drip,Medium,113.3
+Andhra Pradesh,Guntur,Drip,High,108.7
+Andhra Pradesh,Guntur,Sprinkler,Low,94.4
+Andhra Pradesh,Guntur,Rainfed Only,High,95.5
+Andhra Pradesh,Guntur,Drip,High,89.1
+Andhra Pradesh,Guntur,Drip,Medium,83.5
+Andhra Pradesh,Guntur,Rainfed Only,High,107.1
+Andhra Pradesh,Guntur,Rainfed Only,Medium,109.0
+Andhra Pradesh,Guntur,Rainfed Only,Medium,64.1
+Andhra Pradesh,Guntur,Rainfed Only,Medium,100.0
+Andhra Pradesh,Guntur,Rainfed Only,High,47.7
+Andhra Pradesh,Guntur,Sprinkler,High,126.8
+Andhra Pradesh,Guntur,Canal Flood,Low,132.8
+Andhra Pradesh,Guntur,Drip,Medium,107.0
+Andhra Pradesh,Guntur,Rainfed Only,Low,122.4
+Andhra Pradesh,Guntur,Rainfed Only,High,42.9
+Andhra Pradesh,Guntur,Sprinkler,High,172.5
+Andhra Pradesh,Guntur,Canal Flood,Medium,72.4
+Andhra Pradesh,Guntur,Sprinkler,Medium,92.0
+Andhra Pradesh,Guntur,Sprinkler,Low,85.5
+Andhra Pradesh,Guntur,Sprinkler,Low,75.7
+Andhra Pradesh,Guntur,Sprinkler,High,94.2
+Andhra Pradesh,Guntur,Canal Flood,Medium,98.9
+Andhra Pradesh,Guntur,Canal Flood,Medium,92.6
+Andhra Pradesh,Guntur,Sprinkler,Medium,111.4
+Andhra Pradesh,Guntur,Canal Flood,Low,45.3
+Andhra Pradesh,Guntur,Rainfed Only,High,110.0
+Andhra Pradesh,Guntur,Canal Flood,Medium,100.1
+Andhra Pradesh,Guntur,Drip,Low,63.7
+Andhra Pradesh,Guntur,Sprinkler,Medium,125.1
+Andhra Pradesh,Guntur,Canal Flood,Medium,110.6
+Andhra Pradesh,Guntur,Canal Flood,High,119.2
+Andhra Pradesh,Guntur,Canal Flood,High,119.2
+Andhra Pradesh,Guntur,Drip,Low,95.6
+Andhra Pradesh,Guntur,Canal Flood,Medium,74.7
+Andhra Pradesh,Guntur,Sprinkler,Low,104.7
+Andhra Pradesh,Guntur,Canal Flood,Low,48.1
+Andhra Pradesh,Guntur,Drip,High,72.6
+Andhra Pradesh,Guntur,Canal Flood,High,90.4
+Andhra Pradesh,Guntur,Canal Flood,Low,65.6
+Andhra Pradesh,Guntur,Rainfed Only,Medium,120.3
+Andhra Pradesh,Guntur,Rainfed Only,Low,76.4
+Andhra Pradesh,Guntur,Sprinkler,High,68.1
+Andhra Pradesh,Guntur,Drip,Low,94.1
+Andhra Pradesh,Guntur,Canal Flood,Low,77.2
+Andhra Pradesh,Guntur,Sprinkler,Low,145.1
+Andhra Pradesh,Guntur,Sprinkler,Medium,102.7
+Andhra Pradesh,Guntur,Canal Flood,Medium,84.1
+Andhra Pradesh,Guntur,Sprinkler,Medium,81.2
+Andhra Pradesh,Guntur,Rainfed Only,High,142.7
+Andhra Pradesh,Guntur,Sprinkler,Low,87.3
+Andhra Pradesh,Guntur,Canal Flood,Medium,87.1
+Andhra Pradesh,Guntur,Rainfed Only,Low,71.1
+Andhra Pradesh,Guntur,Drip,Medium,84.3
+Andhra Pradesh,Guntur,Drip,High,41.0
+Andhra Pradesh,Guntur,Rainfed Only,Medium,139.5
+Andhra Pradesh,Guntur,Rainfed Only,Low,71.7
+Andhra Pradesh,Guntur,Rainfed Only,High,101.8
+Andhra Pradesh,Guntur,Sprinkler,High,64.5
+Andhra Pradesh,Guntur,Rainfed Only,Medium,36.2
+Andhra Pradesh,Guntur,Rainfed Only,High,91.0
+Andhra Pradesh,Guntur,Canal Flood,Medium,115.8
+Andhra Pradesh,Guntur,Sprinkler,Low,79.7
+Andhra Pradesh,Guntur,Rainfed Only,High,55.6
+Andhra Pradesh,Guntur,Canal Flood,Low,101.6
+Andhra Pradesh,Guntur,Sprinkler,High,51.8
+Andhra Pradesh,Guntur,Canal Flood,High,121.8
+Andhra Pradesh,Guntur,Canal Flood,Medium,86.4
+Andhra Pradesh,Guntur,Rainfed Only,High,67.3
+Andhra Pradesh,Guntur,Drip,Low,101.5
+Andhra Pradesh,Guntur,Sprinkler,Medium,70.9
+Andhra Pradesh,Guntur,Sprinkler,High,135.9
+Andhra Pradesh,Guntur,Drip,Low,39.5
+Andhra Pradesh,Guntur,Sprinkler,High,90.0
+Andhra Pradesh,Guntur,Canal Flood,Medium,102.2
+Andhra Pradesh,Guntur,Drip,High,68.6
+Andhra Pradesh,Guntur,Canal Flood,Low,53.6
+Andhra Pradesh,Guntur,Drip,Low,80.7
+Andhra Pradesh,Guntur,Drip,Medium,122.2
+Andhra Pradesh,Guntur,Drip,Low,77.5
+Andhra Pradesh,Guntur,Drip,High,113.9
+Andhra Pradesh,Guntur,Drip,High,25.0
+Andhra Pradesh,Guntur,Canal Flood,Low,93.5
+Andhra Pradesh,Guntur,Sprinkler,High,56.6
+Andhra Pradesh,Guntur,Drip,High,133.0
+Andhra Pradesh,Guntur,Drip,High,146.8
+Andhra Pradesh,Guntur,Rainfed Only,Low,57.3
+Andhra Pradesh,Guntur,Sprinkler,Low,63.1
+Andhra Pradesh,Guntur,Rainfed Only,Low,94.2
+Andhra Pradesh,Guntur,Sprinkler,Low,138.5
+Andhra Pradesh,Guntur,Drip,High,80.1
+Andhra Pradesh,Guntur,Sprinkler,Low,116.4
+Andhra Pradesh,Guntur,Canal Flood,Low,58.4
+Andhra Pradesh,Guntur,Sprinkler,High,133.1
+Andhra Pradesh,Guntur,Sprinkler,High,102.4
+Andhra Pradesh,Guntur,Drip,High,83.7
+Andhra Pradesh,Guntur,Rainfed Only,Low,39.0
+Andhra Pradesh,Guntur,Sprinkler,High,73.6
+Andhra Pradesh,Guntur,Canal Flood,Medium,124.0
+Andhra Pradesh,Visakhapatnam,Drip,Medium,135.4
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,54.7
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,116.2
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,145.6
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,75.2
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,99.2
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,145.0
+Andhra Pradesh,Visakhapatnam,Drip,Low,60.3
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,102.2
+Andhra Pradesh,Visakhapatnam,Drip,High,101.1
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,102.0
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,93.9
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,78.2
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,96.5
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,48.5
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,68.0
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,99.3
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,41.9
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,119.2
+Andhra Pradesh,Visakhapatnam,Drip,Medium,27.6
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,59.5
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Low,94.9
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,114.6
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,101.9
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,108.4
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,87.9
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,27.3
+Andhra Pradesh,Visakhapatnam,Drip,Medium,39.8
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,56.5
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,47.1
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,85.3
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,143.4
+Andhra Pradesh,Visakhapatnam,Drip,High,97.3
+Andhra Pradesh,Visakhapatnam,Drip,High,126.8
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,77.0
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,99.1
+Andhra Pradesh,Visakhapatnam,Rainfed Only,High,150.8
+Andhra Pradesh,Visakhapatnam,Drip,Low,97.1
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,44.9
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,42.2
+Andhra Pradesh,Visakhapatnam,Drip,Medium,71.0
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,19.8
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,107.1
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,144.8
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,77.4
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,68.7
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,69.7
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,143.0
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,78.8
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Low,99.4
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Low,141.4
+Andhra Pradesh,Visakhapatnam,Drip,Medium,119.1
+Andhra Pradesh,Visakhapatnam,Drip,Medium,152.3
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,93.8
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,120.2
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,103.8
+Andhra Pradesh,Visakhapatnam,Drip,High,84.0
+Andhra Pradesh,Visakhapatnam,Drip,Low,83.2
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,36.4
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Low,74.0
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,72.2
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,125.7
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,63.3
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,89.3
+Andhra Pradesh,Visakhapatnam,Drip,Low,25.5
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,83.4
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,39.7
+Andhra Pradesh,Visakhapatnam,Rainfed Only,High,76.5
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,60.0
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,64.4
+Andhra Pradesh,Visakhapatnam,Drip,Medium,73.3
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,65.6
+Andhra Pradesh,Visakhapatnam,Drip,Low,146.8
+Andhra Pradesh,Visakhapatnam,Rainfed Only,High,95.4
+Andhra Pradesh,Visakhapatnam,Drip,Medium,115.9
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,121.4
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,92.8
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,84.3
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,69.1
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,116.3
+Andhra Pradesh,Visakhapatnam,Drip,Low,79.2
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,54.6
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,41.3
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,76.9
+Andhra Pradesh,Visakhapatnam,Rainfed Only,High,87.8
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,131.6
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,83.2
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,78.3
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Low,84.7
+Andhra Pradesh,Visakhapatnam,Drip,Low,36.3
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,79.2
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,68.2
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,47.8
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,94.0
+Andhra Pradesh,Visakhapatnam,Drip,High,63.8
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,113.6
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,144.8
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,70.4
+Andhra Pradesh,Visakhapatnam,Drip,Low,52.0
+Andhra Pradesh,Visakhapatnam,Rainfed Only,High,96.6
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,104.6
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,132.5
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,78.9
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,60.4
+Andhra Pradesh,Visakhapatnam,Drip,High,105.1
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,78.4
+Andhra Pradesh,Visakhapatnam,Drip,Low,85.3
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,84.3
+Andhra Pradesh,Visakhapatnam,Drip,High,110.1
+Andhra Pradesh,Visakhapatnam,Drip,High,96.1
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,104.0
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,106.5
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,56.6
+Andhra Pradesh,Visakhapatnam,Drip,High,72.1
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,72.9
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,57.4
+Andhra Pradesh,Visakhapatnam,Rainfed Only,High,123.1
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,122.0
+Andhra Pradesh,Visakhapatnam,Drip,Medium,80.0
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,49.9
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Low,73.4
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,87.0
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,82.6
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,113.0
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,75.1
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,143.1
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,82.1
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,5.0
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Low,72.4
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,100.7
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,50.7
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,44.3
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,143.7
+Andhra Pradesh,Visakhapatnam,Drip,Low,71.3
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,138.3
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,90.9
+Andhra Pradesh,Visakhapatnam,Drip,Low,92.2
+Andhra Pradesh,Visakhapatnam,Rainfed Only,High,37.0
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,100.8
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,117.7
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Low,53.6
+Andhra Pradesh,Visakhapatnam,Rainfed Only,High,110.8
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,62.9
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,125.4
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,91.8
+Andhra Pradesh,Visakhapatnam,Rainfed Only,High,88.7
+Andhra Pradesh,Visakhapatnam,Drip,High,43.5
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,112.3
+Andhra Pradesh,Visakhapatnam,Rainfed Only,High,87.6
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,60.2
+Andhra Pradesh,Visakhapatnam,Drip,Medium,114.4
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,113.8
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,95.4
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,85.2
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,26.2
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,106.7
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,82.0
+Andhra Pradesh,Visakhapatnam,Sprinkler,Low,78.8
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,75.5
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Low,112.7
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,65.8
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,82.9
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,31.0
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,68.6
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,105.9
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,103.3
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,90.2
+Andhra Pradesh,Visakhapatnam,Drip,Low,58.4
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,96.7
+Andhra Pradesh,Visakhapatnam,Sprinkler,High,81.5
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,104.8
+Andhra Pradesh,Visakhapatnam,Rainfed Only,High,59.8
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,97.6
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Low,86.1
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,93.3
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,120.0
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,14.4
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,151.5
+Andhra Pradesh,Visakhapatnam,Drip,Low,104.1
+Andhra Pradesh,Visakhapatnam,Rainfed Only,High,123.0
+Andhra Pradesh,Visakhapatnam,Sprinkler,Medium,33.7
+Andhra Pradesh,Visakhapatnam,Drip,Medium,72.5
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,110.6
+Andhra Pradesh,Visakhapatnam,Drip,High,76.6
+Andhra Pradesh,Visakhapatnam,Rainfed Only,High,66.9
+Andhra Pradesh,Visakhapatnam,Drip,Low,91.9
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,107.7
+Andhra Pradesh,Visakhapatnam,Drip,Medium,78.0
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,86.5
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,107.1
+Andhra Pradesh,Visakhapatnam,Drip,Low,100.5
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Low,103.7
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,25.4
+Andhra Pradesh,Visakhapatnam,Drip,High,110.0
+Andhra Pradesh,Visakhapatnam,Canal Flood,Low,114.4
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Low,29.1
+Andhra Pradesh,Visakhapatnam,Drip,High,33.5
+Andhra Pradesh,Visakhapatnam,Canal Flood,Medium,14.3
+Andhra Pradesh,Visakhapatnam,Rainfed Only,Medium,42.5
+Andhra Pradesh,Visakhapatnam,Canal Flood,High,37.5
+Andhra Pradesh,Kurnool,Sprinkler,High,112.8
+Andhra Pradesh,Kurnool,Sprinkler,Medium,154.6
+Andhra Pradesh,Kurnool,Rainfed Only,Low,94.2
+Andhra Pradesh,Kurnool,Sprinkler,Medium,57.3
+Andhra Pradesh,Kurnool,Sprinkler,Low,76.4
+Andhra Pradesh,Kurnool,Sprinkler,Medium,66.8
+Andhra Pradesh,Kurnool,Sprinkler,High,31.3
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,131.5
+Andhra Pradesh,Kurnool,Canal Flood,High,69.5
+Andhra Pradesh,Kurnool,Rainfed Only,High,120.4
+Andhra Pradesh,Kurnool,Rainfed Only,Low,100.8
+Andhra Pradesh,Kurnool,Sprinkler,Medium,80.5
+Andhra Pradesh,Kurnool,Rainfed Only,Low,110.9
+Andhra Pradesh,Kurnool,Sprinkler,Medium,148.5
+Andhra Pradesh,Kurnool,Drip,Medium,72.6
+Andhra Pradesh,Kurnool,Rainfed Only,Low,70.3
+Andhra Pradesh,Kurnool,Drip,Low,88.2
+Andhra Pradesh,Kurnool,Sprinkler,Medium,104.8
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,116.6
+Andhra Pradesh,Kurnool,Canal Flood,High,69.6
+Andhra Pradesh,Kurnool,Sprinkler,Medium,60.5
+Andhra Pradesh,Kurnool,Sprinkler,Medium,88.5
+Andhra Pradesh,Kurnool,Sprinkler,High,5.0
+Andhra Pradesh,Kurnool,Drip,Medium,61.0
+Andhra Pradesh,Kurnool,Canal Flood,Medium,99.4
+Andhra Pradesh,Kurnool,Canal Flood,High,53.7
+Andhra Pradesh,Kurnool,Drip,Low,77.3
+Andhra Pradesh,Kurnool,Canal Flood,High,94.9
+Andhra Pradesh,Kurnool,Sprinkler,High,110.9
+Andhra Pradesh,Kurnool,Sprinkler,High,86.3
+Andhra Pradesh,Kurnool,Sprinkler,Low,109.0
+Andhra Pradesh,Kurnool,Canal Flood,High,122.9
+Andhra Pradesh,Kurnool,Canal Flood,Medium,83.7
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,13.5
+Andhra Pradesh,Kurnool,Sprinkler,Medium,67.0
+Andhra Pradesh,Kurnool,Drip,Medium,73.3
+Andhra Pradesh,Kurnool,Drip,High,64.8
+Andhra Pradesh,Kurnool,Sprinkler,Low,76.6
+Andhra Pradesh,Kurnool,Canal Flood,Medium,98.0
+Andhra Pradesh,Kurnool,Sprinkler,Medium,131.6
+Andhra Pradesh,Kurnool,Drip,Medium,84.0
+Andhra Pradesh,Kurnool,Drip,Low,71.2
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,39.3
+Andhra Pradesh,Kurnool,Canal Flood,High,75.6
+Andhra Pradesh,Kurnool,Drip,Low,104.8
+Andhra Pradesh,Kurnool,Rainfed Only,High,131.2
+Andhra Pradesh,Kurnool,Drip,Medium,62.7
+Andhra Pradesh,Kurnool,Sprinkler,High,132.5
+Andhra Pradesh,Kurnool,Sprinkler,Medium,99.3
+Andhra Pradesh,Kurnool,Rainfed Only,Low,114.3
+Andhra Pradesh,Kurnool,Canal Flood,High,78.5
+Andhra Pradesh,Kurnool,Canal Flood,Medium,44.8
+Andhra Pradesh,Kurnool,Canal Flood,Low,72.1
+Andhra Pradesh,Kurnool,Drip,Low,95.2
+Andhra Pradesh,Kurnool,Sprinkler,Low,51.2
+Andhra Pradesh,Kurnool,Drip,Medium,48.7
+Andhra Pradesh,Kurnool,Drip,Low,26.1
+Andhra Pradesh,Kurnool,Canal Flood,Medium,115.2
+Andhra Pradesh,Kurnool,Sprinkler,Low,39.6
+Andhra Pradesh,Kurnool,Drip,Medium,77.9
+Andhra Pradesh,Kurnool,Canal Flood,High,88.9
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,80.6
+Andhra Pradesh,Kurnool,Sprinkler,Low,109.3
+Andhra Pradesh,Kurnool,Sprinkler,Low,67.2
+Andhra Pradesh,Kurnool,Rainfed Only,Low,115.8
+Andhra Pradesh,Kurnool,Sprinkler,Low,99.2
+Andhra Pradesh,Kurnool,Rainfed Only,High,104.3
+Andhra Pradesh,Kurnool,Rainfed Only,Low,146.6
+Andhra Pradesh,Kurnool,Sprinkler,High,115.6
+Andhra Pradesh,Kurnool,Canal Flood,Medium,128.2
+Andhra Pradesh,Kurnool,Drip,Low,40.5
+Andhra Pradesh,Kurnool,Sprinkler,High,94.0
+Andhra Pradesh,Kurnool,Sprinkler,Low,106.3
+Andhra Pradesh,Kurnool,Canal Flood,Low,40.2
+Andhra Pradesh,Kurnool,Drip,High,95.4
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,96.1
+Andhra Pradesh,Kurnool,Drip,Low,79.9
+Andhra Pradesh,Kurnool,Sprinkler,Medium,98.1
+Andhra Pradesh,Kurnool,Canal Flood,Low,47.6
+Andhra Pradesh,Kurnool,Sprinkler,High,70.1
+Andhra Pradesh,Kurnool,Drip,Low,104.4
+Andhra Pradesh,Kurnool,Sprinkler,High,20.3
+Andhra Pradesh,Kurnool,Drip,High,166.8
+Andhra Pradesh,Kurnool,Sprinkler,High,98.0
+Andhra Pradesh,Kurnool,Sprinkler,High,38.2
+Andhra Pradesh,Kurnool,Drip,High,58.3
+Andhra Pradesh,Kurnool,Canal Flood,Medium,100.2
+Andhra Pradesh,Kurnool,Canal Flood,Medium,101.5
+Andhra Pradesh,Kurnool,Sprinkler,Low,57.9
+Andhra Pradesh,Kurnool,Canal Flood,Low,92.9
+Andhra Pradesh,Kurnool,Canal Flood,High,102.1
+Andhra Pradesh,Kurnool,Rainfed Only,High,96.0
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,61.3
+Andhra Pradesh,Kurnool,Canal Flood,High,63.5
+Andhra Pradesh,Kurnool,Sprinkler,High,62.9
+Andhra Pradesh,Kurnool,Drip,Medium,46.0
+Andhra Pradesh,Kurnool,Rainfed Only,High,60.6
+Andhra Pradesh,Kurnool,Drip,Medium,38.1
+Andhra Pradesh,Kurnool,Canal Flood,High,80.7
+Andhra Pradesh,Kurnool,Drip,Low,73.0
+Andhra Pradesh,Kurnool,Drip,High,85.2
+Andhra Pradesh,Kurnool,Rainfed Only,Low,103.0
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,89.6
+Andhra Pradesh,Kurnool,Rainfed Only,Low,89.2
+Andhra Pradesh,Kurnool,Sprinkler,Medium,57.2
+Andhra Pradesh,Kurnool,Drip,Medium,100.8
+Andhra Pradesh,Kurnool,Drip,Low,57.0
+Andhra Pradesh,Kurnool,Canal Flood,Medium,60.1
+Andhra Pradesh,Kurnool,Drip,High,129.8
+Andhra Pradesh,Kurnool,Sprinkler,High,86.8
+Andhra Pradesh,Kurnool,Sprinkler,High,82.4
+Andhra Pradesh,Kurnool,Drip,Low,126.3
+Andhra Pradesh,Kurnool,Sprinkler,Low,95.3
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,83.2
+Andhra Pradesh,Kurnool,Drip,Medium,77.4
+Andhra Pradesh,Kurnool,Canal Flood,Medium,82.1
+Andhra Pradesh,Kurnool,Sprinkler,Low,88.6
+Andhra Pradesh,Kurnool,Canal Flood,Low,30.1
+Andhra Pradesh,Kurnool,Canal Flood,High,78.9
+Andhra Pradesh,Kurnool,Drip,Medium,104.6
+Andhra Pradesh,Kurnool,Sprinkler,Medium,33.8
+Andhra Pradesh,Kurnool,Canal Flood,Medium,71.8
+Andhra Pradesh,Kurnool,Drip,High,42.1
+Andhra Pradesh,Kurnool,Rainfed Only,Low,102.8
+Andhra Pradesh,Kurnool,Rainfed Only,Low,112.6
+Andhra Pradesh,Kurnool,Drip,Low,96.5
+Andhra Pradesh,Kurnool,Sprinkler,Low,107.2
+Andhra Pradesh,Kurnool,Canal Flood,Low,110.3
+Andhra Pradesh,Kurnool,Drip,Low,64.5
+Andhra Pradesh,Kurnool,Canal Flood,Medium,56.3
+Andhra Pradesh,Kurnool,Canal Flood,High,70.9
+Andhra Pradesh,Kurnool,Drip,Low,62.2
+Andhra Pradesh,Kurnool,Sprinkler,High,83.6
+Andhra Pradesh,Kurnool,Rainfed Only,High,58.6
+Andhra Pradesh,Kurnool,Sprinkler,Medium,101.4
+Andhra Pradesh,Kurnool,Drip,Low,74.1
+Andhra Pradesh,Kurnool,Canal Flood,Medium,141.9
+Andhra Pradesh,Kurnool,Canal Flood,Medium,14.0
+Andhra Pradesh,Kurnool,Canal Flood,High,67.3
+Andhra Pradesh,Kurnool,Canal Flood,Low,96.5
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,63.8
+Andhra Pradesh,Kurnool,Sprinkler,Medium,133.1
+Andhra Pradesh,Kurnool,Rainfed Only,High,40.6
+Andhra Pradesh,Kurnool,Drip,Medium,88.5
+Andhra Pradesh,Kurnool,Canal Flood,Low,78.1
+Andhra Pradesh,Kurnool,Sprinkler,High,86.2
+Andhra Pradesh,Kurnool,Sprinkler,Medium,137.5
+Andhra Pradesh,Kurnool,Drip,Medium,70.8
+Andhra Pradesh,Kurnool,Canal Flood,Low,75.4
+Andhra Pradesh,Kurnool,Rainfed Only,High,52.4
+Andhra Pradesh,Kurnool,Drip,High,61.7
+Andhra Pradesh,Kurnool,Drip,Medium,133.4
+Andhra Pradesh,Kurnool,Sprinkler,Medium,60.6
+Andhra Pradesh,Kurnool,Sprinkler,High,81.7
+Andhra Pradesh,Kurnool,Canal Flood,Medium,79.8
+Andhra Pradesh,Kurnool,Canal Flood,Low,97.2
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,118.2
+Andhra Pradesh,Kurnool,Drip,Low,26.0
+Andhra Pradesh,Kurnool,Sprinkler,Low,115.8
+Andhra Pradesh,Kurnool,Canal Flood,Medium,87.9
+Andhra Pradesh,Kurnool,Drip,Medium,117.0
+Andhra Pradesh,Kurnool,Drip,Medium,134.6
+Andhra Pradesh,Kurnool,Canal Flood,High,77.9
+Andhra Pradesh,Kurnool,Canal Flood,High,62.8
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,99.1
+Andhra Pradesh,Kurnool,Drip,High,106.3
+Andhra Pradesh,Kurnool,Canal Flood,High,75.3
+Andhra Pradesh,Kurnool,Canal Flood,Low,87.4
+Andhra Pradesh,Kurnool,Canal Flood,Medium,21.7
+Andhra Pradesh,Kurnool,Rainfed Only,Low,170.3
+Andhra Pradesh,Kurnool,Rainfed Only,High,105.2
+Andhra Pradesh,Kurnool,Rainfed Only,High,64.0
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,107.1
+Andhra Pradesh,Kurnool,Drip,High,128.2
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,114.1
+Andhra Pradesh,Kurnool,Canal Flood,High,122.5
+Andhra Pradesh,Kurnool,Drip,High,107.8
+Andhra Pradesh,Kurnool,Canal Flood,Medium,77.6
+Andhra Pradesh,Kurnool,Sprinkler,Low,90.8
+Andhra Pradesh,Kurnool,Rainfed Only,Low,112.5
+Andhra Pradesh,Kurnool,Drip,Medium,57.5
+Andhra Pradesh,Kurnool,Canal Flood,Low,104.0
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,94.8
+Andhra Pradesh,Kurnool,Drip,High,105.3
+Andhra Pradesh,Kurnool,Canal Flood,High,109.0
+Andhra Pradesh,Kurnool,Rainfed Only,Low,48.3
+Andhra Pradesh,Kurnool,Rainfed Only,Low,39.5
+Andhra Pradesh,Kurnool,Canal Flood,High,95.5
+Andhra Pradesh,Kurnool,Sprinkler,Medium,85.9
+Andhra Pradesh,Kurnool,Drip,Low,37.8
+Andhra Pradesh,Kurnool,Canal Flood,Low,56.3
+Andhra Pradesh,Kurnool,Canal Flood,Low,75.8
+Andhra Pradesh,Kurnool,Drip,Low,45.0
+Andhra Pradesh,Kurnool,Rainfed Only,Low,74.8
+Andhra Pradesh,Kurnool,Canal Flood,High,95.7
+Andhra Pradesh,Kurnool,Drip,Medium,85.4
+Andhra Pradesh,Kurnool,Rainfed Only,Medium,71.2
+Andhra Pradesh,Kurnool,Drip,High,122.9
+Andhra Pradesh,Kurnool,Canal Flood,Low,70.5
+Andhra Pradesh,Kurnool,Rainfed Only,Low,129.4
