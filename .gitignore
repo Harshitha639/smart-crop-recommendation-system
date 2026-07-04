@@ -1,8 +1,62 @@
-node_modules/
-build/
-dist/
-coverage/
-.DS_Store
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Virtual Environment
+venv/
+.env/
+.python-version
+
+# Model Files
+*.joblib
+*.pkl
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+logs/
 *.log
+
+# ===========================
+# Node / React
+# ===========================
+node_modules/
+dist/
+build/
+coverage/
+
+# Environment Variables
 .env*
 !.env.example
+
+# ===========================
+# OS Files
+# ===========================
+.DS_Store
+Thumbs.db
+
+# ===========================
+# VS Code
+# ===========================
+.vscode/
+
+# ===========================
+# Generated Reports
+# ===========================
+reports/images/
+reports/*.html
+reports/*.txt
+
+# ===========================
+# Temporary Files
+# ===========================
+*.tmp
+*.bak
