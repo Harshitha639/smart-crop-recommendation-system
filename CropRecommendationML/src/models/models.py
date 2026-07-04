@@ -101,10 +101,12 @@ def get_all_models(random_state: int = config.RANDOM_STATE) -> Dict[str, Any]:
     # 10. Add XGBoost
     if _has_xgboost:
         models["XGBoost"] = XGBClassifier(
-            use_label_encoder=False,
+            n_estimators=200,
+            learning_rate=0.1,
+            max_depth=6,
             eval_metric="mlogloss",
             random_state=random_state,
-            n_jobs=-1
+            n_jobs=1
         )
     else:
         logger.warning("xgboost is not installed. Initializing Scikit-learn Random Forest clone with max_depth=12 as placeholder.")
@@ -118,8 +120,11 @@ def get_all_models(random_state: int = config.RANDOM_STATE) -> Dict[str, Any]:
     # 11. Add CatBoost
     if _has_catboost:
         models["CatBoost"] = CatBoostClassifier(
-            verbose=0,
-            random_state=random_state
+            iterations=300,
+            learning_rate=0.1,
+            depth=6,
+            random_seed=random_state,
+            verbose=False
         )
     else:
         logger.warning("catboost is not installed. Initializing Scikit-learn Extra Trees clone with max_depth=12 as placeholder.")
@@ -133,8 +138,10 @@ def get_all_models(random_state: int = config.RANDOM_STATE) -> Dict[str, Any]:
     # 12. Add LightGBM
     if _has_lightgbm:
         models["LightGBM"] = LGBMClassifier(
+            n_estimators=200,
+            learning_rate=0.1,
             random_state=random_state,
-            n_jobs=-1,
+            n_jobs=1,
             verbosity=-1
         )
     else:
