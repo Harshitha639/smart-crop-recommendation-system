@@ -5,9 +5,8 @@ import traceback
 from src.prediction.pipeline import CropPredictor
 
 app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "*"}})
+CORS(app)
 
-# Initialize predictor
 predictor = CropPredictor()
 
 
@@ -22,25 +21,12 @@ def home():
 @app.route("/predict", methods=["POST"])
 def predict():
     try:
-        # Read JSON request
         data = request.get_json()
 
-        if data is None:
-            return jsonify({
-                "success": False,
-                "error": "No JSON body received."
-            }), 400
-
-        # Print request for debugging
-        print("\n========== REQUEST RECEIVED ==========")
+        print("\n========== INPUT ==========")
         print(data)
 
-        # Run prediction
         result = predictor.predict_single(data)
-
-        # Print result
-        print("\n========== PREDICTION RESULT ==========")
-        print(result)
 
         return jsonify(result)
 
@@ -50,10 +36,9 @@ def predict():
 
         return jsonify({
             "success": False,
-            "error": str(e),
-            "type": type(e).__name__
+            "error": str(e)
         }), 500
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5000)s
