@@ -7,6 +7,7 @@ from src.prediction.pipeline import CropPredictor
 app = Flask(__name__)
 CORS(app)
 
+# Load model only once
 predictor = CropPredictor()
 
 
@@ -23,15 +24,24 @@ def predict():
     try:
         data = request.get_json()
 
-        print("\n========== INPUT ==========")
+        print("=" * 60)
+        print("INPUT RECEIVED:")
         print(data)
 
         result = predictor.predict_single(data)
 
-        return jsonify(result)
+        print("=" * 60)
+        print("PREDICTION SUCCESS:")
+        print(result)
+
+        return jsonify({
+            "success": True,
+            **result
+        })
 
     except Exception as e:
-        print("\n========== ERROR ==========")
+        print("=" * 60)
+        print("PREDICTION FAILED")
         traceback.print_exc()
 
         return jsonify({
@@ -41,4 +51,4 @@ def predict():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000)
+    app.run(host="0.0.0.0", port=5000, debug=False)
