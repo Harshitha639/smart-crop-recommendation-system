@@ -1,6 +1,8 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import traceback
+import numbers
+import numpy as np
 
 from src.prediction.pipeline import CropPredictor
 
@@ -34,9 +36,22 @@ def predict():
         print("PREDICTION SUCCESS:")
         print(result)
 
+        def to_native(value):
+            if isinstance(value, dict):
+                return {to_native(k): to_native(v) for k, v in value.items()}
+            if isinstance(value, (list, tuple)):
+                return [to_native(item) for item in value]
+            if isinstance(value, np.ndarray):
+                return [to_native(item) for item in value.tolist()]
+            if isinstance(value, np.generic):
+                return value.item()
+            if isinstance(value, numbers.Number) and not isinstance(value, bool):
+                return value.item() if hasattr(value, "item") else value
+            return value
+
         return jsonify({
             "success": True,
-            **result
+            **to_native(result)
         })
 
     except Exception as e:

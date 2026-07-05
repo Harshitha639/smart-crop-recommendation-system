@@ -6,6 +6,7 @@ for single-point or batch predictions.
 """
 
 import os
+import numbers
 import joblib
 import pandas as pd
 import numpy as np
@@ -22,6 +23,22 @@ class CropPredictor:
     Production-grade crop predictor. Loads pipeline elements and processes
     raw tabular inputs to output recommendations with confidence rankings.
     """
+
+    @staticmethod
+    def _to_native(value: Any) -> Any:
+        """Recursively convert NumPy/scalar values to plain Python types for JSON compatibility."""
+        if isinstance(value, dict):
+            return {CropPredictor._to_native(k): CropPredictor._to_native(v) for k, v in value.items()}
+        if isinstance(value, (list, tuple)):
+            return [CropPredictor._to_native(item) for item in value]
+        if isinstance(value, np.ndarray):
+            return [CropPredictor._to_native(item) for item in value.tolist()]
+        if isinstance(value, np.generic):
+            return value.item()
+        if isinstance(value, numbers.Number) and not isinstance(value, bool):
+            return value.item() if hasattr(value, "item") else value
+        return value
+
     def __init__(
         self, 
         preprocessor_path: str = config.PREPROCESSOR_PATH,
@@ -204,13 +221,14 @@ class CropPredictor:
             probabilities = {prediction: 1.0}
             top_5_recommendations = [{"crop": prediction, "probability": 1.0}]
             
-        return {
+        result = {
             "recommended_crop": prediction,
             "confidence_score": float(confidence_score),
             "top_5_recommendations": top_5_recommendations,
             "all_probabilities": probabilities,
             "transformed_features": transformed_arr[0].tolist()
         }
+        return self._to_native(result)
 
     def predict_batch(self, raw_inputs: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         """
