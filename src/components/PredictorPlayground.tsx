@@ -739,7 +739,7 @@ export default function PredictorPlayground() {
       setLoading(true);
       stopSpeakingAdvisory();
       const activeLang = typeof customLang === "string" ? customLang : language;
-      const res = await fetch("/api/predict", {
+      const res = await fetch("https://smart-crop-api-gvf5.onrender.com/predict", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
