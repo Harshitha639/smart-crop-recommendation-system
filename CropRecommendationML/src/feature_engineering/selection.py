@@ -133,7 +133,7 @@ def run_feature_selection(
     feature_names: List[str],
     collinearity_threshold: float = 0.90,
     top_n_mi: int = None
-) -> Tuple[np.ndarray, np.ndarray, List[str]]:
+) -> Tuple[np.ndarray, np.ndarray, List[str],List[int]]:
     """
     Combines collinearity dropping and Mutual Information selection into a final set.
     """
@@ -165,8 +165,14 @@ def run_feature_selection(
         X_test_final = X_test_filtered[:, final_indices]
         
         logger.info(f"Feature selection complete. Reduced features from {len(feature_names)} to {top_n_mi}.")
-        return X_train_final, X_test_final, selected_names
-    
+        selected_original_indices = [keep_indices[i] for i in final_indices]
+
+        return (
+            X_train_final,
+            X_test_final,
+            selected_names,
+            selected_original_indices
+        )
     # If no top_n_mi, just drop features with MI_Score == 0.0
     active_features_df = mi_rankings[mi_rankings["MI_Score"] > 0.001]
     selected_names = active_features_df["Feature"].tolist()
@@ -177,4 +183,11 @@ def run_feature_selection(
     
     logger.info(f"Dropped features with zero mutual information. Active features: {len(selected_names)}/{len(filtered_names)}")
     
-    return X_train_final, X_test_final, selected_names
+    selected_original_indices = [keep_indices[i] for i in final_indices]
+
+    return (
+        X_train_final,
+        X_test_final,
+        selected_names,
+        selected_original_indices
+    )

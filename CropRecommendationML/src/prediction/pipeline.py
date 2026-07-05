@@ -48,7 +48,12 @@ class CropPredictor:
             logger.info(f"Loaded feature names list ({len(self.selected_features)} features).")
         else:
             self.selected_features = None
-            
+        indices_path = os.path.join(config.MODELS_DIR, "selected_feature_indices.joblib")
+
+        if not os.path.exists(indices_path):
+            raise FileNotFoundError("selected_feature_indices.joblib not found")
+
+        self.selected_indices = joblib.load(indices_path)
         # Extract original classes
         if hasattr(self.model, "classes_"):
             self.classes_ = self.model.classes_.tolist()
@@ -60,15 +65,15 @@ class CropPredictor:
         """
         Ensures user input conforms to schema expectations and fills missing keys with NaNs.
         """
-        # Ensure proper key spacing / capitalization
         cleaned_input = {}
 
-        KEY_MAP = {
+        key_map = {
             "nitrogen": "Nitrogen",
             "phosphorus": "Phosphorus",
             "potassium": "Potassium",
             "ph": "Soil_pH",
-            "soil_pH": "Soil_pH",
+            "soil_ph": "Soil_pH",
+            "soil_ph": "Soil_pH",
             "moisture": "Soil_Moisture",
             "soil_moisture": "Soil_Moisture",
             "soil_type": "Soil_Type",
@@ -90,45 +95,51 @@ class CropPredictor:
             "water_availability": "Water_Availability",
             "groundwater_level": "Groundwater_Level",
             "season": "Season",
-            "month": "Month"
+            "month": "Month",
         }
 
-for key, value in user_input.items():
-    mapped = KEY_MAP.get(key.lower(), key)
-    cleaned_input[mapped] = value
-        # Create single row DataFrame
+        for key, value in user_input.items():
+            mapped = key_map.get(key.lower(), key)
+            cleaned_input[mapped] = value
+
         input_df = pd.DataFrame([cleaned_input])
-        
-        # Ensure all required features exist in the DataFrame in correct order
+
         for feature in config.ALL_FEATURES:
             if feature not in input_df.columns:
                 logger.debug(f"Input feature missing: '{feature}'. Initializing with NaN.")
                 input_df[feature] = np.nan
-                
-        # Fill in engineered features on the fly
-        npk_sum = input_df["Nitrogen"].fillna(80.0) + input_df["Phosphorus"].fillna(45.0) + input_df["Potassium"].fillna(40.0) + 1e-5
+
+        npk_sum = (
+            input_df["Nitrogen"].fillna(80.0)
+            + input_df["Phosphorus"].fillna(45.0)
+            + input_df["Potassium"].fillna(40.0)
+            + 1e-5
+        )
         input_df["NPK_Ratio_N"] = input_df["Nitrogen"].fillna(80.0) / npk_sum
         input_df["NPK_Ratio_P"] = input_df["Phosphorus"].fillna(45.0) / npk_sum
         input_df["NPK_Ratio_K"] = input_df["Potassium"].fillna(40.0) / npk_sum
-        
-        base_npk = (input_df["Nitrogen"].fillna(80.0) * 0.4 + input_df["Phosphorus"].fillna(45.0) * 0.3 + input_df["Potassium"].fillna(40.0) * 0.3)
+
+        base_npk = (
+            input_df["Nitrogen"].fillna(80.0) * 0.4
+            + input_df["Phosphorus"].fillna(45.0) * 0.3
+            + input_df["Potassium"].fillna(40.0) * 0.3
+        )
         oc_factor = input_df["Organic_Carbon"].fillna(0.75) / 0.8
         ph_penalty = 1.0 - np.minimum(0.5, np.abs(input_df["Soil_pH"].fillna(6.5) - 6.5) / 3.0)
         input_df["Soil_Fertility_Index"] = base_npk * oc_factor * ph_penalty
-        
+
         rain_val = input_df["Rainfall"].fillna(100.0).iloc[0]
         input_df["Rainfall_Category_Code"] = 0 if rain_val < 80.0 else (1 if rain_val <= 150.0 else 2)
-        
+
         temp_val = input_df["Temperature"].fillna(25.0).iloc[0]
         input_df["Temperature_Category_Code"] = 0 if temp_val < 18.0 else (1 if temp_val < 26.0 else (2 if temp_val < 32.0 else 3))
-        
+
         season_val = input_df["Season"].fillna("Kharif").iloc[0]
         season_map = {"Rabi": 0, "Kharif": 1, "Annual": 2}
         input_df["Season_Code"] = season_map.get(season_val, 1)
-        
+
         input_df["Crop_Suitability_Score"] = 0.85
-                
-        # Reorder to match exactly
+
         return input_df[config.ALL_FEATURES]
 
     def predict_single(self, raw_input: Dict[str, Any]) -> Dict[str, Any]:
@@ -146,8 +157,9 @@ for key, value in user_input.items():
         
         # 2. Transform using pipeline preprocessor
         transformed_arr = self.preprocessor.transform(formatted_df)
-        
-        # 3. Model predict
+
+        transformed_arr = transformed_arr[:, self.selected_indices]
+
         prediction = self.model.predict(transformed_arr)[0]
         
         # 4. Calculate Probabilities

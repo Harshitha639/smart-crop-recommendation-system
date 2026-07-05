@@ -93,7 +93,7 @@ def main():
     print("DEBUG 4")
     # Step 3: Feature Engineering & Selection
     # Drop highly collinear variables (threshold 0.85) and retain highly informative ones
-    X_train_sel, X_test_sel, selected_features = run_feature_selection(
+    X_train_sel, X_test_sel, selected_features, selected_indices = run_feature_selection(
         X_train=X_train,
         X_test=X_test,
         y_train=y_train,
@@ -102,12 +102,16 @@ def main():
     )
     
     # Save the selected feature names specifically
-    joblib.dump(selected_features, config.FEATURE_NAMES_PATH)
+    joblib.dump(
+        selected_indices,
+        os.path.join(config.MODELS_DIR, "selected_feature_indices.joblib")
+    )
     logger.info(f"Final features selected for modeling: {selected_features}")
     from sklearn.preprocessing import LabelEncoder
 
     label_encoder = LabelEncoder()
 
+    # Encode target labels for consistent modeling across all classifiers
     y_train_encoded = label_encoder.fit_transform(y_train)
     y_test_encoded = label_encoder.transform(y_test)
     # Step 4: Model Training and Benchmarking
@@ -118,28 +122,16 @@ def main():
     for model_name, model in models_dict.items():
         logger.info(f"--- Training & Evaluating: {model_name} ---")
         try:
-            # Fit model
-            if model_name in ["XGBoost", "CatBoost", "LightGBM"]:
-                model.fit(X_train_sel, y_train_encoded)
+            # Fit model using encoded labels for consistency
+            model.fit(X_train_sel, y_train_encoded)
 
-                metrics = evaluate_classifier(
-                    model,
-                    X_train_sel,
-                    y_train_encoded,
-                    X_test_sel,
-                    y_test_encoded
-                )
-
-            else:
-                model.fit(X_train_sel, y_train)
-
-                metrics = evaluate_classifier(
-                    model,
-                    X_train_sel,
-                    y_train,
-                    X_test_sel,
-                    y_test
-                )
+            metrics = evaluate_classifier(
+                model,
+                X_train_sel,
+                y_train_encoded,
+                X_test_sel,
+                y_test_encoded
+            )
             evaluation_results[model_name] = metrics
             
             logger.info(f"Model: {model_name} | Accuracy: {metrics['Accuracy']:.4f} | F1: {metrics['F1_Score']:.4f}")
@@ -155,13 +147,23 @@ def main():
     logger.info(f"*** AUTOMATIC BEST MODEL SELECTED: {best_model_name} ***")
     
     best_fitted_model = models_dict[best_model_name]
-    classes = sorted(list(set(y_test)))
-    
+    # Use decoded class labels for reporting/plots
+    classes = label_encoder.classes_.tolist()
+
+    # Decode predicted labels for confusion matrix plotting
+    y_test_decoded = label_encoder.inverse_transform(y_test_encoded)
+    y_pred_encoded = evaluation_results[best_model_name]["y_pred"]
+    try:
+        y_pred_decoded = label_encoder.inverse_transform(y_pred_encoded)
+    except Exception:
+        # If predictions are already decoded or mapping fails, fall back
+        y_pred_decoded = y_pred_encoded
+
     # Save confusion matrix for best model
     plot_confusion_matrix(
-        y_test=y_test, 
-        y_pred=evaluation_results[best_model_name]["y_pred"], 
-        classes=classes, 
+        y_test=y_test_decoded,
+        y_pred=y_pred_decoded,
+        classes=classes,
         model_name=best_model_name
     )
 

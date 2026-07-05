@@ -66,6 +66,7 @@ export const SOIL_TYPE_TRANSLATIONS: Record<Language, Record<string, string>> = 
 };
 
 export interface Translations {
+  [key: string]: any;
   appName: string;
   appSubtitle: string;
   pipelineTag: string;
