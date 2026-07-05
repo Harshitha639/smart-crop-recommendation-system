@@ -74,16 +74,16 @@ B. Local Explainability (LIME):
 LIME local explanation for test instance index 0:
 Predicted Crop: orange (Confidence: 99.67%)
 Local feature attributions for this specific recommendation:
-  - Crop_Suitability_Score <= -0.59    : Impact = +0.066448
-  - Potassium <= -0.78                 : Impact = +0.062727
-  - District_Kozhikode <= 0.00         : Impact = -0.058669
-  - District_Khammam <= 0.00           : Impact = +0.055209
-  - Phosphorus <= -0.79                : Impact = +0.054820
-  - NPK_Ratio_K <= -0.74               : Impact = +0.046197
-  - Sunshine_Hours > 0.63              : Impact = +0.038059
-  - District_Sirsa <= 0.00             : Impact = -0.031468
-  - District_Nizamabad <= 0.00         : Impact = +0.026296
-  - District_Karnal <= 0.00            : Impact = -0.025546
+  - District_Khammam <= 0.00           : Impact = -0.073593
+  - Crop_Suitability_Score <= -0.59    : Impact = +0.066510
+  - Potassium <= -0.78                 : Impact = +0.063160
+  - District_Kozhikode <= 0.00         : Impact = -0.058162
+  - Phosphorus <= -0.79                : Impact = +0.049155
+  - District_Barpeta <= 0.00           : Impact = +0.045597
+  - NPK_Ratio_K <= -0.74               : Impact = +0.042753
+  - District_Cuttack <= 0.00           : Impact = -0.038822
+  - District_Kottayam <= 0.00          : Impact = -0.037107
+  - District_Warangal <= 0.00          : Impact = -0.015842
 
 ================================================================================
                   REPORT GENERATION SUCCESSFUL - END OF FILE                    

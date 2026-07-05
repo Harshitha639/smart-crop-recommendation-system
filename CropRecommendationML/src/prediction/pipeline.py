@@ -45,6 +45,7 @@ class CropPredictor:
         model_path: str = config.BEST_MODEL_PATH,
         feature_names_path: str = config.FEATURE_NAMES_PATH,
         feature_selector_path: str = config.FEATURE_SELECTOR_PATH,
+        label_encoder_path: str = config.LABEL_ENCODER_PATH,
     ):
         logger.info("Initializing CropPredictor pipeline...")
         
@@ -79,8 +80,17 @@ class CropPredictor:
                 raise FileNotFoundError("selected_feature_indices.joblib not found")
 
             self.selected_indices = joblib.load(indices_path)
+
+        self.label_encoder = None
+        if os.path.exists(label_encoder_path):
+            self.label_encoder = joblib.load(label_encoder_path)
+            logger.info("Loaded label encoder.")
+
         # Extract original classes
-        if hasattr(self.model, "classes_"):
+        if self.label_encoder is not None:
+            self.classes_ = self.label_encoder.classes_.tolist()
+            logger.info(f"Loaded target classes ({len(self.classes_)} crops).")
+        elif hasattr(self.model, "classes_"):
             self.classes_ = self.model.classes_.tolist()
             logger.info(f"Loaded target classes ({len(self.classes_)} crops).")
         else:
@@ -194,7 +204,11 @@ class CropPredictor:
                 f"but model expects {self.model.n_features_in_}."
             )
 
-        prediction = self.model.predict(transformed_arr)[0]
+        encoded_prediction = self.model.predict(transformed_arr)[0]
+        if self.label_encoder is not None:
+            prediction = self.label_encoder.inverse_transform([encoded_prediction])[0]
+        else:
+            prediction = encoded_prediction
         
         # 4. Calculate Probabilities
         probabilities = {}
@@ -204,8 +218,9 @@ class CropPredictor:
         if hasattr(self.model, "predict_proba"):
             probs_arr = self.model.predict_proba(transformed_arr)[0]
             
-            # Map classes to their probabilities
-            probabilities = {self.classes_[i]: float(probs_arr[i]) for i in range(len(self.classes_))}
+            # Map encoded model classes to human-readable labels when available
+            class_labels = self.label_encoder.classes_.tolist() if self.label_encoder is not None else self.classes_
+            probabilities = {class_labels[i]: float(probs_arr[i]) for i in range(len(class_labels))}
             
             # Sort to get top 5
             sorted_probs = sorted(probabilities.items(), key=lambda item: item[1], reverse=True)

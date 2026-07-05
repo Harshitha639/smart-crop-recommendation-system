@@ -111,6 +111,8 @@ def main():
     # Encode target labels for consistent modeling across all classifiers
     y_train_encoded = label_encoder.fit_transform(y_train)
     y_test_encoded = label_encoder.transform(y_test)
+    joblib.dump(label_encoder, config.LABEL_ENCODER_PATH)
+    logger.info(f"Saved label encoder to {config.LABEL_ENCODER_PATH}")
     # Step 4: Model Training and Benchmarking
     models_dict = get_all_models()
     evaluation_results = {}
