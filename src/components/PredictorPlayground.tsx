@@ -683,39 +683,54 @@ export default function PredictorPlayground() {
   };
 
   const fetchWeatherForLocation = async (state: string, district: string) => {
-    const coords = REGIONAL_COORDINATES[state]?.[district];
-    if (!coords) return;
-    try {
-      setWeatherLoading(true);
-      setWeatherMessage("Accessing meteorology logs...");
-      const url = `https://api.open-meteo.com/v1/forecast?latitude=${coords.lat}&longitude=${coords.lon}&current=temperature_2m,relative_humidity_2m,rain&timezone=auto`;
-      const res = await fetch(url);
-      const apiData = await res.json();
-      const data = {
-        success: true,
-        temperature: Math.round(apiData.current.temperature_2m * 10) / 10,
-        humidity: Math.round(apiData.current.relative_humidity_2m),
-        rain: apiData.current.rain > 0 ? Math.round(apiData.current.rain * 100) : 95.0
-      };
-      if (data.success) {
-        setForm(prev => ({
-          ...prev,
-          temperature: data.temperature,
-          humidity: data.humidity,
-          rainfall: data.rain
-        }));
-        setWeatherMessage(`Live Weather Auto-Filled! Temp: ${data.temperature}°C, Humid: ${data.humidity}%, Rain: ${data.rain}mm.`);
-      } else {
-        setWeatherMessage("API offline. Default parameters maintained.");
-      }
-    } catch (err) {
-      console.error(err);
-      setWeatherMessage("Meteorological service connection error.");
-    } finally {
-      setWeatherLoading(false);
-    }
-  };
+  const coords = REGIONAL_COORDINATES[state]?.[district];
+  if (!coords) return;
 
+  try {
+    setWeatherLoading(true);
+    setWeatherMessage("Accessing meteorology logs...");
+
+    const url = `https://api.open-meteo.com/v1/forecast?latitude=${coords.lat}&longitude=${coords.lon}&current=temperature_2m,relative_humidity_2m,rain&timezone=auto`;
+
+    const res = await fetch(url);
+
+    if (!res.ok) {
+      throw new Error("Weather API request failed");
+    }
+
+    const apiData = await res.json();
+
+    if (!apiData.current) {
+      throw new Error("Invalid weather response");
+    }
+
+    const data = {
+      success: true,
+      temperature: Math.round(apiData.current.temperature_2m * 10) / 10,
+      humidity: Math.round(apiData.current.relative_humidity_2m),
+      rain: apiData.current.rain > 0
+        ? Math.round(apiData.current.rain * 100)
+        : 95.0
+    };
+
+    setForm(prev => ({
+      ...prev,
+      temperature: data.temperature,
+      humidity: data.humidity,
+      rainfall: data.rain
+    }));
+
+    setWeatherMessage(
+      `Live Weather Auto-Filled! Temp: ${data.temperature}°C, Humid: ${data.humidity}%, Rain: ${data.rain} mm.`
+    );
+
+  } catch (err) {
+    console.error(err);
+    setWeatherMessage("Meteorological service connection error.");
+  } finally {
+    setWeatherLoading(false);
+  }
+};
   const handleStateChange = (state: string) => {
     setSelectedState(state);
     setSelectedDistrict("");
