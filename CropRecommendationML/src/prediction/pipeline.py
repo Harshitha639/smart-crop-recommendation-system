@@ -26,7 +26,8 @@ class CropPredictor:
         self, 
         preprocessor_path: str = config.PREPROCESSOR_PATH,
         model_path: str = config.BEST_MODEL_PATH,
-        feature_names_path: str = config.FEATURE_NAMES_PATH
+        feature_names_path: str = config.FEATURE_NAMES_PATH,
+        feature_selector_path: str = config.FEATURE_SELECTOR_PATH,
     ):
         logger.info("Initializing CropPredictor pipeline...")
         
@@ -42,18 +43,25 @@ class CropPredictor:
         self.model = joblib.load(model_path)
         logger.info("Loaded trained classification model.")
         
-        # Load final trained feature names (after preprocessor)
-        if os.path.exists(feature_names_path):
-            self.selected_features = joblib.load(feature_names_path)
-            logger.info(f"Loaded feature names list ({len(self.selected_features)} features).")
+        self.feature_selector = None
+        self.selected_features = None
+        self.selected_indices = None
+
+        if os.path.exists(feature_selector_path):
+            self.feature_selector = joblib.load(feature_selector_path)
+            self.selected_features = getattr(self.feature_selector, "selected_feature_names_", None)
+            self.selected_indices = getattr(self.feature_selector, "selected_indices_", None)
+            logger.info("Loaded fitted feature selector.")
         else:
-            self.selected_features = None
-        indices_path = os.path.join(config.MODELS_DIR, "selected_feature_indices.joblib")
+            if os.path.exists(feature_names_path):
+                self.selected_features = joblib.load(feature_names_path)
+                logger.info(f"Loaded feature names list ({len(self.selected_features)} features).")
 
-        if not os.path.exists(indices_path):
-            raise FileNotFoundError("selected_feature_indices.joblib not found")
+            indices_path = config.SELECTED_FEATURE_INDICES_PATH
+            if not os.path.exists(indices_path):
+                raise FileNotFoundError("selected_feature_indices.joblib not found")
 
-        self.selected_indices = joblib.load(indices_path)
+            self.selected_indices = joblib.load(indices_path)
         # Extract original classes
         if hasattr(self.model, "classes_"):
             self.classes_ = self.model.classes_.tolist()
@@ -155,10 +163,19 @@ class CropPredictor:
         # 1. Format input
         formatted_df = self._validate_and_format_input(raw_input)
         
-        # 2. Transform using pipeline preprocessor
+        # 2. Transform using pipeline preprocessor and the fitted feature selector
         transformed_arr = self.preprocessor.transform(formatted_df)
 
-        transformed_arr = transformed_arr[:, self.selected_indices]
+        if self.feature_selector is not None:
+            transformed_arr = self.feature_selector.transform(transformed_arr)
+        else:
+            transformed_arr = transformed_arr[:, self.selected_indices]
+
+        if getattr(self.model, "n_features_in_", None) is not None and transformed_arr.shape[1] != self.model.n_features_in_:
+            raise ValueError(
+                f"Feature mismatch: transformed input has {transformed_arr.shape[1]} features, "
+                f"but model expects {self.model.n_features_in_}."
+            )
 
         prediction = self.model.predict(transformed_arr)[0]
         

@@ -27,7 +27,7 @@ Target crop classes: 22 (apple, banana, blackgram, chickpea, coconut, coffee, co
 Support Vector Machine  1.000000           1.000000        1.000000          1.000000            0.997159 1.000000
               CatBoost  1.000000           1.000000        1.000000          1.000000            0.999432 1.000000
               LightGBM  0.993182           0.993398        0.993182          0.993179            0.996023 0.999995
-               XGBoost  0.993182           0.993398        0.993182          0.993179            0.994886 1.000000
+               XGBoost  0.993182           0.993398        0.993182          0.993179            0.992614 1.000000
      Gradient Boosting  0.993182           0.993398        0.993182          0.993179            0.996591 0.999995
          Decision Tree  0.993182           0.993506        0.993182          0.993178            0.993750 0.996429
   Gaussian Naive Bayes  0.988636           0.989112        0.988636          0.988612            0.985227 0.996242
@@ -74,16 +74,16 @@ B. Local Explainability (LIME):
 LIME local explanation for test instance index 0:
 Predicted Crop: orange (Confidence: 99.67%)
 Local feature attributions for this specific recommendation:
-  - District_Warangal <= 0.00          : Impact = -0.084495
-  - Crop_Suitability_Score <= -0.59    : Impact = +0.067765
-  - Potassium <= -0.78                 : Impact = +0.059590
-  - Soil_Fertility_Index <= -0.80      : Impact = +0.047228
-  - NPK_Ratio_K <= -0.74               : Impact = +0.046013
-  - Phosphorus <= -0.79                : Impact = +0.044515
-  - District_Coimbatore <= 0.00        : Impact = +0.031122
-  - District_Nashik <= 0.00            : Impact = -0.030103
-  - District_Cuttack <= 0.00           : Impact = -0.028982
-  - Nitrogen <= -0.80                  : Impact = +0.028012
+  - Crop_Suitability_Score <= -0.59    : Impact = +0.074564
+  - Potassium <= -0.78                 : Impact = +0.061732
+  - NPK_Ratio_K <= -0.74               : Impact = +0.053208
+  - Phosphorus <= -0.79                : Impact = +0.051721
+  - District_Sirsa <= 0.00             : Impact = -0.040618
+  - District_Anantnag <= 0.00          : Impact = -0.040046
+  - District_Puri <= 0.00              : Impact = +0.039820
+  - District_Kottayam <= 0.00          : Impact = -0.037011
+  - Humidity > 0.83                    : Impact = +0.033922
+  - District_Chittoor <= 0.00          : Impact = -0.027311
 
 ================================================================================
                   REPORT GENERATION SUCCESSFUL - END OF FILE                    

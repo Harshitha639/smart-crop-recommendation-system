@@ -17,7 +17,7 @@ from sklearn.model_selection import RandomizedSearchCV
 import config
 from src.utils.logger import get_logger
 from src.preprocessing.pipeline import preprocess_data
-from src.feature_engineering.selection import run_feature_selection
+from src.feature_engineering.selection import FeatureSelector
 from src.models.models import get_all_models
 from src.evaluation.evaluator import evaluate_classifier, generate_comparison_report, plot_confusion_matrix
 from src.explainability.explainer import run_shap_analysis, explain_local_prediction
@@ -92,20 +92,17 @@ def main():
     X_train, X_test, y_train, y_test, initial_features, preprocessor = preprocess_data()
     print("DEBUG 4")
     # Step 3: Feature Engineering & Selection
-    # Drop highly collinear variables (threshold 0.85) and retain highly informative ones
-    X_train_sel, X_test_sel, selected_features, selected_indices = run_feature_selection(
-        X_train=X_train,
-        X_test=X_test,
-        y_train=y_train,
+    selector = FeatureSelector(
         feature_names=initial_features,
-        collinearity_threshold=0.85
+        collinearity_threshold=0.85,
     )
-    
-    # Save the selected feature names specifically
-    joblib.dump(
-        selected_indices,
-        os.path.join(config.MODELS_DIR, "selected_feature_indices.joblib")
-    )
+    X_train_sel = selector.fit_transform(X_train, y_train)
+    X_test_sel = selector.transform(X_test)
+    selected_features = selector.selected_feature_names_
+    selected_indices = selector.selected_indices_
+
+    joblib.dump(selector, config.FEATURE_SELECTOR_PATH)
+    joblib.dump(selected_indices, config.SELECTED_FEATURE_INDICES_PATH)
     logger.info(f"Final features selected for modeling: {selected_features}")
     from sklearn.preprocessing import LabelEncoder
 

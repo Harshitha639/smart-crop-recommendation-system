@@ -29,6 +29,8 @@ PROCESSED_DATA_PATH = os.path.join(PROCESSED_DATA_DIR, "crop_recommendation_proc
 PREPROCESSOR_PATH = os.path.join(MODELS_DIR, "preprocessor_pipeline.joblib")
 BEST_MODEL_PATH = os.path.join(MODELS_DIR, "best_crop_recommendation_model.joblib")
 FEATURE_NAMES_PATH = os.path.join(MODELS_DIR, "feature_names.joblib")
+FEATURE_SELECTOR_PATH = os.path.join(MODELS_DIR, "feature_selector.joblib")
+SELECTED_FEATURE_INDICES_PATH = os.path.join(MODELS_DIR, "selected_feature_indices.joblib")
 
 # ==============================================================================
 # 2. FEATURE GROUPS

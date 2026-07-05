@@ -12,13 +12,81 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-from typing import List, Tuple, Dict
+from typing import List, Tuple, Dict, Optional
 from sklearn.feature_selection import mutual_info_classif
+from sklearn.base import BaseEstimator, TransformerMixin
 
 import config
 from src.utils.logger import get_logger
 
 logger = get_logger("FeatureSelection")
+
+
+class FeatureSelector(BaseEstimator, TransformerMixin):
+    """
+    Reusable feature-selection transformer that fits on preprocessed features
+    and applies the same selected columns during training and inference.
+    """
+
+    def __init__(
+        self,
+        feature_names: Optional[List[str]] = None,
+        collinearity_threshold: float = 0.90,
+        top_n_mi: Optional[int] = None,
+    ):
+        self.feature_names = feature_names
+        self.collinearity_threshold = collinearity_threshold
+        self.top_n_mi = top_n_mi
+        self.selected_indices_ = None
+        self.selected_feature_names_ = None
+        self.keep_indices_ = None
+        self.n_features_in_ = None
+
+    def fit(self, X: np.ndarray, y: np.ndarray):
+        if self.feature_names is None:
+            raise ValueError("feature_names must be provided before fitting the selector")
+        if X.shape[1] != len(self.feature_names):
+            raise ValueError(
+                f"Feature name count ({len(self.feature_names)}) does not match matrix column count ({X.shape[1]})!"
+            )
+
+        collinear_drops, _ = identify_collinear_features(
+            X,
+            self.feature_names,
+            threshold=self.collinearity_threshold,
+        )
+        self.keep_indices_ = [
+            i for i, name in enumerate(self.feature_names) if name not in collinear_drops
+        ]
+
+        X_filtered = X[:, self.keep_indices_]
+        filtered_names = [self.feature_names[i] for i in self.keep_indices_]
+        mi_rankings = compute_mutual_information(X_filtered, y, filtered_names)
+
+        if self.top_n_mi and self.top_n_mi < len(filtered_names):
+            selected_names = mi_rankings.head(self.top_n_mi)["Feature"].tolist()
+            final_indices = [filtered_names.index(name) for name in selected_names]
+        else:
+            active_features_df = mi_rankings[mi_rankings["MI_Score"] > 0.001]
+            selected_names = active_features_df["Feature"].tolist()
+            final_indices = [filtered_names.index(name) for name in selected_names]
+
+        self.selected_feature_names_ = selected_names
+        self.selected_indices_ = [self.keep_indices_[i] for i in final_indices]
+        self.n_features_in_ = X.shape[1]
+        return self
+
+    def transform(self, X: np.ndarray) -> np.ndarray:
+        if self.selected_indices_ is None:
+            raise RuntimeError("FeatureSelector must be fitted before transform().")
+        if X.shape[1] != self.n_features_in_:
+            raise ValueError(
+                f"Expected {self.n_features_in_} features, but received {X.shape[1]}."
+            )
+        return X[:, self.selected_indices_]
+
+    def fit_transform(self, X: np.ndarray, y: np.ndarray) -> np.ndarray:
+        return self.fit(X, y).transform(X)
 
 
 def compute_mutual_information(
@@ -133,61 +201,27 @@ def run_feature_selection(
     feature_names: List[str],
     collinearity_threshold: float = 0.90,
     top_n_mi: int = None
-) -> Tuple[np.ndarray, np.ndarray, List[str],List[int]]:
+) -> Tuple[np.ndarray, np.ndarray, List[str], List[int]]:
     """
     Combines collinearity dropping and Mutual Information selection into a final set.
     """
     logger.info("Running integrated feature selection...")
-    
-    # 1. Drop highly collinear variables
-    collinear_drops, _ = identify_collinear_features(X_train, feature_names, threshold=collinearity_threshold)
-    
-    # Get index positions of non-collinear features
-    keep_indices = [i for i, name in enumerate(feature_names) if name not in collinear_drops]
-    
-    X_train_filtered = X_train[:, keep_indices]
-    X_test_filtered = X_test[:, keep_indices]
-    filtered_names = [feature_names[i] for i in keep_indices]
-    
-    logger.info(f"Removed {len(collinear_drops)} collinear columns. Remaining: {X_train_filtered.shape[1]}")
-    
-    # 2. Compute MI rankings on filtered features
-    mi_rankings = compute_mutual_information(X_train_filtered, y_train, filtered_names)
-    
-    # 3. Drop features with extremely low Mutual Information (or select top_n_mi)
-    if top_n_mi and top_n_mi < len(filtered_names):
-        logger.info(f"Selecting top {top_n_mi} features by Mutual Information score...")
-        selected_names = mi_rankings.head(top_n_mi)["Feature"].tolist()
-        
-        # Re-index arrays to top-N
-        final_indices = [filtered_names.index(name) for name in selected_names]
-        X_train_final = X_train_filtered[:, final_indices]
-        X_test_final = X_test_filtered[:, final_indices]
-        
-        logger.info(f"Feature selection complete. Reduced features from {len(feature_names)} to {top_n_mi}.")
-        selected_original_indices = [keep_indices[i] for i in final_indices]
 
-        return (
-            X_train_final,
-            X_test_final,
-            selected_names,
-            selected_original_indices
-        )
-    # If no top_n_mi, just drop features with MI_Score == 0.0
-    active_features_df = mi_rankings[mi_rankings["MI_Score"] > 0.001]
-    selected_names = active_features_df["Feature"].tolist()
-    
-    final_indices = [filtered_names.index(name) for name in selected_names]
-    X_train_final = X_train_filtered[:, final_indices]
-    X_test_final = X_test_filtered[:, final_indices]
-    
-    logger.info(f"Dropped features with zero mutual information. Active features: {len(selected_names)}/{len(filtered_names)}")
-    
-    selected_original_indices = [keep_indices[i] for i in final_indices]
+    selector = FeatureSelector(
+        feature_names=feature_names,
+        collinearity_threshold=collinearity_threshold,
+        top_n_mi=top_n_mi,
+    )
+    X_train_final = selector.fit_transform(X_train, y_train)
+    X_test_final = selector.transform(X_test)
+
+    logger.info(
+        f"Feature selection complete. Reduced features from {len(feature_names)} to {len(selector.selected_feature_names_)}."
+    )
 
     return (
         X_train_final,
         X_test_final,
-        selected_names,
-        selected_original_indices
+        selector.selected_feature_names_,
+        selector.selected_indices_,
     )
