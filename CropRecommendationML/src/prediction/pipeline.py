@@ -62,14 +62,40 @@ class CropPredictor:
         """
         # Ensure proper key spacing / capitalization
         cleaned_input = {}
-        for key, val in user_input.items():
-            # Clean underscores or capitalization
-            norm_key = key.replace(" ", "_").capitalize()
-            # Handle acronyms or special names
-            if norm_key == "Soil_ph":
-                norm_key = "Soil_pH"
-            cleaned_input[norm_key] = val
-            
+
+        KEY_MAP = {
+            "nitrogen": "Nitrogen",
+            "phosphorus": "Phosphorus",
+            "potassium": "Potassium",
+            "ph": "Soil_pH",
+            "soil_pH": "Soil_pH",
+            "moisture": "Soil_Moisture",
+            "soil_moisture": "Soil_Moisture",
+            "soil_type": "Soil_Type",
+            "temperature": "Temperature",
+            "humidity": "Humidity",
+            "rainfall": "Rainfall",
+            "organic_carbon": "Organic_Carbon",
+            "electrical_conductivity": "Electrical_Conductivity",
+            "wind_speed": "Wind_Speed",
+            "solar_radiation": "Solar_Radiation",
+            "sunshine_hours": "Sunshine_Hours",
+            "state": "State",
+            "district": "District",
+            "latitude": "Latitude",
+            "longitude": "Longitude",
+            "altitude": "Altitude",
+            "agro_climatic_zone": "Agro_Climatic_Zone",
+            "irrigation_type": "Irrigation_Type",
+            "water_availability": "Water_Availability",
+            "groundwater_level": "Groundwater_Level",
+            "season": "Season",
+            "month": "Month"
+        }
+
+for key, value in user_input.items():
+    mapped = KEY_MAP.get(key.lower(), key)
+    cleaned_input[mapped] = value
         # Create single row DataFrame
         input_df = pd.DataFrame([cleaned_input])
         
