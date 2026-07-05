@@ -1,6 +1,9 @@
 # Crop Recommendation ML Project Dependencies
 # Suitable for Python 3.12+
 
+Flask>=3.0.0
+gunicorn>=23.0.0
+
 numpy>=1.26.0
 pandas>=2.1.0
 scikit-learn>=1.4.0
