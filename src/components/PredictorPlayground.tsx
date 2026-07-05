@@ -688,8 +688,15 @@ export default function PredictorPlayground() {
     try {
       setWeatherLoading(true);
       setWeatherMessage("Accessing meteorology logs...");
-      const res = await fetch(`/api/weather?latitude=${coords.lat}&longitude=${coords.lon}`);
-      const data = await res.json();
+      const url = `https://api.open-meteo.com/v1/forecast?latitude=${coords.lat}&longitude=${coords.lon}&current=temperature_2m,relative_humidity_2m,rain&timezone=auto`;
+      const res = await fetch(url);
+      const apiData = await res.json();
+      const data = {
+        success: true,
+        temperature: Math.round(apiData.current.temperature_2m * 10) / 10,
+        humidity: Math.round(apiData.current.relative_humidity_2m),
+        rain: apiData.current.rain > 0 ? Math.round(apiData.current.rain * 100) : 95.0
+      };
       if (data.success) {
         setForm(prev => ({
           ...prev,
