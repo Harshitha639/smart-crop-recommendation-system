@@ -3,6 +3,7 @@ import path from "path";
 import fs from "fs";
 import { GoogleGenAI, Type } from "@google/genai";
 import { createServer as createViteServer } from "vite";
+import { spawn, ChildProcess } from "child_process";
 
 const app = express();
 const PORT = 3000;
@@ -1061,8 +1062,62 @@ app.get("/api/train-simulate", (req, res) => {
   })();
 });
 
+// ─── Flask ML Backend Auto-Launcher ────────────────────────────────────────
+const FLASK_CWD = path.join(process.cwd(), "CropRecommendationML");
+const FLASK_PORT = 5000;
+
+function spawnFlask(): ChildProcess {
+  console.log("[Flask] Starting Python ML backend on port", FLASK_PORT);
+
+  // Try python3 first, fall back to python (Windows)
+  const pythonCmd = process.platform === "win32" ? "python" : "python3";
+
+  const flaskProc = spawn(
+    pythonCmd,
+    ["-m", "flask", "run", "--host=0.0.0.0", `--port=${FLASK_PORT}`, "--no-debugger", "--no-reload"],
+    {
+      cwd: FLASK_CWD,
+      env: {
+        ...process.env,
+        FLASK_APP: "api.py",
+        FLASK_ENV: "development",
+        PYTHONUNBUFFERED: "1",
+        // Ensure CropRecommendationML is on PYTHONPATH so `import config` works
+        PYTHONPATH: FLASK_CWD,
+      },
+      stdio: "pipe",
+    }
+  );
+
+  flaskProc.stdout?.on("data", (d: Buffer) => {
+    process.stdout.write(`[Flask] ${d.toString()}`);
+  });
+  flaskProc.stderr?.on("data", (d: Buffer) => {
+    process.stderr.write(`[Flask] ${d.toString()}`);
+  });
+  flaskProc.on("error", (err) => {
+    console.error("[Flask] Failed to start Python process:", err.message);
+  });
+  flaskProc.on("exit", (code, signal) => {
+    if (code !== 0 && signal !== "SIGTERM" && signal !== "SIGINT") {
+      console.warn(`[Flask] Process exited unexpectedly (code=${code}, signal=${signal}). Restarting in 3s...`);
+      setTimeout(spawnFlask, 3000);
+    }
+  });
+
+  return flaskProc;
+}
+
 // Start dev server in development or serve static in production
 async function startServer() {
+  // Launch Flask ML backend automatically
+  const flaskProc = spawnFlask();
+
+  // Gracefully stop Flask when Node exits
+  process.on("exit", () => flaskProc.kill());
+  process.on("SIGINT", () => { flaskProc.kill(); process.exit(0); });
+  process.on("SIGTERM", () => { flaskProc.kill(); process.exit(0); });
+
   if (process.env.NODE_ENV !== "production") {
     const vite = await createViteServer({
       server: { middlewareMode: true },
@@ -1079,6 +1134,7 @@ async function startServer() {
 
   app.listen(PORT, "0.0.0.0", () => {
     console.log(`Server running on http://0.0.0.0:${PORT}`);
+    console.log(`[Flask] ML backend starting on http://0.0.0.0:${FLASK_PORT}`);
   });
 }
 

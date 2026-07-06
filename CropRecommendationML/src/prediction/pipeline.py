@@ -216,6 +216,12 @@ class CropPredictor:
         confidence_score = 1.0
         
         if hasattr(self.model, "predict_proba"):
+            # ── sklearn version-compatibility shim ─────────────────────────
+            # LogisticRegression serialized with sklearn ≥1.9 drops `multi_class`.
+            # Inject the attribute when missing so older installs don't crash.
+            if not hasattr(self.model, "multi_class"):
+                self.model.multi_class = "auto"
+            # ────────────────────────────────────────────────────────────────
             probs_arr = self.model.predict_proba(transformed_arr)[0]
             
             # Map encoded model classes to human-readable labels when available

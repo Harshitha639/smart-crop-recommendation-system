@@ -13,6 +13,7 @@ import { jsPDF } from "jspdf";
 import ShapWaterfall from "./ShapWaterfall";
 import UploadSoilCard from "./UploadSoilCard";
 import { useLanguage, CROP_TRANSLATIONS, SOIL_TYPE_TRANSLATIONS } from "../translations";
+import { buildApiUrl } from "../api";
 
 const CROP_METRICS: Record<string, any> = {
   "Rice": { yieldMin: 3.5, yieldMax: 5.5, waterReq: 1400, pricePerTonne: 21000, costPerHa: 35000, irrMethod: "Canal Flood", freq: "Keep flooded or water every 4-5 days" },
@@ -315,6 +316,7 @@ export default function PredictorPlayground() {
   const [loading, setLoading] = useState(false);
   const [weatherLoading, setWeatherLoading] = useState(false);
   const [weatherMessage, setWeatherMessage] = useState("");
+  const [predictionError, setPredictionError] = useState<string | null>(null);
 
   const [result, setResult] = useState<PredictionResult | null>(null);
   const [activeTab, setActiveTab] = useState<"advisory" | "economic" | "nutrients" | "water" | "attribution">("advisory");
@@ -761,7 +763,7 @@ export default function PredictorPlayground() {
       setLoading(true);
       stopSpeakingAdvisory();
       const activeLang = typeof customLang === "string" ? customLang : language;
-      const res = await fetch("https://smart-crop-api-gvf5.onrender.com/predict", {
+      const res = await fetch(buildApiUrl("/predict"), {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
@@ -772,12 +774,28 @@ export default function PredictorPlayground() {
           lang: activeLang
         })
       });
+
+      if (!res.ok) {
+        const errorText = await res.text();
+        console.error("Prediction API Error", res.status, errorText);
+        const message = errorText || res.statusText || `HTTP ${res.status}`;
+        throw new Error(message);
+      }
+
       const data = await res.json();
       if (data.success) {
         setResult(data);
+        setPredictionError(null);
+      } else {
+        const message = data.error || data.message || "Prediction failed with no details.";
+        console.error("Prediction API returned an error response", message);
+        setPredictionError(message);
+        throw new Error(message);
       }
     } catch (err) {
-      console.error("Failed to run ML prediction:", err);
+      const message = err instanceof Error ? err.message : String(err);
+      console.error("Failed to run ML prediction:", message);
+      setPredictionError(message);
     } finally {
       setLoading(false);
     }
@@ -1031,6 +1049,12 @@ export default function PredictorPlayground() {
               </>
             )}
           </button>
+
+          {predictionError && (
+            <div className="mt-3 rounded-xl border border-rose-200 bg-rose-50 p-3 text-sm text-rose-800">
+              <strong>Prediction Error:</strong> {predictionError}
+            </div>
+          )}
         </div>
       </div>
 
