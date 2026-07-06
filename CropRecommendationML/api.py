@@ -216,11 +216,19 @@ def build_profit_module(metrics: dict, yield_module: dict) -> dict:
 def home():
     return jsonify({"status": "running", "message": "Smart Crop Recommendation ML API"})
 
-
-@app.route("/predict", methods=["POST"])
+@app.route("/predict", methods=["GET", "POST"])
 def predict():
+
+    if request.method == "GET":
+        return jsonify({
+            "success": True,
+            "message": "Smart Crop Recommendation API is running. Use a POST request to /predict for predictions."
+        })
+
     try:
         data = request.get_json(force=True) or {}
+
+        # Your existing prediction code starts here...
 
         print("=" * 60)
         print("INPUT RECEIVED:", data)
