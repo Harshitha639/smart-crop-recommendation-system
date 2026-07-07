@@ -61,8 +61,8 @@ const CORRELATION_MATRIX = {
 function getHeatmapColor(val: number): string {
   const abs = Math.abs(val);
   if (val > 0) {
-    if (abs > 0.8) return "bg-red-600 text-white";
-    if (abs > 0.5) return "bg-red-400 text-white";
+    if (abs > 0.8) return "bg-red-600 text-slate-800";
+    if (abs > 0.5) return "bg-red-400 text-slate-800";
     if (abs > 0.2) return "bg-red-200 text-slate-800";
     return "bg-red-50 text-slate-600";
   } else {
